@@ -1,0 +1,403 @@
+https://www.downloadcrew.com
+Home - Software reviews, downloads, news, free trials, freeware and full commercial software - Downloadcrew
+14 January 2016 |
+23,566,667 Downloads |
+5,068 Reviews |
+311,643 Members |
+Login or
+Register
+Windows
+Mac
+Linux
+iPhone
+iPad
+Android
+Store
+Where am I?:
+Home
+Categories
+Audio, Video & Photo
+Backup & Recovery
+Design & Illustration
+Developer & Programming
+Disc Burning
+Finance & Accounts
+Games
+Hobbies & Home Entertainment
+Internet Tools
+Kids & Education
+Networking Tools
+Office & Business
+Operating Systems & Distros
+Portable Applications
+Security
+Social Networking
+System & Desktop Tools
+Login
+Username:
+Password:
+Remember Me
+Forgotten your password?
+No account?					Register here
+Newsletter
+Subscribe to either one of our two newsletters for regular updates and information
+Downloads newsletter
+This is a weekly newsletter with download news, updates and other information
+Store newsletter
+This is a monthly newsletter with software store information, offers and deals
+RSS Feeds
+Receive a regular RSS feed from our latest, most popular and recommended downloads
+Latest downloads feed
+Get a regular RSS from our most latest downloads
+Most popular downloads feed
+Get a regular RSS from our most popular downloads
+Recommended downloads feed
+Get a regular RSS from our recommended downloads
+Contributors
+Name
+Reviews
+Mike Williams
+3064
+Bob Thornton
+1427
+Nick Peers
+511
+Software Publisher
+125
+Neil Bothwick
+83
+Joe Cassels
+27
+Chris Wiles
+23
+Alan England
+9
+Spotlight: Featured Download
+Downloadcrew UpdateScanner 2.1.0.0
+Freeware
+Monday,
+21 December 2015
+The speed at which some programs update can be frightening. While some may alert you every time an update becomes available, quickly and (relatively) effortlessly installing the new version for you, others remain stubbornly outdated. Who knows what bug fixes, performance improvements and new features you might be missing out on?
+You can, of course, stay up to date by regularly trawling this very site for your favourite software, but why put yourself through all that hassle when this app exists to make the task of updating your software that much easier?
+The Downloadcrew UpdateScanner – as its name implies – will scan all of the software installed on your PC and compare it with our database. If there’s an updated version of your software on the site, you’ll be alerted to the fact.
+You can either review updates manually, click “Download them now” to view them all in a single, convenient window or report unrecognised applications to us for further investigation. You can then update the ones that interest you and, hey presto, job done.
+The app will then continue to monitor your system, alerting you to new updates as well as free software giveaways on the site, so you’ll never miss out on a full, free commercial app giveaway again.
+You’ll need a free Downloadcrew account to use the service – click here to register.
+Version 2 of the UpdateScanner features an "App Store" (name change forthcoming), alerting you to the latest and most popular downloads on the site, news and tips from sister site Softwarecrew and a selection of great savings to be made on software purchases.
+Important: note that the UpdateScanner does not support betas and unreleased versions. If you install an alpha, beta or newer version than we have on Downloadcrew, then you'll receive a notification than the installed version is newer than the latest version! Also, if a developer gives their software an obscure version number (Paragon Software products are good examples), then these are also unsupported.
+Build 2.1.0.0 is a minor maintenance release which includes these improvements/fixes:
+- Support for retina/HDPI panels
+- Windows 10 compatibility
+[...]
+Our Rating:
+Downloadcrew UpdateScanner 2.1.0.0
+Freeware
+Monday,
+21 December 2015
+The speed at which some programs update can be frightening. While some may alert you every time an update becomes available, quickly and (relatively) effortlessly installing the new version for you, others remain stubbornly outdated. Who knows what bug fixes, performance improvements and new features you might be missing out on?
+You can, of course, stay up to date by regularly trawling this very site for your favourite software, but why put yourself through all that hassle when this app exists to make the task of updating your software that much easier?
+The Downloadcrew UpdateScanner – as its name implies – will scan all of the software installed on your PC and compare it with our database. If there’s an updated version of your software on the site, you’ll be alerted to the fact.
+You can either review updates manually, click “Download them now” to view them all in a single, convenient window or report unrecognised applications to us for further investigation. You can then update the ones that interest you and, hey presto, job done.
+The app will then continue to monitor your system, alerting you to new updates as well as free software giveaways on the site, so you’ll never miss out on a full, free commercial app giveaway again.
+You’ll need a free Downloadcrew account to use the service – click here to register.
+Version 2 of the UpdateScanner features an "App Store" (name change forthcoming), alerting you to the latest and most popular downloads on the site, news and tips from sister site Softwarecrew and a selection of great savings to be made on software purchases.
+Important: note that the UpdateScanner does not support betas and unreleased versions. If you install an alpha, beta or newer version than we have on Downloadcrew, then you'll receive a notification than the installed version is newer than the latest version! Also, if a developer gives their software an obscure version number (Paragon Software products are good examples), then these are also unsupported.
+Build 2.1.0.0 is a minor maintenance release which includes these improvements/fixes:
+- Support for retina/HDPI panels
+- Windows 10 compatibility
+[...]
+Our Rating:
+Windows 10 with 'Threshold 2' Update
+Free during beta-testing
+Monday,
+16 November 2015
+This is the latest version of Windows - it's a media creation tool that can be used to upgrade an existing installation of Windows or create installation media for another PC. Just make your choice after launching the tool and it'll do the rest.
+What's new in Windows 10? The latest release brings back the Start Menu, though with a Windows 8 twist: live tiles keep you up-to-date with the latest news while also providing an easy way to launch apps. (Don't worry if you prefer the Start Screen, it's still there and you can boot into it if you prefer.)
+Apps now work much more like regular desktop programs. They have minimise, maximise, restore and close buttons, and can be resized (to a degree) and organised however you like.
+If you've still lost track of a program in the mass of open windows, a new Task Spaces feature can help. Click its taskbar button and you'll see thumbnails for everything running now, a little like OS X's Mission Control - just click something to switch to it.
+Better still, Task Spaces also supports virtual desktops. Add extra desktops as required and it'll display thumbnails of each one, making it easy to identify whatever you're after and switch to it.
+There's also smarter snapping, new customisation options, and even a bunch of experimental additions to the command prompt.
+Windows 10 is offered as a free upgrade to Windows 7 and 8/8.1 users in its first year - just run the tool to upgrade your existing version, but we'd first recommend you take a fail-safe backup, just in case - try EaseUS System GoBack Free if you don't have a drive-imaging tool to hand.
+The Windows 10 ISO here will give you build 1511 which includes the November 2015 'Threshold 2' update.
+Note: this will install the 32-bit version of Windows 10.
+[...]
+Our Rating:
+Opera 34.0.2036.47 FINAL
+Freeware
+Monday,
+11 January 2016
+It may not enjoy the same level of attention as other heavyweight web browsers, but there’s still a lot to like about Opera. Rebooted in June 2013 as a Chromium-based variant, the new Opera’s early history was a troubled one, with many long-established features absent. Even now, some aren’t coming back – specifically Opera’s old built-in mail client, which is available on its own as Opera Mail.
+The reboot was prompted by Opera’s decision to abandon its own proprietary web rendering engine (Presto) in favour of Google’s open-source Chromium engine. This left Opera room to focus more on the user interface, and while it’s taken a while to get all the key functionality back, Opera is now starting to fire on all cylinders, particularly now bookmark support has been restored after various failed attempts to move to a different way of storing favourites.
+The redesigned Start page gives you a choice of three views: Speed Dial lets you place key favourites front and centre via a series of tiles, which includes the ability to group related sites together. The Discover tab can be customised to show you news and updates from a variety of topics focused on your chosen location.
+And finally, the restored bookmarks can be displayed as a list or as a grid containing thumbnail preview images (or site icon). What was stored in the now-defunct Stash can be found here. It’s very flashy, but the key thing is it’s logical, and it works.
+Other handy features include Opera Turbo – technology also found on its mobile browser that compresses data while you browse to speed up website loading. It’s designed primarily for slower networks, but will work on any network you choose. Also look out for Tab Previews (simply roll your mouse over any tab for a pop-up preview of its contents, which are dynamically updated along with the page itself).
+Opera is still a work in progress, but it’s come a long way in the 15 months since we reviewed the first release of this new reboot. It’s now starting to feel like a genuine alternative to the better known browsers out there.
+What's new in Opera v34 (compared to the previous v33)?
+- New and more secure version of Opera Turbo gives the user more data saving and speeds up the users connection on congested Wi-Fi areas and 3G networks.
+- The Discover feature is now called "News".
+- The user can now cancel an ongoing download using the cancel button on any download in progress which is visible in the downloads dropdown.
+- If a download has been interrupted, Opera will ask if the user want to resume the download after the browser restarts.
+- Support for MSE Audio (audio/mpeg and audio/aac mimetypes) has been added to enable playback from Google Play Music and similar services.
+- The support for the native share button on Mac has been implemented. It is now possible to share from within the browser, using your favorite social-network or messaging app.
+[...]
+Our Rating:
+Firefox 43.0.4 FINAL
+Open Source
+Wednesday,
+06 January 2016
+Not everyone gets by with the default browser on their computer, and when it comes to picking an alternative, Firefox is one of the most popular out there, having clawed back support from upstart rivals like Google Chrome and Opera in recent years by switching to a rapid release cycle, ensuring major new versions of the browser are released every six weeks.
+It’s true to say that individual updates often fail to deliver anything substantial, but cumulatively they roll together to produce a web browser that is radically different to the one – version 4 – that marked the start of a new era back in 2011.
+Some of the landmark new features we’ve seen include a per-site Permissions Manager, enhanced Sync options, tabs on demand, silent updates and add-on enhancements. We also saw the launch of specific development branches including UX, which has led to the new Australis user interface, which sees a streamlined tab, revamped menu and customisation features.
+One group particularly well served by the rapid release cycle have been developers, and a plethora of tools from Javascript Scratchpad (Firefox 6) to full-blown Developer Toolbar (Firefox 16) have worked their way into successive builds as Firefox courts this important community of users.
+And underpinning this all are a constantly evolving set of performance improvements, standards support (HTML5 and CSS3 are constantly being added to, for instance) and bug fixes.
+Firefox 43 is now in the stable channel. Improvements/changes include:
+- NEW. Improved API support for m4v video playback
+- NEW. Users can opt-in to receive search suggestions from the Awesome Bar
+- NEW. On-screen keyboard displayed on selecting input field on devices running Windows 8 or greater
+- NEW. User selectable second block list for Private Browsing's Tracking Protection
+[...]
+Our Rating:
+LibreOffice Productivity Suite 5.0.4
+Open Source
+Thursday,
+17 December 2015
+LibreOffice has long since moved on from being an offshoot of the OpenOffice project. It's now the go-to alternative to Microsoft Office, enjoying regular development and a constant tweaking to keep it up to date, stable and secure.
+While LibreOffice lacks the slick presentation of rival Windows freebie Kingsoft Office Suite Free and its Office-inspired ribbon interface, it has the major advantage of offering a full set of office applications, including database, drawing package and mathematical tool on top of the requisite word processor, spreadsheet and presentation tool found in most free office suites.
+Version 5 makes much of its user-interface improvements, but while it’s definitely more navigable than before thanks to better placement of tools and visual previews of styles direct from the main toolbar, it still looks a little dated, despite the refreshed icon sets. Nevertheless, this is still a powerful suite capable of meeting most people's needs, making this zero-cost alternative to Office a valuable tool to have in your armoury.
+Ever-improving support for third-party file types (including both new and classic Office formats) means you're not cutting yourself off from industry standards while cross-platform support means you can run LibreOffice on Windows, Mac or Linux without having to retrain yourself to a new way of working each time.
+Version 5 introduces a dedicated 64-bit build for Windows, and promises full compatibility with Windows 10.
+What else is new in LibreOffice 5?
++ Writer gains a new AutoCorrect extension that simplifies the use of Unicode character input such as Emoji. Word-compatible text highlighting and shading is also preserved.
++ Calc enjoys the most improvements: support for complex formulae and new functions, plus conditional formatting, image cropping and table addressing features among other improvements.
++ Impress and Draw have rearranged toolbars to maximise screen editing space, while the apps’ context menus have been streamlined by removing less important entries.
++ Writer, Impress and Calc users can now crop images using the mouse – right-click a drawing and choose Crop Image to do so.
++ Improved interoperability, which means better handling of third-party formats such as DOC, RTF and XLSX, plus Apple Keynote and FreeHand import filter improvements.
++ Support for new import formats, including Apple Pages and Numbers, Lotus 123 (wk3 and wk4), ClarisDraw and MacDraft.
+Note, this is the 32-bit build for Windows and Linux only. Choose the 64-bit build if you're a Mac user.
+[...]
+Our Rating:
+1
+2
+3
+4
+5
+Sponsored Downloads
+Bitdefender Total Security 2016 (build 20.0.23)
+A one-stop do-everything security suite
+Kaspersky Internet Security 2016
+A comprehensive, reliable and accurate security suite
+Malwarebytes Anti-Malware v2.2.0
+Detect and remove malware at speed with this fast and accurate security package
+Latest Downloads
+Recommended Downloads
+Most Popular Downloads
+Editor's Choice
+User Recommended
+Recently Viewed
+From Softwarecrew
+Please wait while my feed loads
+See more posts...
+TuneUp Utilities 2014
+Keep your PC running at peak performance
+Our Price:
+$22.95
+RRP: $29.95
+Saving 23%
+See more offers from the Downloadcrew Software Store
+Spotlight: Free Full Software
+Auslogics Internet Optimizer 2.0.6
+Free Full Commercial Software
+Auslogics Internet Optimizer is an unusually comprehensive internet connection tweaking tool.
+If you're baffled by networking jargon then there's no need to delve too deeply, though. Just launch the program, choose your internet connection speed, click Analyze and Internet Optimizer will recommend improvements to your system settings. After applying these with another click, reboot, then try a few internet apps and see if you spot any performance gains.
+If you prefer to take a hands-on approach, however, opting for a Manual Optimization will display every setting the program understands, and allow you to configure it yourself. There's plenty on offer here: Windows-specific tweaks (auto heuristics, auto tuning), the full range of TCP/IP, WinSock and DNS settings, and even some useful browser-specific tweaks for IE, Firefox and Opera. No Chrome support yet, but that's still an impressive 88 configuration options.
+Does it work? The program appeared to improve our test system's download speed by around 6%, according to SpeedTest.net, a small but welcome gain. It's hard to measure changes elsewhere as there are so many factors involved, but IE's browsing performance also seemed noticeably better.
+Of course optimising your internet connection is a tricky business, and whether you use the auto or manual mode, it's possible that one of the changes might make your system slower than it was before. No need to worry, though, as Internet Optimizer backs up your original settings before it makes any tweaks, so if you'd like to undo its changes, just click File > Rescue Centre and restore the last backup.
+Please note, Internet Optimizer is one component of Auslogics BoostSpeed 5, the company's excellent PC optimisation suite - check it out if you'd like to see what else they have to offer.
+[...]
+Value:
+Free
+Rating:
+Malwarebytes Anti-Malware Premium v2
+RRP:
+$49.95
+Our Price:
+$27.95
+AVG Ultimate 2016 [2-YR]
+RRP:
+$179.98
+Our Price:
+$99.99
+Kaspersky Internet Security 2016 [1-PC]
+RRP:
+$59.95
+Our Price:
+$24.95
+Bitdefender Total Security 2016 [3-PC]
+RRP:
+$89.95
+Our Price:
+$39.95
+Acronis True Image 2016
+RRP:
+$49.99
+Our Price:
+$29.99
+AVG Ultimate 2016 [1-YR]
+RRP:
+$89.99
+Our Price:
+$69.99
+Auslogics BoostSpeed 8
+RRP:
+$59.95
+Our Price:
+$19.95
+AVG Performance 2016 [2-YR]
+RRP:
+$79.99
+Our Price:
+$59.99
+Genie Timeline Professional 2015
+RRP:
+$59.95
+Our Price:
+$29.95
+iolo System Mechanic 15
+RRP:
+$49.95
+Our Price:
+$24.95
+Downloadcrew Software Store Best-Selling List
+Spotlight: Editor's Choice
+Dropbox 3.12.6
+Freeware
+BeModern technology enables a team to operate in different locations across your company and the world. If you’re a software developer, there’s no reason why you couldn’t pick the best programmers based in Germany, document writers from the UK, whilst your graphic artists could be based in the States.
+The problem is bringing these people together. You need a system where your team or teams can share files and information, make sure that no-one overwrites someone else’s work and keep a collection of previously updated files, so you can quickly reverse back to a previous revision, if necessary. Doing this on your website requires you have the relevant versioning technology and that it will work across various operating systems. A versioning tool that works fine on Windows may not be suitable for OS X.
+Dropbox is an online sharing tool that enables you to select the files you want to share and synchronise with other users, then simply upload them to the remote site. That bit is done automatically, so you don’t need to worry about having to upload the files manually. You can share folders and collaborate with other users on the files within these folders. Versioning will stop work being overwritten.
+You can just use Dropbox on a personal level, too. If you own a desktop computer at home, use another at work and a laptop when you’re away from the office, simply use DropBox to synchronise your important files across each machine. You can also access your Dropbox files from the web, if you need access from a temporary host PC.
+Better still, setup your software so they write preferences to your Dropbox folder, then sync these settings and preferences across your computers, enabling you to have the same setup across your desktop and laptop or PC and Mac, plus access from your smartphone.
+Dropbox will limit you to 2GB of free online storage (and you can purchase more, if required) and is available for Windows, Mac and Linux.
+What's new in the 'v3.12 series':
+- New functionality for the badge
+- View if the document is shared, and change sharing permissions
+- Email file from the badge
+- Comments notifications
+- [Mac] UI improvements for the Tray Popup on Mac
+- [Windows] Support for Windows 10 Enterprise Data Protection
+- Changes to how the client runs before a user signs in
+- Reduced memory usage
+- Many small fixes and improvements
+And, fixed/updated in 3.12.6:
+- Fixes a connection issue for users in Oman
+[...]
+Rating:
+User Comments
+Zoner Photo Studio Free 18.0.1.7
+13 January 2016,
+Indy Jones
+Thanks Editor. I've never seen that page. I looked around. Folks, there is a free version.
+Obviously...
+Safe Startup 4.02
+10 January 2016,
+Robert Immersoll
+According to the comparison chart on the website, recovery of deleted startup entries is not availab...
+Zoner Photo Studio Free 18.0.1.7
+10 January 2016,
+Indy Jones
+Zoner Photo Studio Free is for trial only. After 30 days its $99....
+See more user comments...
+Popular Searches
+Software Tags
+ad-aware
+adobe photoshop
+auslogics
+chrome
+comodo backup
+cyberduck
+defraggler
+device remover
+dock
+dropbox
+dvd
+dvd decrypt
+easeus
+essentialpim
+evernote
+feeddemon
+firefox
+freemake
+google chrome
+hub list
+iolo
+itunes
+kludget
+live mesh
+magix
+microsoft security
+norton
+opera
+paragon
+pcmover
+powerarchiver
+powerdirector
+secunia
+skype
+speedupmypc
+teamview
+tuneup
+uniblue
+virtualbox
+xmarks
+android
+antivirus
+app
+apple
+audio
+backup
+browser
+cleanup
+convert
+desktop
+dvd
+editor
+facebook
+files
+firefox
+free
+google
+hard drive
+image
+internet
+ios
+ipad
+iphone
+ipod
+linux
+mac
+microsoft
+monitor
+music
+network
+optimise
+pdf
+photo
+photos
+security
+suite
+sync
+video
+web
+windows
+Home
+About
+Contact
+Terms & Conditions
+Advertise
+E-mail
+RSS
+Twitter
+Facebook
+© 2009-2016 Betanews, Inc.
+Other Betanews websites:
+FileForum |
+Softwarecrew

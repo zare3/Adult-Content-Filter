@@ -1,0 +1,84 @@
+https://www.anchordeep.us
+Home
+Sidebar
+×
+johnandchi.com
+Home
+Home
+Lounge Room Linux Gaming PC Build
+Details
+Administrator
+Home Computing
+29 January 2015
+Hits: 2473
+Print
+Email
+So, I decided to build my own computer. I wanted something in the lounge room that can play the latest games, watch movies & video on-demand, and watch and record live television. It needed to be small and also handsome enough to not look out-of-place around the television and home theatre system, which presents its output. I have decided to try doing this on a Linux environment. Also, I live in Tokyo and have Japanese family so will be using Japanese language as a requirement.
+The target environment will be as follows:
+Hardware specs to at least match the current generation of game consoles
+Ubuntu 14.04
+Valve's Steam for games
+Kodi (formerly XBMC) for media player / media management
+MythTV for recording live television
+Hulu.jp for video on-demand
+Here I am documenting the process and results in a single article post that I will update when I make progress.
+First, I needed a model / straw-man. I have no experience so needed something to base my own build on. I found something close here. I have made changes based on my own needs and after some research into what components might play well together from other people's experience. Instead of 2 graphics cards I did one full-sized graphics card and one TV tuner card. I chose a motherboard that I could confirm works well with Linux (here) and takes the latest Intel CPUs. I wanted overclock-able components but not at the level of "enthusiast". PC Part Picker was used for a cursory check of hardware compatibility. Soft copies of all Instruction Manuals were downloaded and checked before purchasing.
+Parts List
+Component
+Description
+Cost JPY
+Motherboard
+Gigabyte GA-Z97M- D3H
+12,668
+CPU
+Intel Core i7-4790K (Devil’s Canyon)
+34,550
+Memory
+Corsair Vengeance 16GB CMZ16GX3M2A1600C10
+19,986
+Graphics card
+Gigabyte GV-R929OC-4GD Radeon R9 290 OC 4GB
+34,800
+CPU Cooler
+SilverStone SST-HE01
+4,800
+Power Supply
+SilverStone SST-ST75F-GS
+14,177
+Power Cables
+SilverStone SST-PP05 Short cable kit
+1,944
+Hard Disk
+Samsung MZ-7TE1T0B/IT
+46,000
+Optical Disk
+SilverStone SST-SOB02
+14,388
+TV Tuner Card
+EarthSoft PT3 Rev.A
+11,480
+B-CAS Card Reader
+Gemalto USB-TR
+1,710
+B-CAS Card
+B-CAS Card (Red)
+2,500
+Case
+Silverstone SG10B/B
+16,230
+Total
+215,233
+Parts were purchased from either Amazon.co.jp or from Yahoo Auction in most cases as new. I went to Akihabara looking for parts once but realized that I was getting better prices online.
+Before
+First, put the parts together out of the case to make sure they all work. Then put the parts together in the box. First motherboard, CPU, memory, CPU cooler. Check the power supply works with a wire. Connect the motherboard to the power supply and check that it starts up and you get to the bios. Now add drives and cards one at a time and check each time that each is recognized by the bios.
+After a few hours of tinkering it finally all seemed to fit together.
+(After photo)
+Cable management is not done to my satisfaction yet.
+The bios tells me that the case is open. I need a jumper to short the intrusion pins on the motherboard. The case doesn't come with an intrusion sensor.
+Output from the onboard sound chip needed to be redirected to the graphics card's hdmi port. After struggling with this for a while I found that it was simply a setting in Ubuntu's settings area. Still not getting 5.1 sound from Kodi, though. Ubuntu audio settings has a sound test function. Here also I am only getting stereo so it is probably not an issue with Kodi.
+Install the open source amd drivers first, then install steam, then install the proprietary drivers. Because of a bug in the ubuntu software center here, I ended up installing steam from the ppa from the terminal.
+Kodi kept crashing a second or so into launch after cifs-utils was installed. I wanted to set up a permanent Samba share to the NAS with the media files. Somehow Kodi is working without a permanent file share mounting. Once I uninstalled cifs-utils Kodi worked.
+I had to install Chromium to watch Hulu from the browser in full screen mode. In Firefox the video kept tearing on full screen mode. Unfortunately the Japanese subtitles don't show properly in linux at first. According to the Hulu faq I need to install certain fonts. I have not had success with Japanese subtitles yet.
+Bootstrap is a front-end framework of Twitter, Inc. Code licensed under MIT License.
+Font Awesome font licensed under SIL OFL 1.1.
+Powered by T3 Framework

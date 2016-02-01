@@ -1,0 +1,216 @@
+https://www.macosrumors.com
+Mac OS Rumors | The original Apple & Mac rumor site
+Mac OS Rumors
+The original Apple & Mac rumor site
+Submit Tips:
+Follow Mac OS Rumors:
+Home
+Articles
+Apple Events
+About
+Contact
+Privacy
+« Older posts
+By Staff | Published: April 27, 2012
+Apple in negotiations with streaming partners for upcoming TV device?
+Though rumors of a potential full-fledged Apple home theater device have been showing up frequently over the past year, sources are telling Reuters that Apple is currently negotiating with streaming service EPIX to bring content to both the current Apple TV product and to “upcoming devices that stream content”. Read more
+Share this post:
+Posted in 3rd Party Software, Apple Hardware
+|
+Tagged
+apple tv, epix, iCloud, iTunes, netflix, streaming
+| Leave a comment
+By Staff | Published: April 25, 2012
+Apple announces WWDC 2012 schedule for June
+This morning Apple sent out invitations for the annual World Wide Developers Conference and opened up ticket sales, which cost $1599 each. It’s a safe bet that those tickets will all be sold out today if not almost immediately, last year all of them were gone within about 12 hours.
+Update:
+Tickets are already sold out.
+The event will be held over the course of 5 days, June 11th through 15th, at Moscone West in San Francisco, CA. According to Apple the focus this year is on both OS X and iOS, with over 100 sessions led by Apple engineers to assist developers in understanding and working with core Apple technologies and services.
+There has not been any announcement yet about the keynote, but we expect it will probably be led by Tim Cook with multiple Apple executives taking the stage for specific presentations. Read more
+Share this post:
+Posted in Apple Events
+|
+Tagged
+Moscone West, Mountain Lion, OS X 10.8, WWDC
+| Leave a comment
+By Staff | Published: April 20, 2012
+Regional carriers in the U.S. unveil iPhone support
+Today marks the launch of the iPhone on 5 regional wireless carriers in the U.S.:
+Alaska Communications
+General Communication Inc.
+Appalachian Wireless
+Cellcom
+nTelos
+A quick look at the front page of any of those companies would suggest the iPhone is a big deal to them, and it is.
+The iPhone has been a significant factor in the growth or decline of wireless subscriber numbers for other carriers such as AT&T, Verizon, Sprint and T-Mobile, the last of which has yet to gain access to the iPhone and has acknowledged losing subscribers as a result.
+T-Mobile remains willing to carry the iPhone, and has even gone so far as to publicly announce support for unlocked AT&T iPhones. Of course, the practice of using an unlocked AT&T iPhone on T-Mobiles network is not new, and speeds remain limited to the slower 2G network due to wireless band differences. Read more
+Share this post:
+Posted in Apple Hardware
+|
+Tagged
+alaska communications, Appalachian Wireless, cellcom, GCI, iPhone 4, iPhone 4s, ntelos, T-mobile
+| Leave a comment
+By Staff | Published: March 7, 2012
+Apple releases new Apple TV hardware with 1080p support
+Rumors of an Apple designed TV may have been set back today, after Apple unveiled an upgrade to their already wildly successful Apple TV set top box, this time with 1080p HD support. Read more
+Share this post:
+Posted in Apple Events, Apple Hardware
+|
+Tagged
+1080P, Apple TV 3
+| Leave a comment
+By Staff | Published: March 7, 2012
+Apple drops iPad 2 price to $399
+Alongside the introduction of the ‘new iPad’, this morning Apple dropped the price of the previous generation iPad 2, which now starts at $399 for the 16GB Wi-Fi version and $529 for the 16GB 3G-capable version.
+Apple’s strategy of keeping the previous iPhone hardware model around and selling it at a discount has made it possible for the company to compete in the lower end of the prepaid cellphone market, with AT&T going so far as to offer the iPhone 3GS for free on contract.
+While we don’t expect the iPad 2 to be free any time soon, it will be immediately more attractive to tablet buyers who may have been eyeing an Android device like the Kindle Fire. Read more
+Share this post:
+Posted in Apple Events, Apple Hardware
+|
+Tagged
+ipad 2, price drop
+| Leave a comment
+By Staff | Published: March 7, 2012
+Apple unveils ‘the new iPad’
+The Apple event this morning took the wraps off what is now known to be the “iPad”, which is literally the name of the 3rd generation iPad hardware. Not iPad 3, not iPad HD, or iPad 2S, just “iPad”.
+We’re sure the story behind that name will unfold in the coming days, but the hardware itself is close to what we expected: a near identically sized evolution of the existing hardware, with a retina screen, a more powerful processor and GPU, and more RAM.
+Read more
+Share this post:
+Posted in Apple Events, Apple Hardware
+|
+Tagged
+4G, ipad 3, LTE, new ipad, quad core
+| Leave a comment
+By Staff | Published: February 28, 2012
+Apple announces March 7th iPad event
+As we reported a few weeks ago, Apple is planning to hold an event to unveil the next iPad early in March, at the Yerba Buena Center for the Arts in San Francisco.
+Today, Apple sent out the usual press invitations for that event, which give us a date: March 7th.
+The keen observer may notice that the image above shows someone using an iPad device with an extremely high quality display, which should put to rest any notion that the Retina display would be shelved this time around.
+Stay tuned! Read more
+Share this post:
+Posted in Apple Events, Apple Hardware
+|
+Tagged
+ipad 3, retina display, Yerba Buena Center for the Arts
+| Leave a comment
+By Staff | Published: February 16, 2012
+Gatekeeper: Apple’s next move to increase Mac security
+While we’re still getting more information about Mac OS X 10.8 Mountain Lion, just announced this morning and available to registered developers as a preview build, one major feature of the new operating system deserves a closer look due to the implications it has for how users and software developers work with the platform.
+Mac OS X has always been an open platform, and by that I mean there is nothing stopping you from installing or running any program you wish, all you need to do is write or obtain that program and OS X will happily run it. You may get a warning if you download a program from the internet, but it’s still up to the user to decide whether or not that program is trustworthy. Read more
+Share this post:
+Posted in Apple Software, Articles
+|
+Tagged
+code signing, gatekeeper, Mac OS X 10.8, Mountain Lion, sandboxing
+| Leave a comment
+By Staff | Published: February 16, 2012
+Apple announces Mac OS X 10.8 “Mountain Lion”
+Though Mac OS X 10.7 Lion is still just under a year old, today Apple kicked off a new release schedule for the desktop operating system by announcing Mac OS X 10.8 Mountain Lion, due out this summer and available for registered developers today in the form of a developer preview.
+With 10.8, Apple plans to move toward an iOS-like yearly release schedule for Mac OS X, which will allow for more frequent incremental improvements that previously would have had to wait for the 18+ month development cycle to complete.
+Read more
+Share this post:
+Posted in Apple Software
+|
+Tagged
+Mac OS X 10.8, Mountain Lion
+| Leave a comment
+By Staff | Published: February 9, 2012
+Apple to launch iPad 3 in early march
+According to a report by AllThingsD this morning, Apple will hold an event in San Francisco early in March to reveal the next iPad model.
+Last year the iPad 2 was revealed in March at the Yerba Buena Center for the Arts, and the original iPad announcement in January 2010 took place in the same venue, leading AllThingsD’s John Paczkowski to speculate that the 3rd generation iPad hardware may also be announced there.
+The hardware specs and capabilities of the next generation iPad are not yet known, however a series of interesting leaks have shed some light on Apple’s plans. Read more
+Share this post:
+Posted in Apple Events, Apple Hardware
+|
+Tagged
+A6, ipad3, retina display
+| 2 Responses
+By Staff | Published: January 11, 2012
+Apple schedules education event for January 19th
+AllThingsD reports this morning that Apple has booked New York City’s Guggenheim museum for an “education event” on January 19th.
+This is the same location that Apple and News Corp chose to announce The Daily, the first iteration of subscription newspaper and magazine content available on the iOS platform. Read more
+Share this post:
+Posted in Apple Events
+|
+Tagged
+education, ipad 3, media event, new york city, PR
+| Leave a comment
+By Staff | Published: January 11, 2012
+Next iPhone to support T-Mobile 3G band
+It’s no secret that wireless carriers want the iPhone on their networks, and until last year if you wanted an iPhone in the U.S., AT&T was your only official choice.
+However 2011 brought us the CDMA iPhone 4 for Verizon, and later on the iPhone 4S was released with full support for GSM along with CDMA, allowing carriers like Sprint to begin offering the device as well.
+But T-Mobile USA has yet to bring the iPhone to their network in any official capacity, in part because their 3G network uses a different radio frequency band than AT&T and the rest of the world, one that current iPhone hardware does not support.
+Unlocked iPhone owners will be quite familiar with this limitation, as unlocked devices built for AT&T’s network will fall back to 2G EDGE service when used with a T-Mobile USA sim card. Read more
+Share this post:
+Posted in Apple Hardware
+|
+Tagged
+AWS 3G, baseband, iphone 5, Sprint, T-mobile, Verizon
+| Leave a comment
+By Staff | Published: January 6, 2012
+Quad core references found in iOS 5.1 beta
+9to5Mac has discovered some interesting bits of information buried inside the latest iOS 5.1 beta.
+As 9to5Mac’s Mark Gurman explains, the numbering in this particular section of code in iOS 5.1 suggests that Apple will be shipping a quad core processor at some point in the near future:
+Extremely reliable and knowledgeable people familiar with iOS’s inner workings explained to me that core references begin at “0.” For example: A single core device would be limited to
+”/cores/core.0,” and a dual-core device would come in at
+”/cores/core.1.” A “core.2″ (which is not referenced in iOS code) would be a triple-core processor according to this labeling method. iOS 5.1 beta 2 now includes core.3, a seemingly quad-core chip from Apple.
+Apple’s A6 is rumored to be a quad core design slated for release in 2012, might we be seeing the initial support in iOS necessary for an A6-bearing iPad 3? Read more
+Share this post:
+Posted in Apple Hardware, Apple Software
+|
+Tagged
+A6, ios, iOS beta, ipad 3, iphone 5, quad core
+| Leave a comment
+By Staff | Published: December 8, 2011
+Apple TV update turns on TV show purchase & streaming for Canada, Australia and the U.K.
+Australian, Canadian and U.K. Apple TV owners should now be able to stream and purchase TV shows from the device with a new update Apple just pushed out.
+If you haven’t been prompted to update yet, just head over to the Settings area and trigger the update manually. Read more
+Share this post:
+Posted in Apple Hardware, Apple Software
+|
+Tagged
+apple tv, australia, canada, iCloud, iTunes, U.K.
+| Leave a comment
+By Staff | Published: December 1, 2011
+Apple says Carrier IQ unused, will remove it from iOS 5
+In a statement made this morning to AllThingsD, Apple says it no longer uses Carrier IQ in iOS 5, had never used it to record or transmit personal information, and plans to remove the software entirely in a coming update to the mobile OS:
+We stopped supporting Carrier IQ with iOS 5 in most of our products and will remove it completely in a future software update. With any diagnostic data sent to Apple, customers must actively opt-in to share this information, and if they do, the data is sent in an anonymous and encrypted form and does not include any personal information. We never recorded keystrokes, messages or any other personal information for diagnostic data and have no plans to ever do so. Read more
+Share this post:
+Posted in Apple Software
+|
+Tagged
+apple pr, carrier IQ, rootkit, wiretapping
+| 1 Response
+« Older posts
+Recent Posts
+Apple in negotiations with streaming partners for upcoming TV device?
+Apple announces WWDC 2012 schedule for June
+Regional carriers in the U.S. unveil iPhone support
+Apple releases new Apple TV hardware with 1080p support
+Apple drops iPad 2 price to $399
+Apple unveils ‘the new iPad’
+Apple announces March 7th iPad event
+Gatekeeper: Apple’s next move to increase Mac security
+Apple announces Mac OS X 10.8 “Mountain Lion”
+Apple to launch iPad 3 in early march
+Apple schedules education event for January 19th
+Next iPhone to support T-Mobile 3G band
+Quad core references found in iOS 5.1 beta
+Apple TV update turns on TV show purchase & streaming for Canada, Australia and the U.K.
+Apple says Carrier IQ unused, will remove it from iOS 5
+Post Categories
+3rd Party Software
+App Store
+Apple Events
+Apple Hardware
+Apple Inc.
+Apple Software
+Articles
+Site News
+Uncategorized
+RSS Links
+All posts
+All comments
+Copyright 1995-2013 Mac OS Rumors
+| Privacy Policy
+| Contact

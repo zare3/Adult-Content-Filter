@@ -1,0 +1,453 @@
+https://www.dtiblog.com
+Cote.io | All your Coté are belong to us.
+Skip to content
+Cote.io
+All your Coté are belong to us.
+Menu
+Blog
+About
+Speaking
+Podcasts
+Link: Why 2016 Will Be The Year Of Mass Wearables Adoption
+Posted on January 13, 2016 by Coté
+Also:
+Source: Why 2016 Will Be The Year Of Mass Wearables Adoption
+ImagePosted in FoundTagged charts, consumertech, forrester, infographics, pics, surveys, wearablesLeave a comment
+The Problem with PaaS Market-sizing
+Posted on January 13, 2016 by Coté
+Figuring out the market for PaaS has always been difficult. At the moment, I tend to estimate it at $20-25bn sometime in the future (5-10 years from now?) based on the model of converting the existing middleware and application development market. Sizing this market has been something of an annual bug-bear for me across my time at Dell doing cloud strategy, at 451 Research covering cloud, and now at Pivotal.
+A bias against private PaaS
+This number is contrast to numbers you usually see in the single digit billions from analysts. Most analysts think of PaaS only as public PaaS, tracking just Force.com, Heroku, and parts of AWS, Azure, and Google. This is mostly due, I think, to historical reasons: several years ago “private cloud” was seen as goofy and made-up, and I’ve found that many analysts still view it as such. Thus, their models started off being just public PaaS and have largely remained as so.
+I was once a “public cloud bigot” myself, but having worked more closely with large organizations over the past five years, I now see that much of the spending on PaaS is on private PaaS. Indeed, if you look at the history of Pivotal Cloud Foundry, we didn’t start making major money until we gave customers what they wanted to buy: a private PaaS platform. The current product/market fit, then, PaaS for large organizations seems to be private PaaS
+(Of course, I’d suggest a wording change: when you end-up running your own PaaS you actually end-up running your own cloud and, thus, end up with a cloud platform.)
+How much do you have budgeted?
+With this premise – that people want private PaaS – I then look at existing middleware and application development market-sizes. Recently, I’ve collected some figures for that:
+IDC’s Application Development forecast puts the application development market (which includes ALM tools and platforms) at $24bn in 2015, growing to $30bn in 2019. The commentary notes that the influence of PaaS will drive much growth here.
+Recently from Ovum: “Ovum forecasts the global spend on middleware software is expected to grow at a compound annual growth rate (CAGR) of 8.8 percent between 2014 and 2019, amounting to $US22.8 billion by end of 2019.”
+And there’s my old pull from a Goldman Sachs report that pulled from Gartner, where middleware is $24bn in 2015 (that’s from a Dec 2014 forecast).
+When dealing with large numbers like this and so much speculation, I prefer ranges. Thus, the PaaS TAM I tent to use now-a-days is something like “it’s going after a $20-25bn market, you know, over the next 5 to 10 years.” That is, the pot of current money PaaS is looking to convert is somewhere in that range. That’s the amount of money organizations are currently willing to spend on this type of thing (middleware and application development) so it’s a good estimate of how much they’ll spend on a new type of this thing (PaaS) to help solve the same problems.
+Things get slightly dicey depending on including databases, ALM tools, and the underlying virtualization and infrastructure software: some PaaSes include some, none, or all of these in their products. Databases are a huge market (~$40bn), as is virtualization (~$4.5bn). The other ancillary buckets are pretty small, relatively. I don’t think “PaaS” eats too much database, but probably some “virtualization.”
+So, if you accept that PaaS is both public and private PaaS and that it’s going after the middleware and appdev market, it’s a lot more than a few billion dollars.
+(Ironic-clipart from my favorite source, geralt.)
+Posted in Longform, Tech IndustryTagged cloud, marketsizing, middleware, PaaS, tamLeave a comment
+052: Besides getting drunk, what do you do at annual kick-offs? – Software Defined Talk
+Posted on January 12, 2016January 12, 2016 by Coté
+Summary
+At the start of the year, companies love “the kick off.” We discuss how to best take advantage of these events, aside from drinking. Coté also reviews the Apple Watch, and we discuss a smattering of tech world news.
+http://traffic.libsyn.com/cote/SoftwareDefinedTalk052.mp3
+Listen above, subscribe to the feed, or download the MP3 directly.
+With Brandon Whichard, Matt Ray, and Coté.
+SPONSOR: Take our awesome, multi-cloud PaaS for a test-ride. Get two free months of Pivotal Web Services. Whether you want to deploy on-premises, in a dedicated public cloud, or just keep using our PaaS, Pivotal Cloud Foundry has everything you need for doing cloud-native applications. Go to cote.io/pivotal for the sign-up code!
+Subscribe to this podcast: iTunes, RSS Feed
+Show notes
+If you like video, see this episodes’ video recording.
+Oracle buys Austin-based StackEngine – DOCKER DOCKER DOCKER – Raised $4.5 million and sold for $1.3? 5ish people – I love the “I don’t know, it’s some nerd shit” tone of coverage here, e.g., “And then when the developer sends the app to the cloud, it sends it to a Docker container running on a cloud, and all that stuff just works, no troubleshooting.”
+Meanwhile: Austin Docker Meetup – Coté on panel with some other folks. Much interest in the crowd (60-80 people for an Austin meetup!). Questions around security, the two standards group. See Coté’s industry data round-up, mostly from DataDog and New Relic, but a 451 cameo. Industry analysts have very little quantitative data on Docker/containers.
+Joe’s Crab Shack on Town Lake – not too bad!
+What’d you get for Christmas? Gift cards; impact drill; Apple Watch.
+The Apple Watch review from Coté.
+Things to Stop Talking About in 2016 – Unicorns, Wearables, Marissa Mayer, Sharing Economy, The Bubble
+Bonus links not covered in show
+Nice visualization of all the world’s money– That’s a lot of fuel units!
+“Carlos Slim” – funny name.
+Big Shot IBM execs leaving: Steve Mills, Dr. Danny. Meanwhile, the IBM union shut down, citing low membership: from 400 at its peak to 200 now.
+Recommendations
+Brandon: The Audible
+Matt: Tons of interesting global commentary & insight, always enjoy reading the annual “State of the World” by Bruce Sterling @bruces & Jon Lebkowsky @jonl
+Coté: one investor’s (hedge fund? SpringOwl) opinion on Yahoo, in 99 slides. Some good commentary on this deck as guerilla marketing.
+LinkPosted in Software Defined TalkTagged podcasts, SDTLeave a comment
+Compliance & Audit for Cloud Natives
+Posted on January 11, 2016 by Coté
+Questions around audit and compliance always come up in discussions about improving software, and certainly when it comes to introducing things like continuous delivery, DevOps, and esp. something as big and different as Pivotal Cloud Foundry. To that end, I wrote up a way to approach those issues, along with a few tips for dealing with compliance and audit for my FierceDevOps column last month.
+The onerous steps auditors want you to do were usually put in there for good reason, but, as I put it:
+Unfortunately, the way that three-ring binder wielding ninjas and IT staff battle it out over these and other compliance check-lists often loses sight of the original, good intentions. Instead, it infects everyone with a bad case of table-flipping madness. Thanks to cloud technologies and the empathy over table-flipping approaches in DevOps, we’ve been finding ways to get over compliance hurdles and even, in some cases, make compliance projects easier and better.
+There’s a summary on the Pivotal blog, and/or you can check out the full piece.
+(Binders picture from tookapic)
+Posted in Found, TechnicalTagged audit, cloudnative, columns, compliance, devops, FierceDevOps, GRCLeave a comment
+IBM Software Group no longer a formal entity?
+Posted on January 11, 2016 by Coté
+But what we had not fully processed – and perhaps no one else did, either – is that at that moment Software Group, for all intents and purposes, was gone except as an amalgamated category for financial reporting to Wall Street.
+So suggests TPM in his coverage of Steve Mills retiring.
+LinkPosted in Found, Tech IndustryTagged execs, IBM, ibmswgLeave a comment
+The media doesn’t know what they’re talking about w/r/t Yahoo, a study in i-banker rhetoric
+Posted on January 10, 2016January 10, 2016 by Coté
+The notion that some in the media – who usually have no specific knowledge about Yahoo – have recklessly put forward that Yahoo is “unfixable” and that it should be simply “chopped up” and handed over for nothing to private equity or strategies is insulting to all long-term public shareholders.
+This presentation is an example of many things we discuss on Software Defined Talk around large, struggling companies and the way they’re covered. Among other rhetorical highlights:
+Check out how they make their case
+Use visuals and charts
+The informal nature of their language, e.g., they use the word “stuff” frequently
+Their citations, e.g., citing themselves (I always love a good “Source: Me!”) and citing “Google Images”
+These things, in my view, are neither good or bad: I’m more interested in the study of the rhetoric which I find fascinating for investment banker documents/presentations like this.
+Not only that, it’s a classic “Word doc accidentally printed in landscape.” The investment community can’t help themselves.
+As another note, no need to be such a parenthetical dick, below, to prove the point of a poor M&A history, just let the outcomes speak for themselves, not the people who do them.
+They actually do a better job in the very next slide, but that kind to pettiness doesn’t really help their argument. (Their argument is: she’s acquiring her friends.)
+This is a type of reverse halo effect: we assume that tree standing goofiness has something to do with the business: an ad hominem attack. But, I think most billionaires probably have picture of themselves in trees, wearing those silly glove shoes, roasting their own coffee, only eating meat they kill themselves, or any number of other affectations that have nothing to do with profit-making, good or bad.
+Posted in Found, Tech IndustryTagged bigco, m&a, wallstreet, writing, yahoo1 Comment
+I wrote that one morning when I woke up in a pool of my own sick.
+Posted on January 8, 2016 by Coté
+Perhaps the greatest skit in the history of poetry took place on this SNL setpiece: Dieter introduced “the Great American Poet of the Abyss, Jimmy Stewart.” Dana Carvey came out and read some of those “my loyal dog” poems that the now-defunct Stewart read on the tonight show (sorry, I can’t quote them from memory, and my copy is not at hand), and then explained to the rapt Dieter that “I wrote that poem while hitchhiking through South America with a 14 year old Mexican whore. One morning I woke up in a pool of my own sick and found out she robbed me. . .” Suggestions of a darker side to Jimmy Stewart’s poetic persona.
+Source: LISTSERV 16.0 – POETICS Archives
+QuotePosted in FoundTagged poetry, Quotes, SNL
+DevOps adoption, Gartner Sep. 2015 survey
+Posted on January 8, 2016January 8, 2016 by Coté
+From Survey Analysis: DevOps Adoption Survey Results,” Sep 2015. You can also see it presented in this recorded presentation, with more commentary and Nathan Wilson and George Spafford’s overall take and advice on DevOps.
+ImagePosted in Found, TechnicalTagged adoption, charts, devops, digitaltransformation, Gartner, surveysLeave a comment
+Docker industry research roundup, circa 2015 – Austin Docker Meetup, Jan 2016
+Posted on January 7, 2016January 8, 2016 by Coté
+I was asked to be on a panel for the first Docker Austin meetup of the year, tonight, Jan 7th at 6pm. Here’s some slides I put together in my capacity as “person who used to put together slides like this and is trying really hard not to do his job pitching Pivotal to avoid being rude” (well, except for a shameless plug or two):
+See ya there!
+Update: I’d wanted to put a TAM in – the money Docker and containers are going after, this from Gartner:
+While matching it to virtualization is a poor match (you’d probably also need some systems management and maybe even appdev numbers in there), I think looking at the current x86 virtualization TAM is as good as you’re going to get with a conservative approach.
+My reasoning is that if “the market” is willing to pay this much for virtualization now, that’s the kind of foot-print and allocation we should start looking at for “containers” (over more of a 10 year time span, probably).
+For this kind of hand-wavey, way future looking TAM’ing, what’s a plus or minus a billion or so anyhow?
+Posted in Found, TechnicalTagged charts, cloud, cloudnative, containers, docker, meetups, presentations2 Comments
+Link: Cloud Foundry poised to shine in 2016, Chris Talbot
+Posted on January 7, 2016 by Coté
+“Based on the articles I wrote and the people I spoke with in 2015, I’d say 2016 is going to be a good one for Cloud Foundry, as well as for PaaS in general. Compared to SaaS and IaaS, PaaS is still quite small, but it’s growing.”
+Source: Cloud Foundry poised to shine in 2016, Chris Talbot
+LinkPosted in FoundTagged 2016, cloud, cloudfoundry, PaaS, predictions, wpLeave a comment
+Posts navigation
+← Older posts
+Search for:
+About I'm Michael Coté and this is my main website, blog, and what have you. Check out About page for more or just browse around. --@cote
+More Coté
+@cote in Twitter
+Bookmarks & Links (Pinboard.in)
+Books (Goodreads)
+Facebook Page
+LinkedIn Profile
+Newsletter
+Photos
+Tumblr Stream
+Podcasts
+All my podcasts
+Lord of Computing
+Pivotal Conversations
+Software Defined Talk
+Archives Archives
+Select Month
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+December 2005
+November 2005
+October 2005
+September 2005
+August 2005
+July 2005
+June 2005
+May 2005
+April 2005
+March 2005
+February 2005
+January 2005
+December 2004
+November 2004
+October 2004
+September 2004
+August 2004
+July 2004
+June 2004
+May 2004
+April 2004
+March 2004
+February 2004
+January 2004
+December 2003
+November 2003
+October 2003
+September 2003
+August 2003
+July 2003
+June 2003
+May 2003
+April 2003
+March 2003
+February 2003
+January 2003
+December 2002
+November 2002
+October 2002
+September 2002
+August 2002
+July 2002
+June 2002
+May 2002
+April 2002
+March 2002
+February 2002
+January 2002
+December 2001
+November 2001
+October 2001
+September 2001
+August 2001
+July 2001
+June 2001
+May 2001
+April 2001
+March 2001
+February 2001
+January 2001
+December 2000
+November 2000
+October 2000
+September 2000
+August 2000
+July 2000
+Tags451
+451Reports
+451research
+Amazon
+appdev
+apple
+austin
+bigco
+bigdata
+Books
+cases
+ccos
+charts
+clipart
+cloud
+cloudnative
+conferences
+containers
+cotememo
+CoteSpeaking
+Dell
+developers
+devops
+devrel
+diagrams
+digitalenterprise
+docker
+Flickr
+food
+forecasts
+from:googlereader
+funding
+Gartner
+google
+highlight
+history
+HP
+IBM
+IDC
+innovation
+m&a
+marketing
+marketshare
+marketsizing
+microsoft
+mobile
+momentum
+newsletter
+Numbers
+opensource
+OpenStack
+PaaS
+pics
+pivotal
+podcasts
+post
+presentations
+pricing
+privatecloud
+Quotes
+revenue
+screenshots
+SDT
+startups
+strategy
+surveys
+systemsmanagement
+thingsiveseen
+thirdplatform
+ThisIsIT
+Travel
+videos
+vintage
+vmware
+workCategoriesCategories
+Select Category
+Admin
+Agile
+AustinsVeryOwn
+Back of the Envelope
+Books
+Charts
+DrunkAndRetired.com Podcast
+Episodes
+Events
+Found
+Longform
+Lord of Computing
+Newsletter
+Pics
+Pivotal
+Podcasts
+Principles, Maxims, and Aphorisms
+Programming
+Quotes
+reviews
+RSS
+Shoulder Bag
+Software
+Software Defined Talk
+Software Management
+SXSW
+Systems Management
+Tech Industry
+Technical
+The Burger Beat
+The Life Coté
+Uncategorized
+Videos
+Weekly Roundup
+Subscribe RSS Feed
+Popular
+The Problem with PaaS Market-sizing
+Software Defined Talk Podcast
+The media doesn't know what they're talking about w/r/t Yahoo, a study in i-banker rhetoric
+052: Besides getting drunk, what do you do at annual kick-offs? - Software Defined Talk
+IBM Software Group no longer a formal entity?
+Recent
+Link: Why 2016 Will Be The Year Of Mass Wearables Adoption
+The Problem with PaaS Market-sizing
+052: Besides getting drunk, what do you do at annual kick-offs? – Software Defined Talk
+Compliance & Audit for Cloud Natives
+IBM Software Group no longer a formal entity?
+@cote
+It's rando's all the way down. 				16 hours ago
+Just imagine if you could do this with enterprise software.
+twitter.com/BenedictEvans/… 16 hours ago
+"MSN conversations" - what a time to have been alive!
+bit.ly/1Q6qY4k 16 hours ago
+Tomorrow's the day I'm gonna finally start putting that presentation together. Yup. Tomorrow. 				16 hours ago
+NOOOO! I WAS ON THE 18TH HOOOOLEEE!
+bit.ly/1Q6nuP6 16 hours ago
+Follow @cote
+Blog at WordPress.com.
+|
+The Edin Theme.
+Follow
+Follow “Cote.io”
+Get every new post delivered to your Inbox.
+Join 44 other followers
+Build a website with WordPress.com
+Post to
+Cancel

@@ -1,0 +1,141 @@
+https://www.tecnoempleo.com
+IT Jobs Board - Specialist Technology and IT Jobs | Technojobs UK
+Online since 1999 | 16,858 IT Jobs Live NOW
+0 Jobs in basket
+Login / Register
+LOGIN
+Candidate Sign Up
+Jobs by Email
+Career Guides & News
+Employers Hiring
+Recruiters
+Advertise a Job
+IT Jobs
+Keywords
+Exclude Keywords
+Location
+Radius in Miles
+Title and Description
+Title only
+Minimum Salary
+Last day
+Last two days
+Last three days
+Last four days
+Last five days
+Last six days
+Last seven days
+All jobs
+Most relevant first
+Highest salary first
+Most recent first
+Alphabetical order
+Perm or contract
+Only permanent
+Only contract
+Search Help
+Searching for IT Jobs on Technojobs
+Our search system allows you to narrow down the jobs shown to help you find the best matching entries for your requirements.
+All job boards tend to work differently so here is a run down on the search system we use and what you can do to narrow down search results.
+Keywords
+Keywords are the words and phrases you want to be in the jobs that we return for your search.
+We use a Boolean search system that you will probably be aware of already but here is a quick overview incase you are new to this method.
+AND / OR Operators:
+You can use the AND / OR operators to narrow down your result set.
+If you search for more than one keyword the system will automatically treat this as an AND query.
+So if your keywords field contains:
+java perl
+The system will search for:
+java AND perl
+So will display only jobs that contain both java and perl in the job:
+http://www.technojobs.co.uk/search.phtml?keywords=java+AND+perl&excludekeywords=&salary=&location=&radius=&postedwithin=all&jobtype=all&sortby=relevant&x=0&y=0
+If you want to find jobs that match either java or perl then you should use an OR query:
+java OR perl
+http://www.technojobs.co.uk/search.phtml?keywords=java+OR+perl&excludekeywords=&salary=&location=&radius=&postedwithin=all&jobtype=all&sortby=relevant&x=0&y=0
+This can provide odd results if you are searching for a two word phrase - for example if you are a project manager then keywords:
+project manager
+Will find all jobs containing project and manager, but not necessarily next to each other:
+http://www.technojobs.co.uk/search.phtml?keywords=project+manager&excludekeywords=&salary=&location=&radius=&postedwithin=all&jobtype=all&sortby=relevant&x=0&y=0
+At the time of writing this returns 5702 it jobs.
+To make sure that you find jobs only containing the job title project manager then you simply need to enclose the words in quotes:
+"project manager"
+http://www.technojobs.co.uk/search.phtml?keywords=%22project+manager%22&excludekeywords=&salary=&location=&radius=&postedwithin=all&jobtype=all&sortby=relevant&x=0&y=0
+This has reduced the number of results found to 2576.
+You can then combine quoted phrases with an AND / OR operator to refine the results.
+"project manager" AND Prince2
+http://www.technojobs.co.uk/search.phtml?keywords=%22project+manager%22+AND+Prince2&excludekeywords=&salary=&location=&radius=&postedwithin=all&jobtype=all&sortby=relevant&x=0&y=0
+Currently shows 368 jobs.
+"project manager" or Prince2
+http://www.technojobs.co.uk/search.phtml?keywords=%22project+manager%22+OR+Prince2&excludekeywords=&salary=&location=&radius=&postedwithin=all&jobtype=all&sortby=relevant&x=0&y=0
+Currently shows 2677 jobs - so there are currently 2,309 jobs that mention Prince2 but not "project manager".
+Exclude
+You can use the Exclude field to remove IT jobs from your result set.
+Keywords "project manager":
+http://www.technojobs.co.uk/search.phtml?keywords=%22project+manager%22&excludekeywords=&salary=&location=&radius=&postedwithin=all&jobtype=all&sortby=relevant&x=0&y=0
+2576 results found
+Keywords: "project manager" | Exclude: prince2
+http://www.technojobs.co.uk/search.phtml?keywords=%22project+manager%22&excludekeywords=prince2&salary=&location=&radius=&postedwithin=all&jobtype=all&sortby=relevant&x=0&y=0
+27208 jobs found
+This shows that 368 IT jobs that contain "project manager" and prince2.
+You can chain words and phrases to exclude the same as the keywords section, using quoted and non-quoted terms.
+Keywords: "project manager" AND prince2 | Exclude: agile banking "project support"
+http://www.technojobs.co.uk/search.phtml?keywords=%22project+manager%22+AND+prince2&excludekeywords=agile+banking+%22project+support%22&salary=&location=&radius=&postedwithin=all&jobtype=all&sortby=relevant&x=0&y=0
+This finds project manager jobs that contain Prince2 but don't contain agile, banking and project support.
+Featured Jobs
+Principal/Senior Software Developers | Milton Keynes | £56,219
+Field Service Engineer | England | Negotiable
+User Experience Designer | Cambridge | £££
+Product Manager | Cambridge | EXCELLENT
+Senior Service and Commercial Manager | London | £49,870
+Business Systems Manager | Leicestershire | £32,900
+Asset Engineer | Newark | £34,000
+Web Developer (PHP/HTML/CSS) | LONDON | £40,000
+Data Engineer | Kent | £42,000
+Experienced Software Developers | MK | £37,167
+Top IT Jobs
+Project Manager Jobs
+Oracle Jobs
+Business Analyst Jobs
+SAP Jobs
+Developer Jobs
+Telecoms Jobs
+IT Support Jobs
+Browse Jobs
+Top Contract Jobs
+SAP Contracts
+C# Contracts London
+.Net Developer Contracts
+Oracle Contracts
+Web Developer Contracts
+Web Design Contracts
+Project Manager Contracts London
+Browse Contracts
+Career Guides
+Career Advice
+Interview Tips
+IT Job Roles
+C.V Advice
+IT Jobs Abroad
+Contractor Guides
+Recruitment Guides
+Browse All Guides
+Welcome to Technojobs
+Technojobs is a specialist IT and Technical jobsite. We have thousands of IT jobs, both contract and permanent, advertised on our website every month including the biggest employer brands. We are sure we can help you find your next job, or recruit the right technical candidate for your business.
+Call our sales team on0203 151 4024 today
+Browse Jobs
+Browse Locations
+Employers Hiring
+Email Alerts
+Login
+Create Recruiter Account
+Advertise a job
+Career Guides
+About
+Contact
+Privacy
+Advertise
+Terms & Conditions
+Links
+Design and content © Copyright Technojobs Ltd. All rights reserved
+Email: sales@technojobs.co.uk or Tel: 0203 151 4024
+Find us on Google+

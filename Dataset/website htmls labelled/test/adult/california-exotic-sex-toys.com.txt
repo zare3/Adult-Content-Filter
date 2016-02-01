@@ -1,0 +1,71 @@
+https://www.california-exotic-sex-toys.com
+Home | California Exotic Sex Toys
+Skip to navigation
+Skip to content
+California Exotic Sex Toys
+Search:
+Navigation
+Home
+How CMSMS Works
+Templates and stylesheets
+Pages and navigation
+Content
+Menu Manager
+Extensions
+Event Manager
+Workflow
+Where do I get help?
+Default Templates Explained
+CMSMS tags in the templates
+Left simple navigation + 1 column
+Top simple navigation + left subnavigation + 1 column
+CSSMenu top + 2 columns
+CSSMenu left + 1 column
+Minimal template
+Higher End
+NCleanBlue
+ShadowMenu Tab + 2 columns
+ShadowMenu left + 1 column
+Simplex Theme
+Default Extensions
+Modules
+News
+Menu Manager
+Theme Manager
+MicroTiny
+Search
+Module Manager
+Tags
+Tags in the core
+User Defined Tags
+1.12
+You are here: Home
+News
+General
+Jul 30, 2015
+News Module Installed
+Category: General
+Posted by: admin
+The news module was installed.
+Exciting. This news article is not using the Summary field and therefore there is no link to read more. But you can click on the news heading to read only this article.
+Home
+Congratulations! The installation worked. You now have a fully functional installation of CMS Made Simple and you are almost ready to start building your site.
+If you chose to install the default content, you will see numerous pages available to read.
+You should read them thoroughly
+as these default pages are devoted to showing you the basics of how to begin working with CMS Made Simple.
+On these example pages, templates, and stylesheets many of the features of the default installation of CMS Made Simple are described and demonstrated. You can learn much about the power of CMS Made Simple by absorbing this information.
+To get to the Administration Console you have to login as the administrator (with the username/password you mentioned during the installation process) on your site at http://yourwebsite.com/cmsmspath/admin.
+If this is your site click here to login.
+Read about how to use CMS Made Simple in the documentation(external link). In case you need any help the community is always at your service, in the
+forum(external link) or the IRC(external link).
+License
+CMS Made Simple is released under the GPL(external link) license and as such you don't have to leave a link back to us in these templates or on your site as much as we would like it.
+Some third party add-on modules may include additional license restrictions.
+^  Top
+Next page: How CMSMS Works
+Home
+How CMSMS Works
+Default Templates Explained
+Default Extensions
+© Copyright 2004-2016 - CMS Made Simple
+This site is powered by CMS Made Simple version 1.12

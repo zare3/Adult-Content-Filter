@@ -1,0 +1,88 @@
+https://www.litecoinpool.org
+litecoinpool.org
+Pool
+Speed135 GH/s
+Users844
+Reward100% PPS
+Login
+Forgot Password?
+litecoinpool.org
+Latest News (RSS): 2 months ago Happy 4th Birthday, LitecoinPool.org!
+About Join Stats
+Charts
+Calc
+Help
+FAQ
+Forum
+Welcome to litecoinpool.org
+Mining litecoins since October 21, 2011
+New to Litecoin mining? Read our Beginner's Guide!
+Welcome to the first true pay-per-share (PPS) Litecoin pool.
+Some of our key features:
+Exclusive ultra-low-latency Stratum server implementation, written in C
+Support for Stratum over TLS, to prevent MITM attacks
+Merged mining (AuxPoW) of 7 altcoins, paying out in litecoins
+Support for the resume extension to Stratum
+Adaptive share difficulty (“vardiff”), with support for manual tuning
+Network of 8 geographically-distributed, redundant servers
+Detailed stats updated every few seconds
+Email notification of idle miners
+Fee-free automatic and manual (instant) payouts
+Two-factor authentication support
+Website and mining interface also accessible as Tor hidden services
+Extensive JSON API
+The Reward System
+Every valid share you submit to this pool is instantly credited to your account
+at the current pay-per-share (PPS) rate.
+This rate, expressed in litecoins,
+also takes into account merged-mined coins such as Dogecoin,
+resulting in higher payouts
+than a regular Litecoin pool. Thanks to merged mining, you have to pay no fee;
+in fact, your earnings may even be higher than with a 0-fee PPS system.
+This is not a PPLNS, SMPPS or RBPPS pool:
+we always pay for your work,
+even if the pool has not yet solved enough blocks to cover the earnings generated.
+On other systems, miners are only rewarded when and if a block matures,
+but sometimes blocks get orphaned from the Litecoin network,
+and therefore yield no reward.
+A PPS pool, on the other hand,
+takes on the risk of bad luck so you don't have to deal with variance
+and orphaned blocks.
+A Bit of History
+LitecoinPool.org was started shortly after the birth of Litecoin by Pooler,
+who is well known in the community as a member of the Litecoin core development team
+and for being the maintainer of the cpuminer software package.
+Since the very start, the pool used ad-hoc software:
+Pooler wrote the front end entirely from scratch, with security and efficiency in mind,
+while the mining back end was originally a heavily-modified version of Jeff Garzik's pushpool.
+After two weeks of intensive testing, on November 5, 2011
+the pool opened its doors to the public, becoming the first PPS pool for Litecoin.
+In April 2012 LitecoinPool.org also became the first pool to support
+variable-difficulty shares, a technique later dubbed “vardiff” by Bitcoin pools,
+allowing miners to drastically reduce their network bandwidth usage.
+Thanks to its advanced features and its reliability, the pool quickly attracted
+a very high number of miners, to the point that during the first half of 2012
+it often constituted over 40% of the entire Litecoin network.
+Due to centralization concerns, it was decided to temporarily close new registrations;
+later in 2012, registrations were reopened, but have since been subject
+to approval.
+In August 2013 the back-end software was completely redesigned and rewritten
+from scratch to implement advanced efficiency and scalability optimizations
+that Pooler devised after implementing support for the Stratum protocol in cpuminer.
+This new implementation makes LitecoinPool.org the first Litecoin pool
+based entirely on software written from scratch, and the first pool
+to implement extensions to the Stratum protocol such as
+“resume”, “suggest_difficulty” and “suggest_target”.
+In September 2014 LitecoinPool.org also became the first Litecoin pool
+to offer secure mining over TLS-encrypted Stratum connections,
+protecting miners from potential man-in-the-middle attacks.
+Acknowledgements
+We wish to thank all the people who have, directly or indirectly,
+contributed to the development of this pool.
+In particular, many thanks go to (in alphabetical order):
+coblee, DeLorean731, Derringer, diki, g2x3k, Graet, guruvan,
+inlikeflynn, jgarzik, LittleDuke, piperitapatty, pontius,
+rTech, shawnp0wers, ssvb, terrytibbs, WKnight, Xurious.
+LitecoinPool.org —
+LTCPooLqTK1SANSNeTR63GbGwabTKEkuS7
+— Terms of Service

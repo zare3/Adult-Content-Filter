@@ -1,0 +1,65 @@
+https://www.adventure.tj
+phpMyAdmin
+Welcome to phpMyAdmin
+Language
+Afrikaans
+Shqip - Albanian
+العربية - Arabic
+Azərbaycanca - Azerbaijani
+Bangla
+Euskara - Basque
+Беларуская - Belarusian
+Biełaruskaja - Belarusian latin
+Bosanski - Bosnian
+Português - Brazilian portuguese
+Български - Bulgarian
+Català - Catalan
+中文 - Chinese simplified
+中文 - Chinese traditional
+Hrvatski - Croatian
+Česky - Czech
+Dansk - Danish
+Nederlands - Dutch
+English
+Eesti - Estonian
+Suomi - Finnish
+Français - French
+Galego - Galician
+ქართული - Georgian
+Deutsch - German
+Ελληνικά - Greek
+עברית - Hebrew
+हिन्दी - Hindi
+Magyar - Hungarian
+Bahasa Indonesia - Indonesian
+Italiano - Italian
+日本語 - Japanese
+한국어 - Korean
+Latviešu - Latvian
+Lietuvių - Lithuanian
+Macedonian - Macedonian
+Bahasa Melayu - Malay
+Монгол - Mongolian
+Norsk - Norwegian
+فارسی - Persian
+Polski - Polish
+Português - Portuguese
+Română - Romanian
+Русский - Russian
+Српски - Serbian
+Srpski - Serbian latin
+සිංහල - Sinhala
+Slovenčina - Slovak
+Slovenščina - Slovenian
+Español - Spanish
+Svenska - Swedish
+Tatarça - Tatarish
+ภาษาไทย - Thai
+Türkçe - Turkish
+Українська - Ukrainian
+Ўзбекча - Uzbek-cyrillic
+O‘zbekcha - Uzbek-latin
+Log in
+Username:
+Password:
+Cookies must be enabled past this point.

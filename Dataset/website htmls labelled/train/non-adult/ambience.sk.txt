@@ -1,0 +1,219 @@
+https://www.ambience.sk
+Ambience | Musings & rants on internet, Slovakia, Linux, SEO, politics (and more) served in English
+Ambience
+Musings & rants on internet, Slovakia, Linux, SEO, politics (and more) served in English
+Main page
+Internet
+Musings
+Politics
+Rants
+Archive
+About
+Future of Video Games
+During the past 20 years users have desired more and more reality in their video games. They wanted the game environs to be more real, their characters to be more real, to use real cars and their handling, real weapons etc.
+Collaborative and multiplayer games brought real (social) connections. Multiplayer computer games, social games, social network games etc. But there is still something missing.
+What is missing is reality of life around us. Why not to have real traffic jams when cruising the city in GTA? (Not so much fun you are saying?) Everything is online anyway, so why there is not a game that connects to real-time traffic updates in Google Maps and uses these data to simulate a game environment? What about a flying simulator with real-time plane traffic passing a player? How about geo-locating a player and using their location to fetch current weather conditions for use in-game? Or maybe the real-life schedules of trains or subway for the transport simulators? How about a real estate strategy with true prices being fetched from real estate search engines?
+I am sure you get the point. I think there is huge game potential to tapped using real-life data and no games tapping it. Do you know about such a game? Let me know!
+January 13, 2016 at 00:55 :: Filed under Musings
+:: [*] :: No Comments on Future of Video Games ::
+Cheap DIY Road Quality Monitoring
+Bratislava is well-known for its bad roads. Potholes, cheap asphalt, pools of water slowly evaporating after the rains.
+As I am a cyclist I have been thinking about how to cheaply evaluate road quality here.
+And my idea is this cheap DIY solution:
+You will need a mobile phone (or any other sound recorder) and a GPS logger. Sound (or rather noise) recorder will be recording “bumps” – noisy parts of the road – and a GPS logger will help you synchronize noise with location.
+Sound recorder should be placed inside a plastic box, where it will freely move (and jump if road quality worsens).
+Road quality evaluation – recorded waverform / noise example:
+Road quality cheap DIY evaluation
+After matching noise recording with GPS log, you can create a road quality heatmap such as this:
+Road quality DIY heatmap
+Strong noise translates into red and means road of very bad quality. Quiet recording or no noise translates to green and means road of very good quality with smooth surface. An average bumpy road is orange.
+February 16, 2015 at 23:13 :: Filed under Musings
+:: [*] :: 4 Comments on Cheap DIY Road Quality Monitoring ::
+Best Way How to Transfer Contacts and SMS from Blackberry to Android
+Transfer contacts from Blackberry to Android
+Other solutions require you to use desktop or mobile apps, this one uses Bluetooth and takes about half a minute (depending on a number of the contacts in your Blackberry phone):
+http://en.kioskea.net/faq/29202-blackberry-transfer-your-contacts-to-an-android-phone-via-bluetooth
+You turn on Bluetooth on both Blackberry and Android phones and use Transfer contacts via .vcf file, which then Android imports. That’s it. The whole process takes about 30 seconds.
+Transfer SMS from Blackberry to Android
+The fastest solution that works is this one:
+http://damn.technology/backup-sms-from-blackberry
+It requires PC software to be downloaded, otherwise it’s pretty smooth – as it uses SMS Restore app from Google Play.
+September 8, 2014 at 23:59 :: Filed under Internet
+:: [*] :: No Comments on Best Way How to Transfer Contacts and SMS from Blackberry to Android ::
+Show empty tags in a tag cloud in WordPress using add_filter
+If you are using tags for tagging custom types or fields in WordPress, the core of WordPress will not know about it. That’s why when showing tag cloud widget in a sidebar, it will list only those used in posts. All the other ones are treated as empty tags (unused tags) and they won’t be displayed.
+But adding this short code into your theme’s functions.php file will make sure that all tags are listed:
+add_filter('get_terms_args','showemptytags');
+function showemptytags($args) {
+$args['hide_empty']=false;
+return $args;
+}
+Using filters you are changing the default value of the query used for displaying the tags. This code forces the query to include also the empty or unused tags in your tag cloud.
+September 1, 2014 at 13:29 :: Filed under Internet
+:: [*] :: 1 Comment on Show empty tags in a tag cloud in WordPress using add_filter ::
+Lua LÖVE Game Distribution
+How easy is it to create distributable game from Love2D source code and what platforms you can distribute your LÖVE game on?
+There are many questions regarding this in Love Forums and not many clear answers. Be prepared: except for Windows it is a tedious process.
+Simple answer: You can distribute your Love2D game on desktop (Windows, Mac, Linux or via Steam) as well as on mobile (Android APK / GooglePlay) and for web (Love2D web player).
+Easy (all desktops and Android): love-release
+Download and use love-release script that automatically creates files (it requires zip, unzip and curl to work) required for the platforms you choose. This software will create game release for these platforms automatically:
+.exe for Windows
+.app for Mac
+.deb for Debian-based distros
+.apk for Android mobile
+.love for others (see Linux section below for nicer approach)
+Windows: .exe file
+Zip (pack) your complete directory of the LÖVE source code and rename this .zip file to .love file. After creating a single .love file, use official love.exe file and join it with your .love file:
+copy /b love.exe+YOURFILE.love YOUR FILE.exe
+This will create YOURFILE.exe that you can distribute separately (executable file) or optionally you can use some installer for the distribution.
+More info on distributing for Windows on Wiki of Love2D.
+Mac: .app file
+You need to first extract the official Love2D .app file and copy your source code (join) into this extracted .app file: .app/Contents/Resources/ directory. You will also need to modify info on the file located in: .app/Contents/Info.plist. Now zip (pack) the .app file and it is ready to be distributed.
+Linux: multiple options
+Update (August 19th, 2014): Simple Love Linux Distribution project allows you to package your .love file into the ready-made package that will take care of running the game for a user. It won’t install LÖVE software, it will only run the game! Any distro with glibc 2.15+ is supported including Ubuntu 12.04+, openSUSE 13.1+, Linux Mint 13+ and Fedora 20+. This approach should work with Steam as well.
+There is no unified way to distribute files under Linux as there are many different Linux distros available. You can depend on bash .sh scripts or on .bin/.run scripts that will contain bash instructions (e.g. create this directory, start unzipping this etc.) and have also a binary part that contains your packed source code.
+For Ubuntu, you can create a .deb file that will list its dependencies: love and liblove. Creating such a file by hand might be tedious. Use love-release as recommended above.
+You can however distribute .love file and ask users to install LÖVE through their package manager (mostly deb and rpm based distros).
+Android: .apk file / Google Play store
+You will need to use love-android-sdl2 (debug) package to pack your .love file for distributing on Android as .apk file. If you want to sell (or offer) your Love2D game in Google Play store, you will need to register.
+Steam / Steamworks: Web API
+Developers interested in distributing their LÖVE games via Valve’s Steam need to register at their website for partners to get more info on the distribution process. You can then submit your game via Steam Greenlight.
+Web: LÖVE player
+Game will run in a browser using Javascript to interpret your source code.
+You can see this example of a web player. You can also download the source code of the web player to put it on your website. Even more information is in this wiki.
+Details on distributing Love2D games
+More information on the topic of distributing your .love games is available on the official wiki.
+July 30, 2014 at 00:41 :: Filed under Internet, Musings
+:: [*] :: 1 Comment on Lua LÖVE Game Distribution ::
+Quotes from Books: An Officer and a Spy
+Robert Harris: An Officer and a Spy
+Intrigue-riddled alternative history thriller about the Dreyfuss affair by Robert Harris gives a good picture of Paris during the last years of the 19th century.
+Different take on “I have a dream” or Ghandi’s perseverance:
+And yet, in the end, we win – not in a flash of glory, as we had always hoped; not at the climax of some great trial, with the condemned man, vindicated at last, carried shoulder-high to freedom. We win quietly, behind closed doors, when tempers have cooled, in committee rooms and archives, as all the facts are sieved and sieved again, by careful jurists.
+Hey, conspiracy theorists, he is talking about you:
+There is no such a thing as a secret – not really, not in the modern world, not with photography and telegraphy and railways and newspaper presses. The old days  of an inner circle of like-minded souls communicating with parchment and quill pens are gone. Sooner or later most things will be revealed.
+I have a goal and I follow it, so you call me an obsessive?:
+“Why? You think I’m wrong?”
+“No, but I think perhaps you are in danger of becoming an obsessive.”
+“If I weren’t an obsessive, Dreyfus would still be on Devil’s Island.”
+On modern-day tabloids and media interest shifts:
+Billot’s prediction about Dreyfus and the press proves correct. As abruptly as they took him up again, the newspapers lose all interest in the prisoner on Devil’s Island. He is replaced on the front pages by stories about the Russian state visit, in particular by speculation about what the Tsarina will be wearing.
+On Paris at the end of the 19th century:
+June arrives. The air warms up and very soon Paris starts to reek of shit. The stench rises out of the sewers and settles over the city like a putrid gas. People venture out of doors wearing linen masks or with handkerchiefs pressed to their noses, but it doesn’t make much difference. In the newspapers the experts are unanimous that it isn’t as bad as the original “great stink” of 1880 – I can’t speak to that: I was in Algeria at the time – but certainly it ruins the early days of summer. “It is impossible to stand on one’s balcony,” complains Le Figaro, “impossible to sit on the terrace of one of the busy, joyful cafés that are the pride of our boulevards, without thinking that one must be downwind from some uncouth, invisible giant.” The smell infiltrates one’s hair and clothes and settles in one’s nostrils, even on one;s tongue, so that everything tastes of corruption.
+July 22, 2014 at 04:31 :: Filed under Musings
+:: [*] :: No Comments on Quotes from Books: An Officer and a Spy ::
+Quotes from Books: The Man In The High Castle
+Philip K. Dick: The Man In The High Castle
+Decisions, decisions and effects, effects:
+No wonder Mr. Tagomi could not go on, he thought. The terrible dilemma of our lives. Whatever happens, it is evil beyond compare. Why struggle, then? Why choose? If all alternatives are the same…
+Evidently we go on, as we always have. From day to day. At this moment we work against Operation Dandelion. Later on, at another moment, we work to defeat the police. But we cannot do it all at once; it is a sequence. An unfolding process. We can only control the end by making a choice at each step.
+July 6, 2014 at 20:01 :: Filed under Musings
+:: [*] :: No Comments on Quotes from Books: The Man In The High Castle ::
+Quotes from Books: The Variable Man
+Philip K. Dick: The Variable Man
+Direct (internet) democracy, anyone?:
+This gimmick makes it possible for citizens to raise and decide issues directly. They won’t have to wait for the Council to verbalize a measure. Any citizen can transmit his will with one of these, make his needs register on a central control that automatically responds. When a large enough segment of the population wants a certain things done, these little gadgets set up an active field that touches all the others. An issue won’t have to go through a formal Council. The citizens can express their will long before any bunch of gray-haired old men could get around to it.
+Slavs are not impulsive?:
+Reinhart, you’re too Anglo-Saxon, too impulsive. Be more Slavic. This man will be captured and destroyed within two days.
+Production (new) vs repairs (old):
+“I fix things. All kinds of things. Any kind.”
+Earl sneered. “Nobody fixes things. When they break you throw them away.”
+June 23, 2014 at 09:15 :: Filed under Musings
+:: [*] :: No Comments on Quotes from Books: The Variable Man ::
+Quotes from Books: Brave New World
+I’ll be posting quotes from various books that I read and caught my interest.
+Aldous Huxley: Brave New World
+Better drug than religion:
+Christianity without tears – that’s what soma is.
+Religion (rules) are always created by men:
+The gods are just. No doubt. But their code of law is dictated, in the last resort, by the people who organize society; Providence takes its cue from men.
+June 21, 2014 at 22:13 :: Filed under Musings
+:: [*] :: No Comments on Quotes from Books: Brave New World ::
+Love2D: A state switcher class (Lua)
+Simple state switcher class for Love2D / Lua that uses one file per state. It completely covers Love 2D state management for the game developers. Licensed under CC-BY 4.0 / Creative Commons Attribution International 4.0.
+Download:
+stateswitcher.zip (2,7 Kb; for Love2D / Lua)
+Code example:
+state=require("stateswitcher")
+state.switch("credits") -- switching to credits.lua
+Code example with passing a value:
+state=require("stateswitcher")
+state.switch("credits;2;hello") -- passing 2 as the first value, "hello" as the second value
+Code example to retrieve the values passed after switch:
+state=require("stateswitcher")
+step=passvar[1] -- gets the first value = 2
+greeting=passvar[2] -- = "hello"
+state.clear() -- clearing the values passed, so no zombie values hang around
+Other advantages:
+edit your code & save to see changes immediately after state switch (without leaving your program)
+reuse the functions from the previous states (to keep same behaviour) or redeclare the functions (to change behaviour)
+May 4, 2014 at 01:36 :: Filed under Musings
+:: [*] :: 11 Comments on Love2D: A state switcher class (Lua) ::
+Subscribe to RSS
+RSS feed
+Random Posts
+My Favourite Online Comics & StripsQuotes from Books: Brave New WorldNoir Adventure Game IdeaSergei Einsenstein’s Strike, Music by Alloy OrchestraQuotes from Books: The Man In The High CastleTag Cloud
+2010
+adventure
+andrej durkovsky
+bicycle
+bike
+bitcoin
+blog
+books
+bratislava
+cities
+cloud
+comments
+computer games
+copy
+corruption
+critical mass
+cycling
+download
+gnome
+google
+google maps
+history
+ideas
+information
+installation
+Internet
+investor relations
+issues
+kde
+linux
+love
+music
+photos
+planning
+problems
+public spaces
+quotes
+seo
+services
+slovakia
+synchronization
+tips
+ubuntu
+urbanism
+video games
+My Twitter
+Tweets by @dusoft
+Blogroll
+456 Berea Street
+Addis Ababa Travel Tips, Ethiopia
+Andrej's Miscellany
+Bicycle infrastructure best practices wiki
+Fuxoft
+Jeffrey Zeldman
+Open source bike sharing system
+Pizza SEO is the best SEO company
+SEO Blog with Taste
+Signal vs. Noise
+Loved Tracks
+Depeche Mode - PeacePrezident Lourajder - Vzduch sa opäť varí (Ujko na beate)Prezident Lourajder - Lord + Eremen, Mc Gey, 3CK (Emil na beate)Lyrik & AD - Mama vieLyrik & AD - Minúty
+my Twitter
+my Last.fm
+RSS feed
+(c) 2003-2010 Daniel Duriš, dusoft [at] staznosti [tod] sk

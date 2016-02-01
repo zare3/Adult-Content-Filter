@@ -1,0 +1,28 @@
+https://www.mibbit.com
+Mibbit - Easy and fast Webchat
+Client | Search | Widget
+Mibbit WebChat
+Loading ClientUserCount...
+With Mibbit, chatting online is easy. Just choose your nickname, pick a channel and press
+go! You don't need to sign up for an account and you can use it wherever you are with
+just a web browser.
+With Mibbit you can browse through and connect to channels or go straight to chat with people
+you already know. You can embed Youtube clips, use a pastebin, share the channel URL with friends and lots more.
+Signing up for an account gives you the option to control the way Mibbit works for you with a bunch of
+preferences for colours, smileys, and skins.
+Mibbit chat runs on all PC and Mac browsers, and if you're not at a PC it also works on PS3,
+Wii and iPhone too!
+Use Mibbit on your website
+Loading WidgetUserCount...
+Mibbit gives anyone the capability to create fast, flexible group chat on their
+site through the use of it's customisable Javascript widget. With Mibbit you can
+get a chat widget that is easy to use and has lots of configuration and connectivity
+options to IRC networks.
+In three easy steps anyone can build their own chat room and use it on their site.
+We also provide an API and premium packages to suit feature requirements.
+Adding a chat component to your website will keep your visitors on your website longer,
+and keep them coming back, building up a real community.
+Launch Mibbit Client
+Create a Mibbit Widget
+©2015 Mibbit
+Privacy policy | Terms of service |	Wiki | Blog | Twitter

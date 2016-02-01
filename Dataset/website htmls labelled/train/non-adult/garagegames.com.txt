@@ -1,0 +1,85 @@
+https://www.garagegames.com
+Game Development Tools and Software | GarageGames.com
+Game Development Tools and Software
+HomeProductsTorque 3DTorque 2DStoreHomeGenre KitsToolsArt PacksGamesCommunityWhat's NewBlogsResourcesForumsDev InterviewsMade with TorqueSupportDocumentationSubmit BugsPaid SupportServicesEducationCompanyAbout GarageGamesEmploymentLicensingLicensing FAQRSS FeedsLogo GuidelinesContact Us
+Register
+Login
+Cart
+Learn More
+Headlines
+Remember Dark Horizons: Lore? Now there's a way you can Kickstart the persistent networked world behind the MAV's!
+BE A HERO! Help GarageGames raise money for Children
+@ExtraLife4Kids
+Torque 3D has been unleashed on GitHub under MIT to everyone!
+Everyone should support Dead State at Kickstarter. Made with Torque 3D!
+2D Tuesdays - Box2D discussion wrap-up:
+Remember Dark Horizons: Lore? Now there's a way you can Kickstart the persistent networked world behind the MAV's!
+BE A HERO! Help GarageGames raise money for Children
+@ExtraLife4Kids
+Torque 3D has been unleashed on GitHub under MIT to everyone!
+Everyone should support Dead State at Kickstarter. Made with Torque 3D!
+2D Tuesdays - Box2D discussion wrap-up:
+Engines & Demos
+Torque News more »
+Happy New Year: Torque 2D Full Speed Ahead
+There were a lot of great events in 2015, of which my favorite was the revitalization of Torque 2D MIT. Peter and Chris have taken up the reigns and wasted no time in improving our favorite 2D game engine. If you check out the GitHub pages for Contributors and Commit Activity, you will see a huge increase in activity. So it should be no surprise that we have a new release!
+Author
+Michael Perry
+Date
+01/04/2016 (7:50 am)
+Comment
+6 comments
+Torque 2D MIT: New Committee and Next Steps
+Greetings everyone! Long time, no blog. I'll keep it short and sweet. Torque 2D MIT has been at a standstill for a few months now. For anyone who follows the GitHub feed, you may have noticed a recently flood of fixes and pull requests. I was recently contacted by Peter Robinson, who wishes to take over the engine, rebuild the committee, and push T2D to the next level.
+Author
+Michael Perry
+Date
+11/02/2015 (1:37 pm)
+Comment
+4 comments
+Updates to Torque 2D, Torque 3D, and Community
+Hey all. It's been a while since I posted a blog with some real meat. This blog contains important announcements regarding Torque 2D, Torque 3D, and the community itself. Continue reading to learn about the new chapter for T2D, fun demos for T3D, and how the new moderator TEAM is taking the fight to the spammers!
+Author
+Michael Perry
+Date
+02/25/2015 (8:24 am)
+Comment
+31 comments
+Merry Christmas GG Community
+ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho
+Author
+Michael Perry
+Date
+12/25/2014 (10:12 am)
+Comment
+23 comments
+Game Development Curriculum Free to Schools
+I would like to invite all of you within the GarageGames community to take the opportunity to view our entire Game Development course and to provide us with your thoughts and feedback.
+Author
+Geoff Beckstrom
+Date
+12/05/2014 (2:25 pm)
+Comment
+19 comments
+Game Development Curriculum
+In my last blog, I discussed GG|Interactive, a new initiative at GarageGames. We've been working hard on our curriculum and it's great to see it in the high schools and higher education.
+Author
+Eric Preisz
+Date
+09/26/2014 (5:43 pm)
+Comment
+13 comments
+Torque 2D 3.1 Available Now!
+At the end of the 3.0 release blog, we mentioned wanting to review how changes are pushed from the development branch into master. Today, Torque 2D 3.1 is the result of that effort. It's easy to forget when using the development branch as your daily engine environment, just how far behind master branch/binary users can be in terms of bug fixes and feature additions.
+Author
+Michael Perry
+Date
+08/14/2014 (8:07 am)
+Comment
+10 comments
+Home
+Products
+Community
+Support
+Company
+Copyright © GarageGames.com 2000 - 2016 All Rights Reserved. Terms of Service - Privacy Policy

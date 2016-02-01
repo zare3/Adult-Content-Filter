@@ -1,0 +1,213 @@
+https://www.gotmarko.com
+got marko?
+got marko?
+LetsEncrypt certs on OpenShift using acme-tiny
+LetsEncrypt is a new certificate authority that issues free certificates that can be used to offer HTTPS on your website.
+LetsEncrypt certificates currently have a short lifetime (90 days) and as they are both free and short duration, you are encouraged to automate the issuance and installation of the certs so that your sites never show an expired cert.
+OpenShift is RedHat’s Platform-as-a-Service offering that has both free and paid plans and if you are on the bronze plan or above, you can have your custom cert applied to your site.
+Interestingly enough, the bronze plan still allows 3 small gears to run for free (much like the free plan), so if your application is small enough (like this site) you can still run an HTTPS site for free.
+The big gotcha is that for SSL certs on OpenShift, you can’t just drop them in a directory in your gear and point the apache/nginx/whatever web server at the certs and just go.
+You have to add the certs to your account, either via the web or via their REST api.
+The official LetsEncrypt tool is a bit heavy-weight for running on a gear, I’m not even sure if it is possible with all the prerequisites it has, so I’ve chosen to use acme-tiny to implement my solution for LetsEncrypt certs on OpenShift.
+Since my code isn’t the prettiest, I’m not going to show it here, but will describe how it works so that you can implement it in your project.
+Follow the acme-tiny instructions for generating your account key and domain key files, then generate your CSR.
+I’ve named my CSR files after the short application name in my account (like staging or prod) and included both the official name (like www.example.com) and the rhcloud name (like example-gotmarko.rhcloud.com) so that either will work correctly without browser warnings.
+Since my gear is running the PHP cartridge, make sure that /.well-known/acme-challenge points to a directory that acme-tiny can write in, I do this by creating a subdirectory $OPENSHIFT_REPO_DIR/.well-known/acme-challenge and linking it back into the directory where the script runs.
+Script then calls acme-tiny with the account key, domain CSR (based on $OPENSHIFT_APP_NAME) with the challenge dir pointing to the local linked directory, then makes the chained cert like shown in the acme-tiny documentation
+Backup the keys, CSR, and certs
+Use the OpenShift REST API to upload the key using curl (where $CERT_FILE is the path to chained cert and $KEY_FILE is the path to the domain.key file):
+curl -k -X PUT https://openshift.redhat.com/broker/rest/domains/$OPENSHIFT_NAMESPACE/applications/$OPENSHIFT_APP_NAME/aliases/$ALIAS_NAME --user "<openshift-user>:<openshift-password>" --data-urlencode "ssl_certificate@$CERT_FILE" --data-urlencode "private_key@$KEY_FILE"
+After first time cert gets installed, you can then add the following to your .htaccess file to force all traffic to be HTTPS except for the /.well-known/acme-challenge path:
+RewriteEngine On
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteCond %{REQUEST_URI} !^/.well-known/acme-challenge
+RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [R,L]
+Setup a cron job (add the cron cartridge if not already installed) to run daily and skip all but the day you want run like so:
+#!/bin/bash
+day=$(date '+%d')
+if [ $day != 17 ]; then
+exit
+fi
+# run only 1 day per month, specified above
+$OPENSHIFT_REPO_DIR/letsencrypt/get-cert
+And there you have it, automatically renewing LetsEncrypt certificates on OpenShift (for the PHP cartridge at least).
+Wednesday December 30, 2015   ·
+Permalink
+Using the salt data module in a salt runner
+Salt runners don’t start with the full complement of salt modules loaded at start, but it is possible to load up some (many? all?) of the modules if they are needed.
+I wanted to use the data module to store the result of a runner execution to reduce duplicate processing, but just adding an import salt.modules.data did not work, when the data.update() call was made, it threw an exception (something about __opts__).
+It took a bit of time and experimenting, but I found that I could load the module and call it like so:
+import salt.client
+import salt.config
+__opts__ = salt.config.minion_config('/etc/salt/minion')
+datamod = salt.loader.raw_mod(__opts__, 'data', None)
+datamod['data.update']('keyname', 'value')
+Hopefully this will help someone else, as when I looked in Google for answers (late August 2015) it was difficult to find anything about using modules in salt runner scripts.
+Tuesday September
+1, 2015   ·
+Permalink
+Running Textpattern on OpenShift
+Yes, it is possible to run Textpattern on Red Hat’s OpenShift platform, this weblog is running there right now.
+Sign up for an OpenShift account and install the command line tools
+Create an application: rhc app create txpblog php-5.4 mysql-5.5 cron-1.4
+cd into txpblog
+Unpack your version of textpattern and place the textpattern directory, other directories, and php files into the base directory of the project
+commit the change to git
+push to OpenShfit with a git push
+visit txpblog-domain.rhcloud.com/textpattern/setup.php in your browser to do the setup (you’ll need the mysql username, password, and database name from the output of rhc app show to pass the setup test to get to step 2)
+edit the config.php file, but use OpenShift env variables for the mysql connection information and the root directory as shown below
+commit and push the change to your OpenShift repo
+continue with the setup and when it says to remove setup.php (in step 4), remove it from your local git repo (git rm -r textpattern/setup) and then commit and push the change to the OpenShift repo
+Here’s what a config.php file running on OpenShift will look like using the environment variables:
+<?php
+$txpcfg['db'] = 'txpblog';
+$txpcfg['user'] = getenv('OPENSHIFT_MYSQL_DB_USERNAME');
+$txpcfg['pass'] = getenv('OPENSHIFT_MYSQL_DB_PASSWORD');
+$txpcfg['host'] = getenv('OPENSHIFT_MYSQL_DB_HOST');
+$txpcfg['table_prefix'] = '';
+$txpcfg['txpath'] = getenv('OPENSHIFT_HOMEDIR') . '/app-root/runtime/repo/php/textpattern';
+$txpcfg['dbcharset'] = 'utf8';
+?>
+Using the environment variables makes it easier to use the same config file if you want to use the same git repo to be both your staging site for changes and for your production site running on a different gear.
+Friday August 14, 2015   ·
+Permalink
+Party Mix (aka Chex Mix)
+Making Chex mix at the holidays is a tradition at our home, as I suspect it is in many homes.
+I like a bit more Worcestershire sauce in my Chex mix than most recipes call for, so here’s the recipe that I use.
+2¼ cups rice chex
+2¼ cups corn chex
+2¼ cups wheat chex
+1 cup pretzel sticks
+1 cup mixed nuts
+½ cup butter or margarine
+4 Tbs Worcestershire sauce
+1½ tsp seasoned salt
+¾ tsp garlic powder
+½ tsp onion powder
+Melt the butter in a 2 cup glass measuring cup in the microwave, add the Worcestershire sauce and mix thoroughly, then add the seasoned salt, garlic and onion powders and mix again.
+Pour over the chex, pretzels, & nuts and stir to coat as evenly as possible.
+Bake in a 275° oven for 60 minutes, stirring every 15 minutes.
+Pour out onto paper towels backed with newspapers to cool.
+Saturday December 29, 2012   ·
+Permalink
+Multiple Monitors on a Laptop with Ubuntu 9.10 (Karmic Koala)
+Recent movement of machines around left me with an extra monitor that I could use as an external display with my laptop running Ubuntu 9.10 (Karmic Koala).
+From reading numerous websites, I guess that multiple monitor support didn’t improve with 9.10 over 9.04, but I did find a couple of articles that helped me craft a setup that works for me.
+The original articles are:
+Karmic dual monitors now assigns second monitor as primary specifically post #3
+Adding universal shortcuts in ubuntu/gnome (view the google cache version)
+What I ended up with was a couple of small scripts in my bin directory called ext-on and ext-off:
+ext-on
+#!/bin/sh
+xrandr --output LVDS1 --primary
+xrandr --output LVDS1 --auto --pos 0x0 --output VGA1 --auto --right-of LVDS1
+ext-off
+#!/bin/sh
+xrandr --output VGA1 --off --output LVDS1 --auto
+I then used gconf-edit to bind those commands to <Super>-2 and <Super>-1 respectively to turn on and off the external monitor.
+Hope this helps someone else looking for an easier way to manage a second monitor than having to go into display properties every time you connect to an external monitor.
+Sunday January 17, 2010   ·
+Permalink
+Carved Golf Balls
+Getting ready for an upcoming carving class that #2 and I will be attending, I was looking around for carving info on the web.
+I wandered onto the forums at Woodcarving Illustrated where I found a golf ball carving tutorial by Gene Messer.
+After some more searching around the net, I ended up on YouTube where I found that Gene has recorded lots of video tutorials, including a series on carving and painting a golf ball.
+Here are links to the golf ball series to make it easier to find:
+Carving A Face On A Golf Ball Part 1
+Carving A Face On A Golf Ball Part 2
+Carving A Face On A Golf Ball Part 3
+Painting The Carved Golf Ball Part 1
+Painting The Carved Golf Ball Part 2
+Painting The Carved Golf Ball Part 3
+The ball on the right is the one I carved after reading the tutorial.
+It was painted after I’d found Gene’s videos.
+After thinking about it and watching some of Gene’s Santa carving videos, I came up with the Santa face on the left.
+Saturday November 22, 2008   ·
+Permalink
+Projects posted at LumberJocks
+I’ve posted three projects over at my LumberJocks project page.
+Left to right they are Lollipop Tree, Shaker Wall Cabinet in Cherry, and Shaker Wall Clock in Cherry
+Tuesday December
+4, 2007   ·
+Permalink
+Woot-Off Helper Greasemonkey Script
+I just realized there was another Woot-Off going on today and I’d never mentioned my Woot-Off Helper Greasemonkey script.
+Woot-Off Helper does just two simple things to make it easier to follow a Woot-Off from your browser:
+Reads the size of the bar between the flashing orange lights and places the percentage at the beginning of the page title
+Reloads the page every 90 seconds
+Now you can just keep a tab open with the Woot
+page and easily glance at what percentage is left.
+If you switch to the Woot tab before minimizing it, you should be able to catch the item changes too.
+You can also find the Woot-Off Helper on userscripts.org
+Thursday August 30, 2007   ·
+Permalink
+District Pinewood Derby
+The District Pinewood Derby was held the last Saturday of March this year.
+Since #2 had finished in the top three at the pack races, he got to participate in districts for his third year in a row.
+Until two days before the districts, the car just sat in our carrying box.
+I took a little bit of the lead weight out of the car, since the districts use a scale that measures to 0.005 of an ounce and our pack just measures to 0.1 of an ounce.
+On Friday night, we added some more graphite to the wheels and #2 spent time spinning the wheels on our wheel polishing rig.
+On race day, #2’s car “The Natural” was just one of 118 cars in the event.
+First race is typically against your pack mates and #2’s car won the heat and beat the first and second place cars from his pack.
+It looked like his car was pretty fast and when the standings went up, his car was in 13th place overall.
+The Natural won it’s second heat and moved up to 12th in the standings (running faster that the first heat).
+The Natural won the third heat too (running faster than the first two heats) and moved to 8th place overall and fourth fastest bear.
+The Natural won the fourth heat too, but we had to wait for the awards ceremony to tell where he might place.
+As the awards went on, we found out that he finished as the fastest bear in the derby (after the top three which included two bears) and got to take home a great trophy.
+Sunday April
+8, 2007   ·
+Permalink
+Pinewood Derby 2007
+The pack’s 2007 Pinewood Derby was held the first Saturday in February this year.
+Only #2 was competing this year as #1 had moved onto Boy Scouts.
+At left is #2’s car “The Natural.”
+He wanted a thin wedge car again this year, so I cut the block to the shape he wanted.
+Once he was done sanding the saw marks off, he liked the grain pattern so just went with a clear coat.
+Much work was done on the axles and wheels to get them just so.
+At the practice day, the car was running straight, but a little slow, so we added more graphite and #2 spun the wheels on our wheel polishing setup.
+The day of the race came and The Natural seemed to be running well.
+He won most of the heats he was in (though the scoring is on time alone) and ended up finishing third overall in the pack.
+This means another trip to the district pinewood derby (he’s qualified every year in scouts for the district race).
+I built three cars for the open class races, two for the stock class and one for the unlimited class.
+Black
+This was my open stock car, it finished fifth overall.
+I probably should have spent more time on the axles instead of the design.
+Pink Ribbon
+The wife is a den leader this year, so I built this car for her to race.
+Remote Control Car
+For the open unlimited class I stuffed this old DVD remote with lead and slapped on the wheels.
+It finished second to a slightly heavier car.
+Sunday April
+8, 2007   ·
+Permalink
+Older Articles→
+Email
+gotmarko at gmail.com
+Browse by Category
+Life
+Linux
+Misc
+Solaris
+Web
+Woodworking
+Older articles
+Aunt Ruth's Graham Cracker Pie
+Cub Scout Bird House
+LED Flashlight From Garage Door Remote
+Making a hot wire foam cutter
+Are you a LumberJock?
+Window Bench in Google SketchUp
+Angled Footstool in Google SketchUp
+Using SMTP AUTH as a client
+My First Raised Panel Door
+Pinewood Derby 2006
+Syndicate with:
+RSS /
+Atom
+Powered by:
+TextPattern
+Hosted by:
+OpenShift
+Search
+Copyright © 2002-2015.
+All Rights Reserved.

@@ -1,0 +1,64 @@
+https://www.adserver01.de
+Official adserver of adnanny GmbH
+adnanny
+This is the official Adserver of adnanny GmbH
+This Adserver is officially approved
+by major Internet-Companies like Yahoo, Google etc. If you have Problems with our Adserver
+please mail immediately to info@adnanny.com
+Privacy
+adnanny GmbH does not save any personal information in the cookie
+and cannot connect an interest profile to a specific person.
+We follow the IAB guidelines for behavioural targeting in
+our interest based advertising.
+Cookie opt-out
+If you have recieved a cookie from our server, you can delete it here:
+Opt-Out from adserver01.de Cookies
+Advertise
+Do you want to run a banner campaign with us?
+Please write an email to newcampaign@adnanny.com and
+we will get back to you shortly!
+More about cookies
+Four Ways to Say No (Opt out)
+Download opt-out cookies. This
+is a process that usually involves clicking on a button to download the opt-out
+cookie. To do this, you go to the marketer's Web site, find the privacy policy,
+then find the "opt out" information. The cookie your computer will
+get tells the company not to track you anymore. Yes, it is a little bit of extra
+work to click on the links. See the "More About Opt Out Cookies" section
+below for more information.
+Use the cookie management tools in your Web browser.
+Also, use cookie management
+tools to be selective in what long-term cookies you accept. In the newest versions
+of most web browsers, you can set your browser to accept only session cookies,
+or to turn all cookies into session cookies. Session cookies are generally harmless.
+For Macintosh Safari users, you can tell the browser to only accept cookies
+from "the site you are navigating to." This means that you will not
+accept third party cookies. To explore what cookie settings are available to
+you, look in the "preferences" or "options" section of your
+browser's menu.
+View current cookies and delete what you don't need.
+Most Web browsers allow
+you to see what cookies you already have stored. You may have thousands of cookies
+if you are like many Web surfers. Some cookies, such as registration cookies
+for Web sites you visit frequently, are useful to keep around. But other cookies,
+like tracking cookies from atdmt.com, doubleclick.net, 2o7.net, atwola.com,
+and other advertisers aren't necessarily helpful to you. Delete the cookies
+you don't need, and do a periodic check every couple of months to weed out your
+cookie folder.
+Check your account preferences on registration sites. Some sites, such as
+eBay, require registration and the use of cookies. On eBay, for example, if
+you do not opt-out of advertising tracking, information about your eBay activities
+can be used by other sites and advertisers outside of eBay. EBay discloses this
+in its privacy policy. However, using your account preferences, you can opt-out
+of this kind of tracking. In this case, you are not downloading an opt-out cookie,
+you are setting a preference on a site where you have registration information.
+For more information: the World Privacy Forum published a report about various
+kinds of online tracking cookies as part of its testimony about behavioral advertising
+to the Federal Trade Commission. That report discusses opt out cookies (see
+below), and it also discusses rarer kinds of cookies such as Flash Cookies,
+Silverlight Cookies, and others. The report is located here: http://www.worldprivacyforum.org/pdf/WPF_NAI_report_Nov2_2007fs.pdf.
+This information was taken from:
+http://www.worldprivacyforum.org/cookieoptout.html
+See this page how to opt-out:
+http://www.networkadvertising.org/managing/opt_out.asp
+© 2013 adnanny

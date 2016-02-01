@@ -1,0 +1,173 @@
+https://www.figby.com
+figby.com - Michael Moncur's weblog
+figby.com
+A weblog by Michael Moncur
+HomeArchivesAbout FigbyContact Me
+April 23, 2010quick linksIs Facebook the new internet and how soon before Microsoft tries to buy it ? « blog maverick — apparently, if you’re completely obsessed with Facebook, it looks like “the new internet”.
+Remember when MSN was going to be the new internet? How did that work out?
+#
+April 19, 2010quick linksFOXNews.com – 7,500 Online Shoppers Unknowingly Sold Their Souls – This is why we don’t update SlashNot anymore. Reality has become sillier than satire.
+#
+April 13, 2010quick linksHow Much Do Music Artists Earn Online? | Information Is Beautiful Aha! An infographic that actually illustrates something. Something depressing.
+#
+April 12, 2010
+Please Stand By.
+Filed under:
+General — 10:57 pm
+Well, it looks like I let this site go a year without a real post. Again.
+I’m going to bring it back, and in a tradition I’ve carried on since 1998, the first post in a year will be one with no useful content at all. You’re soaking in it.
+I’m currently debating what to do with this site. I might write more about what I do in my businesses (running web sites and, lately, iPhone development). Or I might just turn it into a list of links to things I write elsewhere. At any rate, something will happen here soon. I’ll at least update the categories. I just noticed “PalmOS” is still there. How embarrassing.
+I’m currently in San Jose for the excellent 360iDev conference. Working on an iPhone app, which will hopefully be published soon. Playing with my new iPad, which is either The Future of Computing or The Death of Creativity as We Know It depending on who you believe. I’m pretty sure I don’t agree with either side.
+I will post a full report on 360iDev soon, if nothing else. Stay tuned. In the meantime I’m occasionally on Twitter.
+Comments Off			|
+View blog reactions
+quick links “Infographic” – Heh. Finally something to link to when I see stuff like this.
+#
+December 27, 2009quick linksList of animals with fraudulent diplomas – Wikipedia, the free encyclopedia – This is why traditional encyclopedias will never be as good as Wikipedia.
+#
+September 23, 2009quick linksHost Your Own Awful Party For Windows 7 – Microsoft – Gawker – This video is the best evidence yet that Microsoft’s marketing department exists on an entirely different planet than ours.
+#
+July 18, 2009quick linksSome E-Books Are More Equal Than Others – Pogue’s Posts Blog – NYTimes.com – Wow, Amazon has taken a page from Microsoft’s Playbook for getting colossally bad PR.
+#
+May 6, 2009quick linksAmazon.com: Kindle DX: Amazon’s 9.7″ Wireless Reading Device (Latest Generation): Kindle Store – Apple? Are you listening? Please release an ebook reader that looks absolutely nothing like this.
+#
+April 30, 2009quick linksFlickr Hit Hard By Yahoo Layoffs – Dear Yahoo: Please put someone different in charge before there are more boneheaded decisions like this.
+#
+April 27, 2009quick linksGeoCities will close later this year
+– this is why you shouldn’t be trusting flickr or delicious with your data. Yahoo could get bored of them at any time… [via]
+#
+April 3, 2009quick linksjoshua’s blog: on url shorteners – I hate URL shortening services, and I consider Twitter’s reliance on them to be one of its biggest failings. One day of coding and they could have their own URL database to solve this problem without relying on external sites.
+#
+April 2, 2009
+Best of April Fools 2009
+Filed under:
+Humor — 3:43 am
+Every year on April 1st, sites all over the Web take a break from serious business to post believable, yet strange, announcements. Here are a few of my favorites this year:
+Palm announced that the all-new Pre will run old PalmOS software.
+Microsoft hinted that they’re making a version of Office for the iPhone.
+Blackberry opened their own “App store”.
+The Texas State Senate added a provision to the state’s budget to prevent purchases of Windows Vista.
+CNET spent four months warning Windows users about a virus that turned out to have no impact at all.
+The Onion won a Peabody award.
+Twitter pretended that they waited three years after they launched to add a Search feature to their home page. Calling it “The Discovery Engine” was delightfully droll.
+Keep it up, guys! While these were pretty funny, none of them quite beats Google’s big announcement five years ago. Hopefully next year they’ll all come up with some better comedy.
+Comments Off			|
+View blog reactions
+March 20, 2009quick linksDouglas Bowman leaves Google – that’s a shame, Google really needed a good designer. I’m surprised he spent so much time fighting the current there.
+#
+February 27, 2009
+The unrecognizable Internet of 1996?
+Filed under:
+General — 8:59 pm
+In The unrecognizable Internet of 1996, Farhad Manjoo of Slate Magazine gives his impressions of the Web of 1996, although he admittedly wasn’t there. This is amusing in the same way as hearing a modern high-school student talk about the music and fashion of the 1970s, but I thought I should correct some of his misconceptions.
+I started thinking about the Web of yesteryear after I got an e-mail from an idly curious Slate colleague:
+What did people do online back when Slate launched, he wondered? After plunging into the Internet Archive and talking to several people who were watching the Web closely back then, I’ve got an answer: not very much.
+David Wertheimer says that’s bullshit, and I agree. In 1996 the web was already so busy that a single person couldn’t keep track of the whole thing, or hope to read everything online. My quotations site was two years old by then, and even in the narrow field of sites about famous quotations it was one of about 200. I couldn’t keep track of all of them. By contrast, when I launched the site in 1994, it was the only one in the category. In early 1995 it was one of three sites in the category, and I regularly talked with the owners of the other two.
+Some of Yahoo’s 1996-era front pages have been saved in the Internet Archive. What’s interesting about them is what they lack. First, no e-mail: The first webmail site, Hotmail, launched in July of 1996.
+But webmail is not email. People were emailing each other long before Hotmail, using desktop clients like Pegasus and Eudora. They looked pretty much exactly like today’s desktop email clients, except for one thing: there was no spam.
+In 1994, a Swarthmore College student named Justin Hall began links.net, one of the very first personal Web sites.
+This seems wrong – I set up a personal site in 1994, and I’m pretty sure I wasn’t “one of the very first”. I doubt I was one of the first 500.
+I’m sure I could find a few other mistakes in this shoddy article, but my point is this: 1996 was when the Web really started to get big. Real media companies like Time Magazine and the New York Times were seeing its potential for the first time, regular people who weren’t computer-obsessed were beginning to outnumber the geeks, and businesses like Amazon.com were just starting to make money online. The dot-com boom had begun, and advertising-powered sites like Slate were starting to make real money. Saying this was “not very much” going on online is like saying that, since there was no TV, no SUVs, and no Wal-mart, there wasn’t much going on during the industrial revolution.
+[via Kottke]
+Comments (4)			|
+View blog reactions
+February 3, 2009quick linksPrinting The NYT Costs Twice As Much As Sending Every Subscriber A Free Kindle – Or they could put it on the Web and not send anyone an unnecessary ugly gadget.
+#
+October 21, 2008quick linksTED | TEDBlog: A brief digression on lost time: John Hodgman on TED.com – A somehow touching speech about alien abductions. He’s not just a PC, you know.
+#
+Bloglines Crawler Problem Fixed – Attention Bloglines: Waiting three weeks after a major problem begins and after bad press to post a paragraph-long “it’s fixed” announcement is really not the best way to keep your users (I might be the only one left) happy. Any business with the word “Blog” in its name should know better.
+(2)
+#
+August 3, 2008
+My iPhone Thinks I’m in Minnesota
+Filed under:
+Technology — 3:39 am
+I’ve had an iPhone since last year, and being congenitally without a sense of direction, I’ve found the Google Maps feature particularly useful. After clicking the Maps icon, one click on the “locate me” button would peg the map to my current location. Despite not having a GPS chip, the iPhone would do an admirable job of finding my current location using cellphone towers, WiFi, and some sort of dark magic.
+Although this was good, I was really looking forward to using the maps on the new iPhone 3G with true GPS. I brought a new 3G iPhone home last week, gleefully clicked on the Maps and “locate me” buttons, and instantly found myself on a map centered on Wayzata, Minnesota. I’m sure it’s a fine place, but unfortunately, I’m 1300 miles away in Utah.
+It seems the “assisted GPS” in the iPhone 3G is getting the wrong kind of assistance. It uses cell towers to locate itself before using GPS, in order to speed up the normally slow GPS satellite lock process. This works for most people, but some of the 3G towers are incorrectly listed. The one near my house, apparently, is listed as just outside of Minneapolis. This “assistance” overrides the GPS chip so I’m completely unable to get an accurate GPS location anywhere near my home.
+At first this seemed like an odd defect in my phone, but several other Utah locals, including my wife, have the same problem. In addition to Utah, it looks like there is at least one other glitch in the database: several people in Oregon have iPhones that believe themselves to be in Texas.
+As reported elsewhere, turning off 3G solves the problem. If you turn off 3G, then locate yourself on the map, it will correctly lock on. Unfortunately, as soon as I turned 3G back on and opened the map, it did a lightning-fast scroll across the country and brought me back to Wayzata, MN.
+Several of our friends say that resetting or restoring their phones solved the problem, but that hasn’t worked for us. I think it occasionally works because the phone reaches a different tower, or a non-3G signal, after resetting.
+I’m sure this can easily be fixed with a software update, but in the meantime, I’m not exactly thrilled by the iPhone’s GPS performance. Considering the lack of press, I think it’s a very isolated issue. Is anyone outside of Utah or Oregon having similar troubles?
+Update 2008/10/07: As of a few days ago, the problem is fixed. 3G gets me an estimated location quickly everywhere I’ve tried it, and GPS locks in shortly thereafter. This did not coincide with an iPhone update, so I think AT&T fixed something in their network.
+Comments (1)			|
+View blog reactions
+June 27, 2008quick linksDual-display e-book concept mimicks reading, makes complete sense – Engadget Yes. That’s what’s missing from the e-book experience. Page turning.
+#
+June 26, 2008quick linksAnil Dash: Bill Gates and the Greatest Tech Hack Ever – I considered Bill Gates “evil” for many years, but in the last few years he’s become one of my heroes. Good luck without him, Microsoft…
+#
+June 20, 2008quick linksWhat is it like to write a technical book? at Xaprb – a very realistic and well-written look at the process.
+#
+It Gets Worse: Joshua Schachter Leaving Yahoo – Just two weeks ago the “Last one out, please turn out the lights” jokes were still funny. Now I’m not so sure.
+#
+June 19, 2008quick linksMan gets Windows Vista to work with printer – Why does The Onion still exist when headlines like this appear in real newspapers?
+#
+June 18, 2008quick linksFirefox 3: Google Browser Sync Discontinued, No Firefox 3 Support – The trouble with “20% Time” is that it doesn’t necessarily create products that will be supported in the future.
+(1)
+#
+May 9, 2008quick linksYouTube – Big Broccoli Ocarina – Now I can truly say I’ve seen everything, including “Angels We Have Heard On High” played on Broccoli. [more here]
+#
+May 6, 2008quick linksEric’s Archived Thoughts: The Really Perfect Ringtone – Best ringtone ever.
+#
+May 4, 2008quick linksMicrosoft pulls its Yahoo offer – via Scoble, who described it thus: “Yahoo is a bleeding animal. Left lying, gasping for its breath, after a larger animal (Microsoft) struck and then walked away after it proved too difficult to eat.”
+#
+April 7, 2008quick linksIn Web World of 24/7 Stress, Writers Blog Till They Drop – New York Times – Another valiant but ridiculous effort by mainstream media to make the Internet seem dramatic.
+#
+March 28, 2008quick links
+AT&T Is Working on Its Own 3D Browser Pogo.
+– Attention AT&T: Adding some silly, usability-challenged 3D eye candy to Mozilla does not make for an improved web-browsing experience.
+#
+Recent Posts
+My Other Sites
+The Quotations PageThe Web’s oldest quotation site.
+The Literature PageRead classic literature online
+Website WorkshopMy articles on Web development topics
+The Gadgets PageGadget reviews and articles
+The JavaScript WorkshopSupport for my JavaScript books
+SlashNOTSatirical geek news weblog
+michaelmoncur.comMy resume, books I’ve written, etc.
+Starling FitnessMy wife and I run this fitness weblog.
+Sequenced NotesMy electronic music weblog
+Starling TravelMy wife and I run this travel weblog.
+Support Figby.com
+My Amazon Wish List
+Weblogs I Read
+A Whole Lotta Nothing
+Anil Dash
+Doc Searls
+Eric Meyer
+Jeremy Zawodny
+Many-to-Many
+MetaFilter
+mezzoblue
+Mike Davidson
+Photo Matt
+ProBlogger
+Scobleizer
+Searchblog
+Simon Willison
+SimpleBits
+Slashdot
+Stopdesign
+Categories
+General
+Humor
+Internet
+Macintosh
+Music
+PalmOS
+Quick Links
+Science
+Technology
+Web Development
+Windows
+Other
+Login
+Register
+Meta
+RSS 2.0
+Comments RSS 2.0
+Valid XHTML
+WP
+(c) 2001-2007 Michael Moncur. All rights reserved, but feel free to quote me.
+Powered by WordPress

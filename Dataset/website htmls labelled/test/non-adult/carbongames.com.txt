@@ -1,0 +1,174 @@
+https://www.carbongames.com
+Carbon Games
+Toggle navigation
+News
+Games
+About
+Tech
+Careers
+Forums
+Presskit
+Contact
+We work with things like Giant Robots and experimental Virtual Reality for a living.
+How cool is that?
+Our Games
+Visit Site
+AirMech
+AirMech is a fast-paced Action RTS game that can be played online competitively or cooperatively.
+Earn Kudos and Experience in battle and unlock a wide collection of AirMechs, Pilots, Units and Items to customize your army to suit your own strategy.
+Visit Site
+AirMech VR
+AirMechVR brings fast-paced giant robot combat to virtual reality via the Oculus platform. Coming soon!
+Visit Site
+AirMech Arena
+Enjoy all of the mechanical mayhem of AirMech on your favorite console with AirMech Arena!
+News
+Nov 5, 2015
+New Networking Model and Menu Tutorials
+New Networking Model and Menu Tutorials
+We've been doing a lot of work on the network code and are ready to try out a new model. Give it a try in multiplayer and be sure to let us know if it plays any smoother for you. Feedback is always appreciated. http://airme.ch/1GNQ45x
+New players will now be greeted upon exiting the Challenges and given a brief tutorial for the Basecamp and some pointers to help them out in the menus. A Comms Mk1 structure will now be required to view chat, and they'll be prompted to get a blueprint from the Shop. Existing players will also need a Comms Mk1 Blueprint before they can access chat!
+The Nanoforge has finally broken loose from the Info tab and is now a floating window with it's own chat channel and redesigned UI.
+There are a number of minor bugfixes and UI updates in this patch, but it's main purpose is to test updates to the networking layer and work to address the disconnect issues we've been monitoring, as well as gain more information on startup issues that some players are having.
+General Updates:
+moved the Nanoforge out of the Info tab and into its own window
+group selected units will now continue to their capture target even if it is captured before they arrive
+new Basecamp and menu tutorials for new players
+a Comms Mk1 structure is now required to use chat
+improvements and optimizations to network code
+Ultimate Parts for Helix added to the Shop: Ultimate Helix Engine, Ultimate Missile Ammo, Ultimate Helix Missile Launcher, and Ultimate Helix Armor
+some improvements to AirMech AI
+updated various dialog boxes
+updates to pilot descriptions
+added map lore tooltips
+added map lore descriptions to map selection menu
+tweaks to tooltip backgrounds
+Bug Fixes:
+fix for clicking Basecamp tiles through other menus
+fix for blurry chat badges
+fixed arm not appearing on Neo
+fixed some detached fins on Striker skins
+fix for units in cargo being given the capture command after dropping an infantry unit
+fix for maps not saving correctly
+some fixes for getting stuck in Basecamp tutorials
+fix for AirMech Level Up ability not working with new ability system
+fix for Honeypot using wrong range indicator while on a neutral/unowned socket
+fixed crash issue after login
+fixed left wing not showing ground contrails on some Striker skins
+fixes for text spilling out of dialog boxes
+fix for spectators gaining control of a player once all players have disconnected from the match
+Balance Changes:
+new stats for Satellite Item
+allow Paladin aura to always be active in air-mode
+Paladin aura range in air-mode decreased from 8 to 6
+removed energy use for Paladin auras in air-mode
+Oct 30, 2015
+Happy Halloween!
+Happy Halloween!
+We made it just in time for Halloween, and made a special Name Your Price bundle to help you celebrate with some new flair! The Halloween Bundle includes 4500 diamonds and 10,000 kudos for whatever price you want. If you beat the current average price, you'll also receive a Ghost Gigi and Halloween Crate (Key included).
+This update isn't just about Halloween. We've got many big changes you'll notice as soon as you jump into a match. For starters, your AirMech abilities will no longer be built and picked up at structures. You'll be able to upgrade them instantly with ability points earned with each level-up. We're also raising the in-game level cap from 15 to 20! This will allow you to fully upgrade most of your abilities at max level, but not all of them. Choose wisely!
+What does this mean for Guardians? Since Guardians can be destroyed or lost, we've added an automatic respawn timer to rebuild them. When your AirMech is destroyed or a Guardian is shot down, it will take 30 seconds for each Guardian you've unlocked.
+To top things off, we're throwing a new skin into the Fall Crate -- the Raptor Neo. Don't forget to the Shop to find the Ultimate Boxer, as well as all your favorite Halloween event items for a limited time!
+General Updates:
+abilities are now upgraded instantly, one ability point per level and no build time/cost
+AirMechs can now reach level 20 in-game
+Guardians now have a respawn time and will rebuild automatically after being destroyed
+improving spacing of infantry in squads
+tips will now appear for players with empty loadout slots
+new minimap icons for AirMechs and structures
+click the minimap to ping teammates at that location
+many fixes improvements to AI AirMechs
+made Trainer and Basic AI a bit less aggressive
+new Ultimate Unit: Ultimate Boxer
+Bug Fixes:
+fixing a crash which occurred when loading a map with no sample map
+fixing a crash which could occur with custom maps
+fixed shadow display when zoomed out in the Map Editor
+fixed controller input getting stuck after closing chat while spectating
+fix for login UI getting stuck using an existing account with Steam
+fixed not being able to select map from "Player Maps List"
+fixed an issue on Duel that caused units to clump against an outpost when given an order
+fixed an issue that prevented units from accepting orders
+fix for AI AirMechs trying to chase down carried units
+fixed an issue with AI AirMechs trying to issue mass commands to player owned units
+fixed Nexus Saucer not using team-colored assets
+fixed trail and teeth on the blades of Steampunk Bomber
+fixed right wing not displaying correctly on Super Helix
+fix for player status turning ready before clicking Ready button
+fixed some outdated text regarding Generator functions
+no longer display the content suggestion dialog at endgame when replaying or spectating a match
+fixed game message and upkeep scripting commands for custom maps
+fixed some floating props on Twin Peaks
+fix for unresponsive Quest button
+fixed missing eyes on Beppo Probe
+fixed being able to drop units in some props on Salt
+fix for Missile Lifespan stat not updating properly from livebalance data
+Balance Changes:
+Fixer build cost decreased from 1200 to 1000
+Fixer build time decreased from 2.6 to 2.2
+Fixer healing range decreased from 7.5 to 5.5
+Patcher healing range decreased from 7.5 to 6
+Honeypot healing range off-socket increased from 6 to 9
+Honeypot healing range on-socket increased from 12.5 to 13.5
+reduced level up bonuses from 5% to 4% for levels 1-15
+Bucky armor piercing increased from 40 to 50
+Bucky fire delay increased from 1.5 to 2 (overall DPS from 117 to 88)
+Bucky missile speed decreased from 15 to 11
+Known Issues:
+Saucer's Teleport description updated before ability changes went in
+Oct 7, 2015
+World Space Week!
+World Space Week!
+World Space Week is here! All the planets--even Pluto--are available as pets! Plus tons of other content for a very limited time, as Halloween is fast approaching.
+(more info on Space Week soon)
+General Updates:
+disabled transforming in Challenges 1 and 2
+improvements for AI AirMechs
+Bug Fixes:
+fixed Custom Map not being selected when loading from Top Maps tab
+fixed some cases where variable names were not saved properly in commands and conditions
+fixing an issue with not being able to edit settings in the Airmech Info property
+fixing a bug with Void mechs changing colors when near enemies with Void mechs
+fix for referee diamond award on first purchase
+fix for Abduct animation getting stuck on units
+fixed labels not showing on Sample Map tab of the Editor
+fix for drop-down selection boxes extending off screen
+fix for AI difficulty not updating properly between matches
+fixed an issue which prevented issuing Capture or Attack orders twice in a row when a new unit became included in the selection
+Balance Changes:
+Bucky armor piercing decreased from 60 to 40
+Grinder upkeep increased from 3 to 4
+Grinder build time increased from 16 to 17
+Grinder build cost increased from 12000 to 13500
+Grinder hit points increased from 2500 to 2750
+View All News
+Jobs
+View job listing powered by Catch the Best
+Technology
+Heat is our homegrown game engine that packs a punch. Heat works on numerous platforms and is the core technology behind our cutting edge VR development.
+Read More
+Our server technology provides the firm foundation upon which our online games are built. Developed entirely in-house, RockSolid™ allows us to deliver the features that players expect from modern online gaming.
+Read More
+About Carbon Games
+Carbon Games Inc. is a privately held company based in Bellevue, WA formed by experienced industry veterans.
+We are independent and free to make the games we want on the platforms we want, and interact with the public the way we want.
+We are Carbon. We make games.
+Newsletter
+Stay up to date with all the latest info about cool new projects from Carbon.
+Email Address
+Subscribe
+News
+Games
+About
+Tech
+Careers
+Forums
+Presskit
+Contact
+RSS
+Facebook
+Twitter
+Google Plus
+YouTube
+Steam
+Copyright © Carbon Games. All Rights Reserved. Terms and Privacy. AirMech is a trademark of Carbon Games Inc. in the United States and other countries.

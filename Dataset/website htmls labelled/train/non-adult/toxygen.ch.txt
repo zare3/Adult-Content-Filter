@@ -1,0 +1,74 @@
+https://www.toxygen.ch
+toxygen.ch
+[ Top ]
+Welcome to .ch
+All content (c) copyright 1996, 2015 by
+Toxygen Productions. Written by Michael Althaus. All rights reserved.
+[
+Introduction | Gallery | Sound | WorldDB Digital Atlas |
+Software | Contact ]
+Introduction
+This site is about the world of toxygen, a pseudonym I'm using
+since the early 1990s to sign most of my (art) work. Despite the
+fact, that toxygen originates from the composition of the words
+toxic and oxygen, it has no special meaning except
+for its unique sound. Have a look around and take some time. Enjoy!
+Photo Gallery
+Galleries marked with a star (*) have restricted access and
+require a password to enter. If you want to have access to any of
+these galleries, please contact me.
+Computer
+Graphics & Artworks (1996-2009) Older and a bit outdated stuff...
+*Southeast Asia,
+Australia,... (Autumn 2013-?) Constant work in progress and gets updated while I'm travelling...
+*Australia
+(Summer 2012)
+*Southeast
+Asia (Winter 2011/2012)
+*South
+America (Winter 2009/2010)
+*Wildstrubel
+SAC-Uto (Spring 2009)
+*Grotzli
+Weekend (Spring 2008)
+*East
+Canada
+Tour (Fall 2005)
+Music & Sounds
+Some rare tunes ~d(-_-)b~
+Unnamed
+(20060321; first mix), a chill out track (3:23, 142bpm)
+Sorry - your browser does not support audio.
+Sweep
+(first preview mix),
+a wild & raving drum'n'base track (3:18, 136bpm)
+Sorry - your browser does not support audio.
+WorldDB Digital Atlas
+What started as a personal travelling tool eventually became an extensive, interactive Digital Atlas of the World: Millions of unique points, vector
+layers and raster data mixed with real-time data - the world at your fingertip. Doesn't matter whether you're interested in geography or just want to explore what's around you - have a look!
+Software & Computer
+Programming
+Some software I've written. Please note, that the use of this
+software is at your own risk and restricted to private, noncommercial
+applications.
+TChess
+is a stylish front-end for playing chess games. It supports
+WinBoard
+compatible chess engines, playing over the Internet (with real-time
+chat and speech), engine battles, game import/export (PGN & FEN
+format) and more. Many skins from classic to ultra fancy are included.
+Runs on any Windows System supporting DirectX 7 or better.
+DOoRS
+is an operating system
+developed from the scratch. It runs on most i386 based PC systems with
+a
+VESA compatible graphic card and at least 16MB of RAM. It supports
+floppy, harddisk & CD-ROM drives and up to 32
+processor cores. Some demo applications, a Tetris clone and
+a Mandelbrot renderer, are included as well. See the DOoRS readme
+file for more details. Download the ISO
+image,
+burn it on a CD-ROM and boot your computer to see for yourself.
+Contact
+If you have questions, suggestions or whatever, please feel
+free to contact me by using this form (needs java-script enabled).

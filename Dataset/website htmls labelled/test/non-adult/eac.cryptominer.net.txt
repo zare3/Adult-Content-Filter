@@ -1,0 +1,168 @@
+https://www.eac.cryptominer.net
+JIR.dk | – Martin
+JIR.dk
+– Martin
+Search
+Main menu
+Skip to primary content
+Skip to secondary content
+HomeAboutWishes
+Post navigation
+← Older posts
+I’m Going On An Adventure
+Posted on May 24, 2014
+by
+Martin
+4
+And I’m scared, but in the best way imaginable; you know, like when you were a kid standing on the five metre platform at a pool for the first time, trying to ignore your logical fear and gather enough courage to step off the edge and plummet into the water.
+From “The Hobbit: An Unexpected Journey”
+Continue reading →
+Posted in Work
+|
+4 Replies
+WordPress on nginx with Caching
+Posted on August 22, 2013
+by
+Martin
+Reply
+This and a few of my other sites are running WordPress (WP) and while it is incredibly easy to setup it’s not very fast at serving requests. One of the reasons for this is that WP generates the pages dynamically on every request, whether it’s needed or not, which is not very efficient, especially if you have a lot of visitors or if you care about the speed of your site (you should).
+Using siege, here’s a benchmark of 100 concurrent users hammering away at the site, as fast as possible, for 10 seconds:
+Transactions:
+603 hits
+Availability:
+100.00 %
+Elapsed time:
+9.82 secs
+Data transferred:
+2.90 MB
+Response time:
+1.50 secs
+Transaction rate:
+61.41 trans/sec
+Throughput:
+0.30 MB/sec
+Concurrency:
+92.38
+Successful transactions:
+603
+Failed transactions:
+0
+Longest transaction:
+2.09
+Shortest transaction:
+0.37
+603 requests were served, at a rate of 61.41 transactions per second, the time it took per request ranged from 0.37s to 2.09s, not exactly fast.
+Plugins exist for WP, which make use of cache, most famous are W3 Total Cache and WP Super Cache, both of which have had severe security flaws in the past. While they do work, I thought I’d make use of the caching functionality in nginx, the webserver I’m using to host WP sites. Since I’m already using nginx, it’ll just be changes to the nginx configuration files.
+After some of searching and reading, this is what I ended up with (sorry, I can’t remember the sources, if I find them, I’ll update with links). First you’ll need to change the main nginx.conf file, on my Ubuntu 12.04 LTS server, it’s located in /etc/nginx/nginx.conf, change the http section to include the following three lines:
+fastcgi_cache_path /var/run/nginxcache levels=1:2 keys_zone=WP:25m inactive=30m;
+fastcgi_cache_key "$scheme$request_method$host$request_uri";
+fastcgi_cache_use_stale error timeout invalid_header http_500;
+Here 25MBs are set as the max size of the cache and entries not accessed during a period of 30 minutes, will be removed from the cache. Adjust these numbers to fit your installation. The cache is stored in /var/run/nginxcache, which is stored in RAM, atleast on Ubuntu 12.04 LTS.
+Then in each of the virtual host definitions for your WP sites, i.e. /etc/nginx/sites-enabled/mysite, you need som logic which determines if the cache should be used or not. For users who are searching for something on your site, leaving comments, logging in, etc. the cache shouldn’t be used, but for plain-old pageviews for non logged in users, we use the cache.
+server {
+listen 80;
+server_name mysite.example;
+access_log /var/log/nginx/mysite_access.log;
+error_log /var/log/nginx/mysite_error.log;
+root /opt/mysite/public;
+#Find out if cache should be skipped
+set $skip_cache 0;
+# Requests which are POSTed or has a query string, skip cache
+if ($request_method = POST) {
+set $skip_cache 1;
+}
+if ($query_string != "") {
+set $skip_cache 1;
+}
+# Requests for cron, feed, etc. skip cache
+if ($request_uri ~* "(/wp-admin/|/xmlrpc.php|/wp-(app|cron|login|register|mail).php|wp-.*.php|/feed/|index.php|wp-comments-popup.php|wp-links-opml.php|wp-locations.php|sitemap(_index)?.xml|[a-z0-9_-]+-sitemap([0-9]+)?.xml)") {
+set $skip_cache 1;
+}
+# Requests for commentors or logged in users, skip cache
+if ($http_cookie ~* "comment_author|wordpress_[a-f0-9]+|wp-postpass|wordpress_no_cache|wordpress_logged_in") {
+set $skip_cache 1;
+}
+location / {
+index index.php index.html;
+try_files $uri $uri/ /index.php?$args;
+}
+location ~ .php$ {
+fastcgi_split_path_info ^(.+\.php)(.*)$;
+fastcgi_pass unix:/var/run/php_fpm.socket;
+fastcgi_index
+index.php;
+fastcgi_param
+SCRIPT_FILENAME
+/opt/mysite/public$fastcgi_script_name;
+include fastcgi_params;
+fastcgi_intercept_errors
+on;
+fastcgi_ignore_client_abort
+off;
+fastcgi_connect_timeout 60;
+fastcgi_send_timeout 180;
+fastcgi_read_timeout 180;
+fastcgi_buffer_size 128k;
+fastcgi_buffers 4 256k;
+fastcgi_busy_buffers_size 256k;
+fastcgi_temp_file_write_size 256k;
+#Cache settings
+fastcgi_cache_bypass $skip_cache;
+fastcgi_no_cache $skip_cache;
+fastcgi_cache WP;
+fastcgi_cache_valid
+10m;
+}
+}
+Here, the pages will be cached for 10 minutes, this of course means that any changes you make on the site, will take 10 minutes to appear for non logged in users, worst case. That is not an issue for my WP sites. Worst case you could just delete the /var/run/nginxcache directory to clear the cache, if you need a change reflected instantly.
+With these small changes in place, siege now results in some bigger numbers, again for 100 concurrent users hammering away at the site for 10 seconds:
+Transactions:
+60282 hits
+Availability:
+100.00 %
+Elapsed time:
+9.86 secs
+Data transferred:
+289.11 MB
+Response time:
+0.02 secs
+Transaction rate:
+6113.79 trans/sec
+Throughput:
+29.32 MB/sec
+Concurrency:
+98.80
+Successful transactions:
+60282
+Failed transactions:
+0
+Longest transaction:
+0.09
+Shortest transaction:
+0.01
+Unless my math is off, that’s around a 100x increase in requests served per second, that’s not bad for a few lines of configuration. Note also that the requests are served in between 0.01s and 0.09s.
+All benchmarks were performed on the webserver itself, to avoid having the network latency/bandwidth impact the results. The benchmarks were performed on a 1GB Linode instance (ref url).
+Posted in Nerdy
+|
+Leave a reply
+Affiliate Marketing Motivation
+Posted on June 8, 2013
+by
+Martin
+Reply
+I’ve been playing around with affiliate marketing in the last couple of weeks, it hasn’t amounted to much yet, I seem to spend more money on buying domains than I’m getting in affiliate earnings. It’s safe to say that I’m still learning.
+When I was working at a small startup in Aarhus a couple of years ago, we had a blue LED lamp, which was hooked up to a computer running a script I wrote, that would make the LED lamp blink every time an end user used our product and speak out loud the total amount of SMS coupons we’d sent. In the beginning it almost never blinked, but after the product took off, I had to modify the script so it would only blink and speak for every 100 coupons sent (we delivered coupons for Sprite, Burger King and McDonalds + a few others at one point). This was great fun to write and helped keep motivation up, so I thought I’d recreate it for my affiliate adventure
+I wrote a little python script for the Danish affiliate network Partner-Ads, which uses their XML feed to fetch the account balance once every 600 seconds (10 minutes) and speaks out loud the amount of money you made if the balance is larger than it was last time it fetched it. Continue reading →
+Posted in Nerdy
+|
+Leave a reply
+Post navigation
+← Older posts
+Recent Posts
+I’m Going On An Adventure
+WordPress on nginx with Caching
+Affiliate Marketing Motivation
+Your users don’t trust you
+HTC Hero and Wifi Connectivity Issues
+Google+ Martin Clemmensen
+Proudly powered by WordPress

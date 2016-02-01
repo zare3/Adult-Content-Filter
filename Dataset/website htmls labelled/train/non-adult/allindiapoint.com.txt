@@ -1,0 +1,132 @@
+https://www.allindiapoint.com
+Digital Signature India
+Call Now: +91 98363 25100
+Call Now
+Home
+Class2
+Class3
+Downloads
+Blog
+Query Form
+Order Online
+FAQ
+Support
+Contact Us
+Go to…
+Home
+Class2
+Class3
+Downloads
+Blog
+Query Form
+Order Online
+FAQ
+Support
+Contact Us
+Need a Digital Signature?Get your eMudhra and SIFY DSChere!
+Get Started!
+Welcome to Digital Signature India
+Ministry of Company Affairs has launched a prestigious e-Governance programme named MCA21. Under the said
+MCA21 programme, new e-forms have been notified vide GSR No. 56(E) dated 10.02.2006 and statutory filing, in the office of RoC would be on the basis of the new e-forms only. To make these new e-forms legally recognized and authenticate Digital Signature Certificate issued by TCS is required. These Digital Signature Certificate used for e-forms has the same legal recognition and validity as handwritten signatures. Detailed MCA21 programme is available at
+www.mca.gov.in
+.
+A Digital Signature Certificate, like hand written signature, establishes the identity of the sender filing the documents through internet which sender can not revoke or deny. A Digital Signature Certificate is not only a digital equivalent of a hand written signature it adds extra data electronically to any message or a document where it is used to make it more authentic and more secured. Digital Signature ensures that no tampering of data is done once the document has been digitally signed. A DSC is normally valid for 1 or 2 years, after which renewal is required.
+These certificates are accepted for IFFCO, Northern Railway, MCA 21, E-filing, E -tendering etc...
+There are basically 3 types of Digital Signature Certificates
+Class-1, Class-2 & Class-3 each having different level of security.
+All the authorized signatories of company under MCA21 require Class-2 Digital Signature Certificate.
+Similarly any document filed by CA/CS/CWA & TAX PRACTIONERS under MCA21 require
+Class-2 Digital Signature Certificate.
+Enquiry Form
+All fields are mandatory
+Full Name: *
+Email Address: *
+Proper format "name@something.com"
+Phone: *
+Requirements: *
+Submit Form
+Easy Signup Process
+Digital Signature India is offering services to procure Class 2, Class 3 & DGFT Certificates & ePass & Trust Key Toekns presently.
+Digital Signature Certificates for MCA21 (Class 2 PAN Individual) valid for 2 years
+Get DSC Renewal for 2 Years @ Rs 899/- Only If you have a e-Token.
+Full payment to be made Online or in Bank Account Details mentioned on Contact Us Page either in cash or DD/cheque payable at Kolkata.
+Click Here To Order Online Now
+Download TCS Class 2-Individual-Form (PDF format)
+Download TCS Class 3-Individual-Form (PDF format)
+Required Documents with Application Form:
+Document 1 (Proof of identity)
+Self attested copy of PAN Card. Valid Active PAN with the Income tax Department.
+Document 2 (Proof of residence) - Any one
+Self Attested Copy of latest bill : WATER / ELECTRICITY / POWER / TELEPHONE / CREDIT CARD
+or VOTER'S ID CARD / DRIVING LICENSE/PASSPORT in the applicant's name for address confirmation.
+TRAVEL AGENTS / TOUR OPERATORS / IATA MEMBERS / TAAI MEMBERS / AIR & RAILWAY TICKETING AGENTS :
+Contact us for Digital Signature Certificates / DSC (Class 3 Individual)
+OUR DSC SERVICES INCLUDE:
+Providing and Guiding you on Digital Signature Certificate Application Forms.
+Collection of forms along with supporting documents & getting verified from LRA.
+Getting you a Digital Signature Certificate issued from Certifying Authority and doing installation of the same.
+Technical Support & Guidance for 2 yrs.
+Frequently Asked Questions About MCA21
+MCA21 is an e-governance project of the Ministry of Company Affairs (MCA), Government of India which is not only welcomed by all industrial sectors but also by professionals. Under this e-governance project, paper based environment will evolve into a paperless one. New set of e-forms are especially designed for this project. These e-forms are available in various file formats and can be freely downloaded from the MCA Website, www.mca.gov.in, which is accessible round the clock i.e 24x7 hrs making filing of the e-forms also possible at any time of 24x7.
+Obligations for e-FILING e-filing makes it compulsory to procure a Class-2 Digital Signature Certificate and a Computer System running following softwares along with internet access.
+Windows 2000 / Windows XP
+Internet Explorer 6.0 & above
+Adobe Acrobat Reader 7.0.5
+Java Runtime Environment (JRE)
+Types of Digital Signature CertificateThere are 3 types of Digital Signature Certificates, namely :-
+Class-1, Class-2
+and Class-3. Each has its own level of security and is meant for a particular category of professional and or sector of industry.
+Components of a Digital Signature Certificate
+Your public key: any one can get a copy of this and is part of the verification system.
+Your name and e-mail address: This is necessary for contact information purposes and to enable the viewer to identify the details.
+Expiration date of the public key: This part of the signature is used to set a shelf life and to ensure that in the event of prolonged abuse of a signature eventually the signature is reset.
+Name of the company: This section identifies the company that the signature belongs too.
+Serial number of the Digital ID: This part is a unique number that is bundled to the signature for tracking ad extra identification reasons.
+Digital signature of the CA (Certification Authority): This is a signature that is issued by the authority that issues the certificates.
+Use of Digital Signature CertificateDigital Signature Certificate can be used to access secured zones of web sites where member login is required, surpassing the requirement of entering the user name and password. It insures by means of verification and validation that the user is whom he/she claims to be. This is done by combining the users credential to the digital certificate and in turn this method uses one point of authentication. Digital certificates ensure confidentiality and ensure that messages can only be read by authorized intended recipients. Digital certificates also verify date and time so that senders or recipients can not dispute if the message was actually sent or received.
+Sending Digitally Signed Mail
+You can also use your Digital Signature Certificate to digitally sign your emails sent through Outlook Express / MS-Outlook etc. Digitally signing the mail authenticates your identity and enables the receiver to ensure that the mail has come from you only. It also ensures that the content of the mail is not tampered in the transit and the mail received by the receiver is the same what you have sent.
+Professionals who require Digital Signature CertificateUnder MCA21 all the authorized signatories of company and professionals who sign the manual documents and returns filed with ROC is required to obtain a Digital Signature Certificate (DSC). Therefore following personnel have to procure Digital Signature Certificate:
+Directors
+CA’s/Auditors
+Company Secretary - Whether in practice or in job.
+Bank Officials - for Registration and Satisfaction of Charges
+Other Authorized Signatories.Credentials required with Application Form
+Proof of identity, a self attested copy of PAN Card. Valid Active PAN with the Income Tax Department.
+Proof of residence - Any one, a self attested copy of latest bill: WATER / ELECTRICITY / POWER / TELEPHONE / CREDIT CARD or VOTER’S ID CARD / DRIVING LICENSE/PASSPORT in the applicant’s name for address confirmation.
+Why USB e-token ?
+Information about Digital Signature Certificate (DSC) resides in certificate section of Internet Options of computer system but keeping DSC details on computer system in this way has the following draw backs:
+It can be misused by unauthorized person.
+If the computer system fails or internet explorer is changed DSC is lost.
+Accordingly, safe and proper method is to keep DSC on e-token, a small USB port device, which is password protected e-token cost extra @ Rs. 999/- (all inclusive)
+A brief outline of steps for procuring yourDigital Signature Certificate (DSC):
+Collect Application Form from us / DOWNLOAD APPLICATION FORM NOW!
+You can download this application form & take a printout of the same as a Hard Copy.
+Fill the Application Form. Fields marked by * indicate it to be compulsory.
+Get Self Attested copy of PAN Card (PAN card is compulsory)
+& Self Attested copy of any one of the latest bill of WATER / ELECTRICITY / POWER / TELEPHONE / CREDIT CARD or VOTER’S ID CARD / DRIVING LICENSE/PASSPORT in the applicant’s name for address confirmation.
+(as Proof of residence)
+Re-confirm Subscriber's e-mail ID.
+Take Signature on the Application Form and Subscriber's Agreement.
+Prepare Demand Draft/Cheque (at par)
+Payable at Kolkata.
+(Payment in cash also accepted)
+Send the complete set to Kolkata or for any assistance, Please contact us.
+Digital Signature India
+98, B. K. Paul Avenue, Kolkata - 700 005, India
+Phone: +91-33-25301072 / 8077
+Email: sales@digitalsignatureindia.com
+For More Details Contact:
+Vinod : 98363-84222        Kumkum: 98363-52100
+Pinky : 98363-49002        Ashish: 98363-25100
+Home |
+Class2 |
+Class3 |
+Downloads |
+Blog |
+Query Form |
+Order Online |
+FAQ |
+Support |
+Contact Us
+Copyright © 2016 Digital Signature India. All Rights Reserved.

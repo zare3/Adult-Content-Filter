@@ -1,0 +1,128 @@
+https://www.cba.am
+Հայաստանի Հանրապետության Կենտրոնական Բանկ
+You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.
+Turn on more accessible mode
+Turn off more accessible mode
+Skip Ribbon Commands
+Skip to main content
+This page location is:
+Central Bank of ArmeniaՀԱՅԱՍՏԱՆԻ ՀԱՆՐԱՊԵՏՈՒԹՅԱՆ ԿԵՆՏՐՈՆԱԿԱՆ ԲԱՆԿDefault
+Sign In
+հայ
+| eng
+| Գլխավոր էջ
+| RSS
+ՍՊԱՌՈՂԻ ՀԱՄԱՐԲԱԺԱՆՈՐԴԱԳՐՈւԹՅՈւՆՆԱԽԱԳԾԵՐԿՈՆՏԱԿՏՆԵՐՀԱՃԱԽ ՏՐՎՈՂ ՀԱՐՑԵՐՄՐՑՈւՅԹՆԵՐԿԱՅՔԻ ՔԱՐՏԵԶCompliance Detailsjavascript:commonShowModalDialog('{SiteUrl}/_layouts/itemexpiration.aspx?ID={ItemId}&List={ListId}', 'center:1;dialogHeight:500px;dialogWidth:500px;resizable:yes;status:no;location:no;menubar:no;help:no', function GotoPageAfterClose(pageid){if(pageid == 'hold') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/hold.aspx?ID={ItemId}&List={ListId}');
+return false;} if(pageid == 'audit') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/Reporting.aspx?Category=Auditing&backtype=item&ID={ItemId}&List={ListId}'); return false;} if(pageid == 'config') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/expirationconfig.aspx?ID={ItemId}&List={ListId}'); return false;}}, null);0x00x1ContentType0x01898
+Փանոս Թերլեմեզյան – 150Հուշադրամը նվիրված է հայ նկարիչ, ՀԽՍՀ ժողովրդական նկարիչ Փանոս Թերլեմեզյանի (1865-1941 թթ.)  ծննդյան 150-ամյակին:
+Դիմերես` Փ. Թերլեմեզյանի «Վանա լիճը և Սիփան սարը Կտուց կղզուց» կտավից դրվագ: Դարձերես`  Փ. Թերլեմեզյանի «Տաթևի վանքը» կտավից և նրա ինքնադիմանկարից դրվագներ:
+Էսքիզների հեղինակ` Լուսինե Լալայան: Հատվել է Լիտվայի դրամահատարանում:
+Սերգեյ ՓարաջանովՀուշադրամը նվիրված է հայտնի կինոռեժիսոր, նկարիչ, կոլաժի վարպետ Սերգեյ Փարաջանովին (Սարգիս Փարաջանյանց 1924-1990 թթ.): ԱվետումԱվետումը բարի, բերկրալի լուր է Սբ. Կույս Մարիամի` Սբ. Հոգուց       հղիանալու և Աստծո որդու` Հիսուս Քրիստոսի ծննդյան մասին: Ավետարանի պատկերաշարը սովորաբար սկսվում է Ավետման տեսարանով, քանի որ պատկերում է Հիսուսի մարդեղության` երկրային առաքելության սկզբնավորումը: Մոգերի երկրպագությունըԵրբ Հիսուս Քրիստոսը ծնվում է Հրեաստանի Բեթղեհեմ քաղաքում, նրա աստղը հայտնվում է արևելքում, և մոգերը` առաջնորդվելով աստղով, գալիս են այնտեղ, ուր մանուկն է: ՀամբարձումՀամբարձումը հարություն առած Հիսուս Քրիստոսի` աշակերտներին հայտնվելուց, օրեր շարունակ նրանց հետ շրջելուց ու պատվիրաններ տալուց հետո, դեպի երկինք` Հայր Աստծո մոտ համբարձվելն է: Համբարձումով նշանավորվում է Հիսուս Քրիստոսի երկրային առաքելության փառավոր ավարտը: Մուտք Երուսաղեմ Զատկից մեկ շաբաթ առաջ Հիսուս Քրիստոսն իր աշակերտների ուղեկցությամբ հանդիսավոր մուտք է գործում Երուսաղեմ: Հայկական մանրանկարներում այս տեսարանը պատկերում է ավանակի վրա նստած, քաղաքին մոտեցող Քրիստոսին` օրհնող աջը բարձրացրած: Նրան հետևում են աշակերտները, իսկ առջևում Երուսաղեմի բնակիչներն են, որոնք հագուստներ և ճյուղեր են նետում նրա ոտքերի տակ: Գալանտուս Արտյուշենկոյի«Գալանտուս Արտյուշենկոյի» բույսը կարճ ցողունով (23-35 սմ), սպիտակ, երբեմն բաց դեղնագույն հրապուրիչ ծաղիկներով և բաց կանաչ տերևներով է. ծաղկում է մարտին` ձյան միջից: Հանդիպում է Հայաստանի հարավային և հյուսիսային շրջաններում` կաղնու, բոխու և հաճարենու անտառներում, ցածր և միջին լեռնային գոտիներում: Լվածաղիկ Զանգեզուրի«Լվածաղիկ Զանգեզուրի» բույսը բազմամյա է` 10-20 սմ ցողունով: Ցողունները բազմաթիվ են` գագաթնային մեկ զամբյուղով, սպիտակ միաշարք եզրային և կենտրոնական խողովակաձև` քառատամ դեղին ծաղիկներով: Ծաղկում է հունիս-հուլիս ամիսներին: Հայաստանում հանդիպում է Զանգեզուրի և Մեղրու շրջաններում:
+Արոսենի հայաստանյան «Արոսենի Հայաստանյանը» գեղեցիկ թուփ է կամ ծառ` լայն բրգաձև գագաթով և կարմրամոխրագույն կեղևով: Բարձրությունը հասնում է 8-10 մ: Ծաղիկները սպիտակ են, վարդագույն փոշանոթներով, պտուղները` մուգ կարմիր: Ծաղկում է հունիսին: Հայաստանում հանդիպում է Սևանա լճի ավազանում և Արայի լեռան լանջերին:
+Քրքում ադամի«Քրքում Ադամի» բույսն ունի կաշենման ծածկույթով փոքր սոխուկներ: Ծաղիկները բաց կամ մուգ մանուշակագույն են` դեղնանարնջագույն վզիկներով: Ծաղկում է փետրվար-մայիսին` ժայռոտ լանջերին և փշատերև թփուտներով ծածկված անտառներում: Տարածված է կենտրոնական և հարավային Հայաստանում և Արցախում: ՆուռՀուշադրամը նվիրված է նուռին, որը խորհրդանշում է պտղաբերություն, առատություն և մեծահոգություն:
+Դիմերես` ՀՀ զինանշանը: Դարձերես` ճեղքված նուռ: Էսքիզների հեղինակ` Էդուարդ Կուրղինյան: Հատվել է Լեհաստանի դրամահատարանում: Լեոնիդ Ենգիբարյան 75Հայաստանի Հանրապետության կենտրոնական բանկը թողարկել է Լեոնիդ Ենգիբարյանի ծննդյան 75-ամյակին նվիրված արծաթե հուշադրամ: Հուշադրամի ուրվագծերի և գրքույքի հեղինակն է Վարդան Վարդանյանը: Հուշադրամը հատվել է Նիդերլանդների արքայական դրամահատարանում:ՋազՀՀ կենտրոնական բանկը միջազգային դրամագիտական ծրագրի շրջանակում թողարկել է երաժշտությանը նվիրված «Ջազ» արծաթե հուշադրամը: Հուշադրամի պատրաստման ժամանակ օգտագործվել են գունավոր ներկեր: Ուրվագծերի հեղինակն է Էդուարդ Կուրղինյանը: Հուշադրամը հատվել է Գերմանիայի Մայեր դրամահատարանում:Թեոդոր ԱքսենտովիչՀՀ կենտրոնական բանկի կողմից թողարկված 100 դրամ անվանական արժեքով արծաթե հուշադրամը նվիրված է հայազգի լեհ նկարիչ Թեոդոր Աքսենտովիչին (1859-1938 թթ.): Հուշադրամը թողարկվել է «Աշխարհի նկարիչները» միջազգային դրամագիտական ծրագրի շրջանակում:
+Սայաթ - Նովա 300Հուշադրամը նվիրված է հայ նշանավոր բանաստեղծ, աշուղ Սայաթ-Նովայի (1712-1795 թթ.) ծննդյան 300-ամյակին: Դիմերես` նուռ, որը խորհրդանշում է ռեժիսոր Սերգեյ Փարաջանովի` Սայաթ-Նովային նվիրված «Նռան գույնը» հայտնի կինոնկարը, քամանչա, գիրք և փետրագրիչ: 5Compliance Detailsjavascript:commonShowModalDialog('{SiteUrl}/_layouts/itemexpiration.aspx?ID={ItemId}&List={ListId}', 'center:1;dialogHeight:500px;dialogWidth:500px;resizable:yes;status:no;location:no;menubar:no;help:no', function GotoPageAfterClose(pageid){if(pageid == 'hold') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/hold.aspx?ID={ItemId}&List={ListId}');
+return false;} if(pageid == 'audit') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/Reporting.aspx?Category=Auditing&backtype=item&ID={ItemId}&List={ListId}'); return false;} if(pageid == 'config') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/expirationconfig.aspx?ID={ItemId}&List={ListId}'); return false;}}, null);0x00x1ContentType0x01898
+ՀՀ ԿԵՆՏՐՈՆԱԿԱՆ ԲԱՆԿԻ ՄԱՍԻՆՀՀ ԿԲ-ի կառավարումըՀՀ ԿԲ-ի կառուցվածքըՀՀ ԿԲ-ի ռազմավարությունը
+ՊատմությունԴրամաշրջանառության պատմությունԴրամաշրջանառությունը 1918-1924թթԴրամաշրջանառությունը ԽՍՀՄ ժամանակաշրջանումԴրամաշրջանառությունը ՀՀ-ումՀայաստանի բանկային համակարգը XX դարի սկզբից մինչև 1991թՀայաստանի ֆինանսավարկային համակարգի զարգացումները
+Միջազգային համագործակցությունՄիջազգային հարաբերություններԵրկկողմանի համագործակցությունԱնդամակցություն տարածաշրջանային կառույցներումՏեխնիկական համագործակցությունՄիջոցառումներՎերապատրաստման կենտրոններՄեր թիմըՎարկանիշային գործակալություններ
+Աշխատանքը Կենտրոնական բանկումՀամալրումԹափուր աշխատատեղերՈւսուցում և զարգացումՊրակտիկաՈչ աշխատանքային օրեր
+ԴՐԱՄԱՎԱՐԿԱՅԻՆ ՔԱՂԱՔԱԿԱՆՈՒԹՅՈՒՆՆպատակՌազմավարությունԻրականացման գործընթացԹափանցիկությունԱրժութային քաղաքականություն
+ՇՈՒԿԱՅԱԿԱՆ ԳՈՐԾԱՌՆՈՒԹՅՈՒՆՆԵՐ
+Դրամավարկային քաղաքականության իրականացումԿանոնակարգումԲաց շուկայական գործառնություններՄշտական հնարավորության գործիքներՊարտադիր պահուստավորումԴՎՔ գործիքների տոկոսադրույքներ
+Պետական պարտատոմսերի աճուրդներՖինանսական Շուկաներ
+ՖԻՆԱՆՍԱԿԱՆ ԿԱՅՈՒՆՈՒԹՅՈՒՆՆերածությունՖինանսական կայունության ցուցանիշներՖինանսական կայունության հաշվետվություն
+ՖԻՆԱՆՍԱԿԱՆ ՀԱՄԱԿԱՐԳ ԵՎ ՎԵՐԱՀՍԿՈՂՈՒԹՅՈՒՆՆերածություն
+Ֆինանսական կազմակերպություններԲանկերԼուծարային կառավարիչներՎարկային կազմակերպություններԱպահովագրական ընկերություններԱպահովագրական բրոքերներԱպահովագրական գործակալներԳրավատներԱրժութային դիլերներ և փոխանակման կետերՎճարահաշվարկային կազմակերպություններՆերդրումային ընկերություններՆերդրումային ու կենսաթոշակային ֆոնդերի կառավարիչներԱրժեթղթավորման հիմնադրամներ
+Արժեթղթերի շուկաՆերածությունՆերդրումային ծառայություններ մատուցող անձիքԿենտրոնական դեպոզիտարիաԱզդագիրՀաշվետու թողարկողներԱռևտրի ազդագիրԿարգավորվող շուկայի օպերատոր
+Ներդրումային և կենսաթոշակային ֆոնդերՆերածությունՆերդրումային ֆոնդերԿենսաթոշակային ֆոնդերՆերդրումային եւ կենսաթոշակային ֆոնդերի կառավարիչներԻրավական դաշտ
+ՀաշվետվություններՈրակավորման վկայական ունեցող անձիքՊատժամիջոցներ
+Ղեկավարների գրանցումԳրանցվող ղեկավարների համարՖինանսական կազմակերպությունների համար
+Կորած, ոչ պիտանի փաստաթղթեր
+ՎՃԱՐԱՀԱՇՎԱՐԿԱՅԻՆ ՀԱՄԱԿԱՐԳՆերածություն
+Վճարահաշվարկային համակարգերՎճարահաշվարկային համակարգերի տեսակներՄիջազգային դրամական փոխանցումների համակարգերՔարտային վճարային համակարգեր
+Վճարային համակարգերի հսկողությունՀսկողությունՎերլուծական և տեղեկատվական նյութեր
+Վճարահաշվարկային համակարգի մասնակիցներՎճարային գործիքներՎիճակագրություն և հաշվետվություններԹույլտվությունների տրամադրում
+ԱԶԳԱՅԻՆ ԱՐԺՈՒՅԹ
+ՀՀ թղթադրամներՇրջանառության մեջ գտնվող թղթադրամներԹղթադրամների պաշտպանական հատկանիշներըՇրջանառությունից դուրս բերված թղթադրամներ
+ՀՀ մետաղադրամներԱռաջին շարքԵրկրորդ շարքՀիշատակային և հոբելյանական շրջանառու մետաղադրամներ
+ՀՀ հուշադրամներՀՀ ներդրումային դրամներՀՀ դրամանիշերի փոխանակման կանոններ
+ԻՐԱՎԱԿԱՆ ԴԱՇՏՆերածություն
+Օրենքներ և կանոնակարգերԲանկային գործունեությունՎարկային գործունեությունԱպահովագրությունԱրժեթղթերի շուկաՆերդրումային ծառայություններՎճարահաշվարկային ծառայություններԳրավատնային գործունեությունՓոխանակման կետերԿուտակային կենսաթոշակային համակարգԱՊՊԱՓԼ ԱՖ դեմ պայքարՍպառողների շահերի պաշտպանությունԱյլ
+ՀՀ ԿԲ խորհրդի պաշտոնական պարզաբանումներԻրավաբանական քննարկումներՇրջաբերականներ
+ՎԻՃԱԿԱԳՐՈՒԹՅՈՒՆՆերածությունԴրամավարկային եւ Ֆինանսական վիճակագրությունՖինանսական կազմակերպությունների վիճակագրությունԱրտաքին հատվածի վիճակագրությունԻրական հատվածի վիճակագրությունՏվյալների տարածման հատուկ չափորոշիչ (ՏՏՀՉ)
+Վիճակագրական հետազոտություններՍպառողների վստահության ցուցանիշ (ՍՎՑ)Գործարար միջավայրի ցուցանիշ (ԳՄՑ)Վարկավորման պայմանների հարցումԱյլ հետազոտություններ
+Վիճակագրական հրապարակումներԱմսական տեղեկագիրՏարեկան տեղեկագիրՀրապարակումների ժամանակացույց
+Տվյալների բանկՀետադարձ կապ
+ՀՐԱՊԱՐԱԿՈՒՄՆԵՐՀաղորդագրություններ և հայտարարություններՀոդվածներ և ելույթներՎերլուծական նյութեր եւ հետազոտություններՊարբերականներ
+ՍՊԱՌՈՂՆԵՐԻ ՇԱՀԵՐԻ ՊԱՇՏՊԱՆՈՒԹՅՈՒՆՆերածություն
+ԾառայություններՎարկերԱվանդներԴրամական փոխանցումներՎճարային քարտերՀաշիվների բացում և սպասարկում
+Իրադարձություններ
+ՓՈՂԵՐԻ ԼՎԱՑՄԱՆ ԵՎ ԱՀԱԲԵԿՉՈՒԹՅԱՆ ՖԻՆԱՆՍԱՎՈՐՄԱՆ ԴԵՄ ՊԱՅՔԱՐ
+Ֆինանսական դիտարկումների կենտրոնՖԴԿ մասինՌազմավարությունԿանոնադրությունԿառուցվածք
+Հաշվետու անձիքՖինանսական կազմակերպություններՈչ ֆինանսական կազմակերպություններԱյլ հաշվետու անձիք
+Միջազգային համագործակցությունԱկնարկԳնահատման հաշվետվություններՓոխըմբռնման հուշագրեր
+ՕրենսդրությունՄիջազգային փաստաթղթերՕրենքներԵնթաօրենսդրական ակտեր
+Հրապարակային նյութերՏարեկան հաշվետվություններԴատական գործեր և ակտերՌազմավարական վերլուծություններԱյլ վերլուծական նյութեր
+Միջգերատեսչական հանձնաժողովԱշխատանքի կանոնակարգԱնդամների ցանկՀաղորդում
+Միջազգային ցանկերՆորություններ
+Տիպաբանություններ և այլ ուղեցույցներՏիպաբանություններԱյլ ուղեցույցներ
+Հաճախակի տրվող հարցերՀղումներՀետադարձ կապ
+ԱՅԼ ԳՈՐԾԱՌՈՒՅԹՆԵՐ
+Ձեռնարկությունների վարկանշումՆերածությունԿանոնակարգումՎարկանշման պայմաններՎարկանշված ձեռնարկություններ
+Վարկային ռեգիստրՆերածությունԿանոնակարգում
+ՀԱՇՎԵՏՎՈՒԹՅՈՒՆՆԵՐԻ ՆԵՐԿԱՅԱՑՈՒՄՀաշվետվությունների ընդունում
+Compliance Detailsjavascript:commonShowModalDialog('{SiteUrl}/_layouts/itemexpiration.aspx?ID={ItemId}&List={ListId}', 'center:1;dialogHeight:500px;dialogWidth:500px;resizable:yes;status:no;location:no;menubar:no;help:no', function GotoPageAfterClose(pageid){if(pageid == 'hold') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/hold.aspx?ID={ItemId}&List={ListId}');
+return false;} if(pageid == 'audit') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/Reporting.aspx?Category=Auditing&backtype=item&ID={ItemId}&List={ListId}'); return false;} if(pageid == 'config') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/expirationconfig.aspx?ID={ItemId}&List={ListId}'); return false;}}, null);0x00x1ContentType0x01898
+Ինչպես SOAP-ի միջոցով ստանալ փոխարժեքները Փոխարժեքի ստացում Ճիշտ տառատեսակի պատկերման համար բեռնավորեք Arian AMU.ttf
+Նորություններ
+Ֆոտո վիդեո արխիվ
+13/01/2016ԻրավաբանականԺամանակավորապես կասեցվել է «ՍՍՍ ԿՐԵԴԻՏ» ՍՊԸ գրավատնային գործունեության լիցենզիանԱվելին12/01/2016ՆորություններԳրանցվել է մասնաճյուղ Ավելին11/01/2016ՆորություններԱրթուր Ջավադյանը պարգևատրվել է «Հայրենիքին մատուցած ծառայությունների համար» 2-րդ աստիճանի մեդալովԱվելին30/12/2015ՎիճակագրականՄիջազգային պահուստների և արտարժութային իրացվելիության ստանդարտ աղյուսակԱվելին30/12/2015Դրամավարկային2015 թ. դեկտեմբերի 22-ի վերաֆինանսավորման տոկոսադրույքի վերաբերյալԱվելին29/12/2015ՆորություններԿԲ խորհրդի նիստումԱվելին29/12/2015ՆորություններԱմփոփվել են «Իսահակ Իսահակյանի անվան կրթաթոշակների» մրցույթի արդյունքներըԱվելին28/12/2015ՆորություններՇաբաթական ամփոփ տվյալներԱվելին25/12/2015ՆորություններՀՀ կենտրոնական բանկի նախագահ պարոն Արթուր Ջավադյանի ելույթը Կենտրոնական բանկում 2015 թ. տարեմուտի ավանդական ընդունելության ժամանակԱվելին22/12/2015ԴրամավարկայինՎերաֆինանսավորման տոկոսադրույքն իջեցվել է 1 տոկոսային կետով՝ 8.75%Ավելին
+Ֆոտո նյութերՎիդեո նյութեր
+Տոկոսադրույքներ (%)
+Դրամական միջ. ներգրավման7.25Լոմբարդային ռեպո10.25Վերաֆինանսավորման8.75
+Compliance Detailsjavascript:commonShowModalDialog('{SiteUrl}/_layouts/itemexpiration.aspx?ID={ItemId}&List={ListId}', 'center:1;dialogHeight:500px;dialogWidth:500px;resizable:yes;status:no;location:no;menubar:no;help:no', function GotoPageAfterClose(pageid){if(pageid == 'hold') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/hold.aspx?ID={ItemId}&List={ListId}');
+return false;} if(pageid == 'audit') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/Reporting.aspx?Category=Auditing&backtype=item&ID={ItemId}&List={ListId}'); return false;} if(pageid == 'config') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/expirationconfig.aspx?ID={ItemId}&List={ListId}'); return false;}}, null);0x00x1ContentType0x01898
+Տոկոսադրույքների գրաֆիկ
+ԴՎՔ գործիքների տոկոսադրույքների սահմանման ժամանակացույցը 2015-2016թթ. համար
+Պարտադիր պահուստավորման օրացույցը 2015-2016թթ. համար
+Բանկային տոկոսի հաշվարկային դրույք - 12Compliance Detailsjavascript:commonShowModalDialog('{SiteUrl}/_layouts/itemexpiration.aspx?ID={ItemId}&List={ListId}', 'center:1;dialogHeight:500px;dialogWidth:500px;resizable:yes;status:no;location:no;menubar:no;help:no', function GotoPageAfterClose(pageid){if(pageid == 'hold') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/hold.aspx?ID={ItemId}&List={ListId}');
+return false;} if(pageid == 'audit') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/Reporting.aspx?Category=Auditing&backtype=item&ID={ItemId}&List={ListId}'); return false;} if(pageid == 'config') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/expirationconfig.aspx?ID={ItemId}&List={ListId}'); return false;}}, null);0x00x1ContentType0x01898%
+Գնաճ
+Նպատակային ցուցանիշ
+4% ± 1.5%
+Compliance Detailsjavascript:commonShowModalDialog('{SiteUrl}/_layouts/itemexpiration.aspx?ID={ItemId}&List={ListId}', 'center:1;dialogHeight:500px;dialogWidth:500px;resizable:yes;status:no;location:no;menubar:no;help:no', function GotoPageAfterClose(pageid){if(pageid == 'hold') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/hold.aspx?ID={ItemId}&List={ListId}');
+return false;} if(pageid == 'audit') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/Reporting.aspx?Category=Auditing&backtype=item&ID={ItemId}&List={ListId}'); return false;} if(pageid == 'config') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/expirationconfig.aspx?ID={ItemId}&List={ListId}'); return false;}}, null);0x00x1ContentType0x01898
+Ընթացիկ միտումներ(2015, նոյեմբեր/2014, նոյեմբեր)
+Ընթացիկ կանխատեսում
+Փոխարժեք
+USD1483.45-1.56GBP1694.81-6.61EUR1527.112.47RUB16.32-0.02
+Փոխարժեքների արխիվ
+Փոխարժեքի հաշվիչ
+ISOUSDGBPAUDATSARSBEFDEMDKKEGPEURSDRTRYIEPIRRESPISOILSITLPLNLBPCADINRNLGGRDHUFJPYNOKSEKCHFCZKCNYISOPTESGDSKKFIMFRFKRWBRLMXNSARSYPAEDKWDBGNRONISKISOLVLLTLKGSKZTMDLRUBUAHUZSBYRTJSTMTGELHKD
+Թանկարժեք մետաղներ
+Արծաթ214.96Ոսկի16,913.42Պլատին13,102.98
+Compliance Detailsjavascript:commonShowModalDialog('{SiteUrl}/_layouts/itemexpiration.aspx?ID={ItemId}&List={ListId}', 'center:1;dialogHeight:500px;dialogWidth:500px;resizable:yes;status:no;location:no;menubar:no;help:no', function GotoPageAfterClose(pageid){if(pageid == 'hold') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/hold.aspx?ID={ItemId}&List={ListId}');
+return false;} if(pageid == 'audit') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/Reporting.aspx?Category=Auditing&backtype=item&ID={ItemId}&List={ListId}'); return false;} if(pageid == 'config') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/expirationconfig.aspx?ID={ItemId}&List={ListId}'); return false;}}, null);0x00x1ContentType0x01898
+Բաղադրյալ տնտեսական ցուցանիշներ
+ԳՄՑ50.7ՍՎՑ41.2
+Compliance Detailsjavascript:commonShowModalDialog('{SiteUrl}/_layouts/itemexpiration.aspx?ID={ItemId}&List={ListId}', 'center:1;dialogHeight:500px;dialogWidth:500px;resizable:yes;status:no;location:no;menubar:no;help:no', function GotoPageAfterClose(pageid){if(pageid == 'hold') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/hold.aspx?ID={ItemId}&List={ListId}');
+return false;} if(pageid == 'audit') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/Reporting.aspx?Category=Auditing&backtype=item&ID={ItemId}&List={ListId}'); return false;} if(pageid == 'config') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/expirationconfig.aspx?ID={ItemId}&List={ListId}'); return false;}}, null);0x00x1ContentType0x01898
+ՀՀ պետական պարտատոմսերի ինդեքսներ
+Հայաստանի Հանրապե- տության էլ. ԿառավարումՖինանսական Համակարգի Հաշտարարի ԿայքԱվանդների Հատուցումը Երաշխավորող ՀիմնադրամԱրմենիան ՔարդՀայաստանի Ավտոապահո- վագրողների ԲյուրոACRA Վարկային ԲյուրոԱզգային Հիփոթեքային ԸնկերությունԳերմանա Հայկական ՀիմնադրամԲնակարան երիտա- սարդներինCompliance Detailsjavascript:commonShowModalDialog('{SiteUrl}/_layouts/itemexpiration.aspx?ID={ItemId}&List={ListId}', 'center:1;dialogHeight:500px;dialogWidth:500px;resizable:yes;status:no;location:no;menubar:no;help:no', function GotoPageAfterClose(pageid){if(pageid == 'hold') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/hold.aspx?ID={ItemId}&List={ListId}');
+return false;} if(pageid == 'audit') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/Reporting.aspx?Category=Auditing&backtype=item&ID={ItemId}&List={ListId}'); return false;} if(pageid == 'config') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/expirationconfig.aspx?ID={ItemId}&List={ListId}'); return false;}}, null);0x00x1ContentType0x01898
+ՍՊԱՌՈՂԻ ՀԱՄԱՐ
+|
+ԲԱԺԱՆՈՐԴԱԳՐՈւԹՅՈւՆ
+|
+ՆԱԽԱԳԾԵՐ
+|
+ԿՈՆՏԱԿՏՆԵՐ
+|
+ՀԱՃԱԽ ՏՐՎՈՂ ՀԱՐՑԵՐ
+|
+ՄՐՑՈւՅԹՆԵՐ
+|
+ԿԱՅՔԻ ՔԱՐՏԵԶCompliance Detailsjavascript:commonShowModalDialog('{SiteUrl}/_layouts/itemexpiration.aspx?ID={ItemId}&List={ListId}', 'center:1;dialogHeight:500px;dialogWidth:500px;resizable:yes;status:no;location:no;menubar:no;help:no', function GotoPageAfterClose(pageid){if(pageid == 'hold') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/hold.aspx?ID={ItemId}&List={ListId}');
+return false;} if(pageid == 'audit') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/Reporting.aspx?Category=Auditing&backtype=item&ID={ItemId}&List={ListId}'); return false;} if(pageid == 'config') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+'/_layouts/expirationconfig.aspx?ID={ItemId}&List={ListId}'); return false;}}, null);0x00x1ContentType0x01898
+Copyright © 2010 CBA.

@@ -1,0 +1,23 @@
+https://www.analdelightsonly.tumblr.com
+Hard Drive Backup - HomeHard Drive BackupHard Drive Backup, Recovery and RestoreHomeAbout MeLocal BackupOnline BackupRestore Hard DriveCloudBerry Lab BackupBackBlaze Backup
+Home
+Updated February 7, 2012
+Welcome!
+Hello, and welcome to Hard Drive Savers!
+On this site, I attempt to collect the important information about what you can do to safely backup & restore your hard drive which contains irreplaceable photos, music, documents and other important data.
+There are many backup methods, strategies and tools available today both "local" as well as in the "cloud.".
+On this site I'll try to cover many of the best tools out there and describe various levels of protection ranging from basic to utter and complete paranoia of data loss protection.
+First a little bit about me. I started in 1996 building websites and due to necessity had to become my own system administrator for my servers which were both Linux and Windows based.  I also had to do the same for my office workstations.  As data grew, the necessity to ensure safe & proper backup became more imperative on all these platforms.
+Over the years more tools and services have become available to accomplish hard drive backup and recovery.  I've used many of these and continue to do so.  You could classify me in the "paranoid" group as I use several layers of backup on all my systems.  I've lost several drives over the years.  There is almost no way for me to lose data short of a global nuclear war or asteroid destroying the planet but if either of those happens I probably won't care much.
+Are You Protected and Safe?
+One statistic I have found shocking is that over 90% of people do not backup their data.  Either these people don't know how to or just don't care if they lose the data.  Or perhaps they think it is safe without backup but that ends very soon after a disaster like a drive crash.  Everyone with valuable data such as photos, documents, music, etc needs good protection.  How would you feel if you lost precious family photos or videos that you could never get back?  What about losing years of financial data or other documents?
+Is Time Machine Adequate?
+Some think that Apple's Time Machine completely solves the backup issue.  Well it does in fact cover a lot of disaster scenarios but still leaves you very exposed to many other data destroying scenarios (described later).
+Local Backup vs Online (Off Site)
+Some of the tools I'll be discussing are what I call "local" which is software to backup on local hard drives connected to your computer or over the network.  Other tools assist in off-site backup (something I deem 100% necessary for true coverage).  There are many available and I'll try to cover as many as I have experience with and add new ones as they come around or as soon as I can test them. I'll also update this as new versions come out with notable features.
+So let's get started! This actually is very easy to do thanks to the tools that are available so don't be afraid.  Things have come a long way from 1996.   We will help you get your priceless data backed up to survive almost every disaster scenario possible.
+Tools of The Trade.  Your LifeBoat for Data.
+Some of the software tools I'll discuss are Acronis True Image Home, Mozy Backup, Carbonite, Amazon S3, Cloudberry Explorer, Backblaze, Norton Ghost and Apple Time Machine.  There are many other products out there but I want to stick with ones I personally have used and narrowed down to best of breed.  There are dozens more available but for features, price, value and protection you don't need to go much further.
+Let's look at local backup of your hard drive(s) as the first line of defense...
+Local Backup >>Hard Drive Backup, Restore and Recovery -
+Copyright 2012 VLM

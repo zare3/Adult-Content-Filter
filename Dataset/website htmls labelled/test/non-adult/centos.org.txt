@@ -1,0 +1,40 @@
+https://www.centos.org
+CentOS Project
+Get CentOS
+About
+About CentOS
+FAQ
+About SIGs
+CentOS Variants
+Governance
+Community
+Contribute
+Forums
+Mailing Lists
+IRC
+Calendar & IRC Meeting List
+Planet
+Submit a Bug
+Stories
+Documentation
+Wiki
+Manuals
+GPG Key Info
+Help
+The CentOS Project
+The CentOS Project is a community-driven free software effort focused on delivering a robust open source ecosystem. For users, we offer a consistent manageable platform that suits a wide variety of deployments. For open source communities, we offer a solid, predictable base to build upon, along with extensive resources to build, test, release, and maintain their code.
+We’re also expanding the availability of CentOS images across a number of vendors, providing official images for Amazon, Google, and more. For self-hosted cloud, we also provide a generic cloud-init enabled image.
+For more information about updates and improvements in CentOS 7, please check out the release notes or the release announcement in the mailing list archive.
+Get CentOS Now
+Around CentOS
+News & Events
+CentOS Dojo - Brussels, Belgium 29 Jan 2015
+Come join the CentOS team in Brussels
+Sponsored by IBM Belgium
+More about Dojos and other Events
+CentOS Booth at Fosdem 30-31 Jan 2016
+Stop by the CentOS Booth at Fosdem, and stay for the devroom talks
+Sponsorship
+CentOS would not be possible without the support of our sponsors. We would like to thank the following product/service for being a CentOS sponsor:
+If you value our work, please consider becoming a sponsor!
+© 2016 The CentOS Project | Legal

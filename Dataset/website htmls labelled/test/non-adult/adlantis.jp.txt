@@ -1,0 +1,37 @@
+https://www.adlantis.jp
+Free Ad Server - AdLantis
+AdLantis「アドランティス」
+Current Delivery Volume
+Today ：
+98,388,785 Impressions / Day
+Yesterday ：
+145,169,327 Impressions / Day
+Maximize the Sale and Management of Your Online Ads with AdLantis!
+AdLantis is an online ad management system to deliver, manage, and optimize your ads.
+All features are provided free of charge
+You can check the status of filled ads from the calendar
+Are you still managing ads with spreadsheets?
+With AdLantis you can manage ads intuitively using calendars.
+Run multiple ad images and text as well as manage them individually
+Find out your most effective ads while operating multiple ad images and ad text simultaneously.
+Sell ads based on click, impression, or period
+Set the cost per click, impression, or for a given period and sell ads.
+By providing a variety of ad purchase options you can cater to various client needs.
+System load can be distributed by separating the web service and ad management service.
+By separating the ad delivery system from your site management, you can minimize risks and cut costs.
+AdLantis is a specialized ad delivery system for the operation of ad sales.
+Apply for new account
+Please register for a new account if you do not already have an AdLantis ID and password.
+Login
+AdLantis ID：
+Password :
+Resend password by clicking here
+If you forgot your user id click here
+For advertisers
+For the advertiser login page enter here
+Contact
+Company Information
+Terms and Conditions
+Developer's Blog
+テクニカルノート
+Status Updates

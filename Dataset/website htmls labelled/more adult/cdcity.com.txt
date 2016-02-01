@@ -1,0 +1,29 @@
+https://www.cdcity.com
+WhyTheFuckWontMySISFileInstall.com - SIS file debugger and style guide
+Your SIS file debugger and style guide...
+Debugger ||
+FAQ ||
+Guide ||
+Links
+Upload a SIS file...
+To get a debugging and style report on your SIS file, simply upload it here:
+SIS File:
+Please note, this will only work with post-platsec (Symbian OS v9.1 or later) SIS files.
+What's New?
+22 December 2006 - Fixed some bugs. By popular demand, added a union of capabilities to the summary. Added a test for SIS files using too many capabilities.
+Privacy
+Simply put, we don't store or share the SIS file you send to us. It's only kept on our server long enough to analyse (typically, less than one second) and then will be deleted.
+See our privacy policy for more details, or if you're still worried contact us via email for help.
+What is this?
+WTFWMSFI is an online debugger and style guide for Symbian OS
+SIS files. Since the introduction of
+Platform Security (PlatSec) in Symbian OS v9.1, the number of rules that you need to follow
+to get an application installed has increased almost exponentially, to the point where it is actually quite difficult to remember them all. This fact, coupled with the poor feedback provided by the S60 and UIQ installer UIs,
+and the often confusing and downright misleading advice from various sources often leads to intense frustration. Hence, "Why the fuck won't my SIS file install?"
+WTFWMSFI solves these problems by highlighting formatting and stylistic issues in your SIS file,
+and giving you clear advice in plain English on how to fix them.
+Hopefully, the use of this service will help you create and deploy applications on Symbian OS faster, and ensure that
+all available applications are of high quality.
+WTFWMSFI is provided as a free service to the developer community, and is in no way associated with or endorsed by Symbian Software Ltd.
+"WTFWMSFI - It's like EC023 was meant to be."
+home || privacy || contact

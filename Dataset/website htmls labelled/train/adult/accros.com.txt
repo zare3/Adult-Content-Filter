@@ -1,0 +1,10 @@
+https://www.accros.com
+Fatal error: Uncaught exception 'Zend_Db_Table_Row_Exception' with message 'Specified column "type" is not in the row' in /home/depoz/depoz.fr/demo/library/Zend/Db/Table/Row/Abstract.php:179
+Stack trace:
+#0 /home/depoz/depoz.fr/demo/application/models/AppelsOffresMapper.php(112): Zend_Db_Table_Row_Abstract->__get('type')
+#1 /home/depoz/depoz.fr/demo/application/models/AppelsOffresMapper.php(80): App_Model_AppelsOffresMapper->fetchAllPubliable()
+#2 /home/depoz/depoz.fr/demo/application/Bootstrap.php(169): App_Model_AppelsOffresMapper->countAllPubliable()
+#3 /home/depoz/depoz.fr/demo/library/Zend/Application/Bootstrap/BootstrapAbstract.php(667): Bootstrap->_initView()
+#4 /home/depoz/depoz.fr/demo/library/Zend/Application/Bootstrap/BootstrapAbstract.php(620): Zend_Application_Bootstrap_BootstrapAbstract->_executeResource('view')
+#5 /home/depoz/depoz.fr/demo/library/Zend/Application/Bootstrap/BootstrapAbstract.php(584): Zend_Application_Bootstrap_BootstrapAbstract->_bootstrap(NULL)
+#6 /home/depoz/depoz.fr/demo/library/Zend/Ap in /home/depoz/depoz.fr/demo/library/Zend/Db/Table/Row/Abstract.php on line 179

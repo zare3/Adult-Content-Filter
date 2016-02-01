@@ -1,0 +1,57 @@
+https://www.elephantdrive.com
+ElephantDrive | ElephantDrive
+Plans
+Features
+Download
+Log In
+Windows
+Mac
+iOS
+Android
+NAS
+Linux
+Beyond Backup
+Protect your files in the cloud & Sync across devices
+Create FREE Account Now
+Or view Premium Plans and Pricing Now
+What is ElephantDrive?
+Find out what ElephantDrive can do for you!
+Learn more
+Your files, Everywhere
+Put your files in the Everywhere folder and have it automatically sync to all your other devices. Start working on a project from your office desktop and pickup where you left off from your laptop at the coffee shop.
+Restore older versions
+Wish you could go back in time and find an older version of a file? Now you can revert back to a previous version of any file with the
+Versioning control. All previous versions are easily identifiable with date and time.
+Recover deleted files
+Have you ever deleted a file by mistake only to realize later that you need it? Use Archive control to keep copies of locally deleted files and folders in ElephantDrive. Also use it to free up space on your NAS locally.
+Mobile Access
+Need to access your files on the go? View, access, save and share your files from iPhone, iPad, or Android devices. You can even upload files to ElephantDrive from your mobile devices!
+Share Files via Links
+Tired of emailing files or sharing them via thumb drives? Share files with your friends and colleagues with simple url links. You can even password protect the links!
+Collaborate, Share Folders
+Share a folder with your colleagues and have the changes that any of you make automatically sync to each others’ machines. No more carrying around thumb drives or emailing files back and forth!
+Safe and Secure
+Data is always encrypted with AES-256 bit encryption before it even leaves your device! Transfer of the already encrypted data is also done using a 128 bit SSL secured channel.
+Direct backup from NAS
+Back up data directly from your NAS to the ElephantDrive cloud. ElephantDrive is natively integrated with most
+leading NAS devices (NETGEAR, Drobo, QNAP, Western Digital, Thecus, Synology). No need for mapping the NAS to your computer!
+Create FREE Account Now
+Basics
+Download
+Features
+Web Access
+Company
+About Us
+Blog
+Resellers & Affiliates
+Strategic Partners
+News and Notes
+Support
+Help Desk
+Tutorials
+Contact Us
+Legal
+Privacy
+Terms of Use
+Follow Us on
+Copyright © 2014 ElephantDrive, Inc. All rights reserved.

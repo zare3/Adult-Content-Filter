@@ -1,0 +1,109 @@
+https://www.mp3-boss.com
+MP3-Boss: MP3 Database and Manager with Winamp support
+30-Day Trialware
+Download Full Install (Site1)
+Download Full Install (Site2)
+Download Update (Site1)
+Download Update (Site2)
+Buy MP3-Boss @ SWREG
+Still only $15 USD!
+MP3-Boss: MP3 Database and Manager
+Finally an EASY way to manage ALL of your audio files in one place.
+Unlike similar programs that become sluggish or impossible to use for large collections -- MP3-Boss will keep going & going...whether you have hundreds, thousands, or TENS OF THOUSANDS of files to manage.
+Features
+Just ask the hundreds of people that have registered MP3-Boss -- there really are too many features to list!
+Here are just a few:
+MP3-Boss works with Win95, Win98, WinME, WinNT, WinXP and VISTA -- and comes with full uninstall if it doesn't meet your needs.
+Integrated Winamp support. Use the BEST audio player in the industry.
+Some organizers make you give up your favorite player.
+Not MP3-Boss -- it lets you keep using Winamp the way you always have, OR use the embedded controller in MP3-Boss to control Winamp!
+Automatic scanning of MP3 and WAV tags (ID3v1, ID3v2, Lyrics and more).
+Plus, it is just as easy to use a single command to write ALL of your changes to the files.
+How about read-only files on CD?
+No problem -- the MP3-Boss database stores ALL of your information in an easy-to-backup database.
+Support for all these file formats!
+Winamp directly supports ALL of these formats (built-in or via plugin).
+MP3-Files (MP1, MP2, MP3)
+MP4/M4A Files (even auto-fixes corrupted MP4/M4A files!)
+Windows Wavefiles (WAV)
+CDG Karaoke files (CDG)
+ZIP Files with embedded music (ZIP)
+OggVorbis Audiofiles (OGG)
+Monkey's Audiofiles (APE)
+FLAC Audiofiles (FLA/FLAC)
+WMA Files
+Musepack Audiofiles / MPEGPLUS (MPP, MPC)
+AAC Files
+Shorten (SHN)
+AIF Files
+Tag formats
+ID3 Tags Version 1.0, 1.1, 2.2, 2.3 and 2.4 (writeable)
+Lyrics Tags Version 1.00 and 2.00
+WAV Tags
+APE Tags Version 1.0 and 2.0
+OggVorbis Tags
+FLAC-Comments
+WMA Tag
+MP4/M4A Comments
+Rating Songs. Have so many songs that you've never gotten a chance to rate them?
+MP3-Boss makes this EASY!
+Individually rate the song that's playing, change the song category, even rename the file!
+Plus, an audio-preview function means that you can listen to song snapshots to QUICKLY rate your songs!
+Extensive database functions - sorting, searching, filtering, reporting. Want to play just a specific artist, album or title?
+Just filter the database and INSTANTLY play the songs you want.
+No other manager makes on-the-fly playlist so fast and convenient.
+General file management - rename, copy, move, delete (even while playing music).
+No longer will you need to worry about WHERE you store your audio files -- MP3-Boss keeps track -- and changing the name or folder in MP3-Boss automatically updates the actual filename and folder!
+Wait until you see how FAST you can move hundreds of files to a new drive -- MP3-Boss caches the changes you want to make and takes care of all that tedious work in the background -- while you continue to play your music!
+Safe! Plan to move a lot of files around?
+Most programs will blindly move your files from drive to drive without worrying about file corruption.
+MP3-Boss verifies that the file transfer was successful before the original is deleted -- you'd be surprised how easy it is to get corrupted files without this extra safety check!
+File cleanup - find exact or partial duplicates, and delete the songs you don't want - move the duplicates to the recycle bin, a new folder, or even to CD!
+Artist cleanup - an amazing new way to look at your songlist by Artist -- and correct hundreds of artistnames with just a few clicks!
+CD functions - create CD label inserts, automatically delete duplicates from your hard drive that are already on a CD, find filenames that will cause problems when burned to CD.
+PLUS, a smart-search that will treat all of your CD drives as equivalent.
+Rename or move your files.
+Want to move all your Death Metal to a new folder with subfolders based on the Artist & Album?
+MP3-Boss makes it EASY!
+Plus, because it intelligently moves files in the background, you can keep playing your songs while it does the heavy lifting in the background!
+Album Art
+New release (Nov2008) now shows all the graphics files that are in your music file directories.
+A great way to get additional information about your songs -- plus MP3-Boss gives you immediate access to those files -- for printing, cleanup or to use with other graphics programs.
+Copy Shortcut
+New release (Nov2008) lets you click on the selected song and drag ... so you can paste in other applications.
+Or, right-click on the selected song and use Windows Explorer functions to bring up the song in any of your other associated applications.
+PAR, PAR2, SFV Cleanup
+New utility function (Nov2008) lets you cleanup and confirm your Usenet downloads.
+Just specify the download directory and a cleaned directory -- and MP3-Boss will verify that the song sets are complete (using MD5 or CRC32 checksum verification) and then move the complete sets to a new directory based on the tagged Artist/Album information.
+While other utilities can cleanup Usenet downloads, MP3-Boss actually reads the embedded information and can really organized the files.
+This is a first for Usenet cleanup!
+Beats per Minute. Are you a DJ?
+Want to sort your songs by BPM (beats-per-minute)?
+How about automatically and quickly calculating beats-per-minute for all your songs using AutoBPM?
+Advanced calculations make sure that only the CORRECT BPM is entered for your songs.
+A quick-BPM mode moves through your songs as quickly as possible...moving to the next song once the BPM calculation is stable.
+Create reports based on all or some of your songs, songs on a specific CD, or just the songs in the current playlist.
+Plus, playlist reports can be sent to a TEXT, RTF or HTML file... or sent to the screen or printer.
+Almost 20 different report formats! Have a special format you just NEED? Send me a sample and it can be added!
+Create custom right-click menus to email your files, send them to Albumwrap, a Hex Editor and more!
+Amazing how easy it is to manage your files when YOU are in control!
+Audio-fingerprinting and intelligent artist identification (using an internal database of more than 17 THOUSAND verified artists) means that your music can be identified even if the tags are missing!
+Direct links to song and artist information on the Internet mean that now it is SIMPLE to find more songs from your favorite artists!
+Winamp playlist repair - automatically fix playlist path information for all your Winamp playlists.
+Online help, a forum, and tooltips (in English, Spanish and German) means you are never far from help.
+Plus, we offer the best and fastest support in the industry.
+Too many special functions to list - more than 50 fields shown for each song, including up to 64K of text, full lyrics and more.
+Set song start and end play times, keep user and song statistics.
+All this for only Fifteen dollars ($US)!
+"Pretty much all you need in terms of managing and playing and organizing your mp3 files." -- Winamp Staff Review
+Comments about MP3-Boss?
+We pride ourselves on providing the best support in the industry.
+Take a look at the MP3-Boss forum for information on ongoing development efforts.
+If you have a problem or need a new feature, please don't hesitate to contact us.
+Send your comments to Commentsmp3-boss.com.
+Copyright ©1999-2010
+OPAL Network
+All Rights Reserved
+Copyright ©1999-2010
+OPAL Network
+All Rights Reserved

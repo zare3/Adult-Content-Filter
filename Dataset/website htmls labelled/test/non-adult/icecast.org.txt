@@ -1,0 +1,74 @@
+https://www.icecast.org
+Xiph.org
+Xiph.org
+Opus
+FLAC
+Icecast
+Vorbis
+Daala
+Theora
+Speex
+XSPF
+About
+Press
+Donate
+Contact
+Wiki
+Downloads
+Bugs
+Documentation
+Videos
+Resources by Project
+The Xiph.Org Foundation is a non-profit corporation dedicated to protecting the foundations of Internet multimedia from control by private interests. Our purpose is to support and develop free, open protocols and software to serve the public, developer and business markets.
+Xiph Community Updates
+2015-10-27 Silvia Pfeiffer
+: "My journey to Coviu"
+2015-09-08 Monty
+: "Announcing VP9 (And Opus and Ogg and Vorbis) support coming to Microsoft Edge"
+2014-11-18 Jean-Marc Valin
+: "Daala: Perceptual Vector Quantization (PVQ)"
+2014-05-07 Ben Schwartz
+: "Gooseberry"
+2014-01-09 Thomas Daede
+: "Zynq DMA performance"
+more updates at Planet Xiph >
+Xiph.Org in the News
+libVorbis 1.3.4 released
+Opus 1.1 released
+Digital Show & Tell released
+the Opus audio codec is now RFC 6716
+more headlines >
+In our effort to bring open-source ideals to the world of multimedia, the Xiph.Org Foundation and its open-source community develops a multitude of amazing products.
+Resources by Project
+Container Formats
+Ogg: Media container.
+This is our native format and the recommended container for all Xiph codecs.
+Speex RTP: RTP payload format for voice
+Vorbis RTP: RTP payload format for audio
+Theora RTP: RTP payload format for video
+Miscellaneous
+XSPF: XSPF is the XML format for sharing playlists.
+XiphQT: An implementation of our codecs for Apple's Quicktime and Core Audio.
+oggdsf: An implementation of our codecs for MS Windows.
+cortado: A java applet for Web browsers to display our codecs.
+Helper Libraries
+libao: A cross platform audio library.
+liboggz: A simple programming interface for reading and writing Ogg files and streams.
+libfishsound: A simple programming interface for decoding and encoding audio data using Xiph.Org codecs.
+Software for Distributing Media
+CD Paranoia Robust CD audio extraction
+Icecast: Streaming server
+IceS: Source client for Icecast Server
+Codecs
+Vorbis: Audio codec
+Tremor: Fixed-point decoder
+Daala: Next-generation experimental video codec
+Theora: Video codec
+FLAC: Free Lossless Audio Codec
+Speex: Speech codec
+CELT: Very low-delay audio codec
+Opus: IETF Interactive speech/audio codec
+Ogg Metadata: Arbitrary metadata format
+The Xiph Fish Logo and the Vorbis.com many-fish logos are
+trademarks (™) of Xiph.Org.
+These pages © 1994 - 2013 Xiph.Org. All rights reserved.

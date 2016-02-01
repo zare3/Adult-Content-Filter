@@ -1,0 +1,234 @@
+https://www.angelsofthenight.co.uk
+COZYROC | SQL Server 2005 2008 2012 2014 Integration Services (SSIS) information, products, free scripts, tasks, components, productivity.
+Home
+Products
+Purchase
+News
+Community
+Streamline your workflows with COZYROC SSIS+ Library
+Reliable, essential components for developing affordable, world-class ETL solutions with Microsoft SQL Server Integration Services (SSIS).
+Free Download
+Buy Now
+What's Included?
+SSIS Control Flow Tasks
+Data Flow Task Plus
+Data Flow Task Plus
+Extends Microsoft Data Flow task for greater usability and maintenance.
+Database Partitions
+Database Partitions Task
+Handles the intricacies of partitioning allowing you to concentrate on your workflow.
+Script Task Plus
+Script Task Plus
+Extends Microsoft Script task for greater usability and maintenance.
+SFTP Task
+Secure FTP Task
+Securely send, receive, delete, or rename files, create and remove directories.
+Zip Task
+Zip Task
+Compression and decompression of Zip, GZip, BZip2, Unix, Tar archives.
+SSH Execute Task
+SSH Execute Task
+Secure execution of shell commands on a remote SSH server.
+OpenPGP Task
+OpenPGP Task
+Public-Private key encryption with OpenPGP standard.
+Amazon S3 Task
+Amazon S3 Task
+Send, receive, delete and list files on Amazon S3 service.
+Jabber Task
+Jabber Task
+Bidirectional communication with Jabber clients.
+Stream Task
+Stream Task
+Management of standard Stream objects.
+Template Task
+Template Task
+Generation of arbitrary text documents.
+SCP Task
+SCP Task
+Secure copying of files.
+Send Mail Task Plus
+Send Mail Task Plus
+Enhanced task for sending emails with support for security.
+Receive Mail Task
+Receive Mail Task
+Receive emails with support for security.
+Excel Task
+Excel Task
+Management of Microsoft Excel workbooks.
+Parallel Loop Task
+Parallel Loop Task
+Concurrent Foreach loop execution.
+SSIS Data Flow Components
+SAS® Data Source
+SAS® Data Source (Premium)
+Load data from SAS® sas7bdat file.
+SAS® Data Destination
+SAS® Data Destination (Premium)
+Store data to SAS® sas7bdat file.
+Data Flow Source
+Data Flow Source
+Very fast, non-blocking, in-memory data read from another data flow.
+Data Flow Destination
+Data Flow Destination
+Exposes data from a data flow for in-memory read in another data flow.
+Oracle Destination
+Oracle Destination
+Very fast bulk-load of data in Oracle table.
+DB2 Destination
+DB2 Destination
+Very fast bulk-load of data in DB2 table.
+Informix Destination
+Informix Destination
+Very fast bulk-load of data in Informix table.
+EDI Source
+EDI Source
+Reader for EDI format files.
+Script Component Plus
+Script Component Plus
+Extends Microsoft Script component for greater usability and maintenance.
+Address Parse
+Address Parse
+US Postal Address parse and correction.
+ODBC Destination
+ODBC Destination
+Regular and bulk-load of data in ODBC table.
+Lookup Plus
+Lookup Plus
+Simplified and enhanced lookup transformation.
+Salesforce Source
+Salesforce Source
+Load data from Salesforce service.
+Salesforce Destination
+Salesforce Destination
+Store data to Salesforce service.
+Table Difference
+Table Difference
+Detect table differences faster than standard SCD component.
+Flow Synchronization
+Flow Synchronization
+Make data flows run with same speed.
+Dynamics CRM Source
+Dynamics CRM Source
+Load data from Dynamics CRM service.
+Dynamics CRM Destination
+Dynamics CRM Destination
+Store data to Dynamics CRM service.
+Excel Source Plus
+Excel Source Plus
+Load data from Microsoft Excel workbook.
+Excel Destination Plus
+Excel Destination Plus
+Store data to Microsoft Excel workbook.
+SharePoint Source
+SharePoint Source
+Load data from Microsoft SharePoint list.
+SharePoint Destination
+SharePoint Destination
+Store data to Microsoft SharePoint list.
+Dynamics AX Source
+Dynamics AX Source
+Load data from Dynamics AX server.
+Dynamics AX Destination
+Dynamics AX Destination
+Store data to Dynamics AX server.
+SugarCRM Source
+SugarCRM Source
+Load data from SugarCRM service.
+SugarCRM Destination
+SugarCRM Destination
+Store data to SugarCRM service.
+Dynamics NAV Source
+Dynamics NAV Source
+Load data from Dynamics NAV service.
+Dynamics NAV Destination
+Dynamics NAV Destination
+Store data to Dynamics NAV service.
+NetSuite Source
+NetSuite Source
+Load data from NetSuite service.
+NetSuite Destination
+NetSuite Destination
+Store data to NetSuite service.
+Dynamics GP Source
+Dynamics GP Source
+Load data from Dynamics GP service.
+Dynamics GP Destination
+Dynamics GP Destination
+Store data to Dynamics GP service.
+Sage Source
+Sage Source
+Load data from Sage SData service.
+Sage Destination
+Sage Destination
+Store data to Sage SData service.
+OpenAir Source
+OpenAir Source
+Load data from OpenAir service.
+OpenAir Destination
+OpenAir Destination
+Store data to OpenAir service.
+Template
+Template
+Arbitrary text generation in data flow.
+Teradata Destination
+Teradata Destination
+Very fast bulk-load of data in Teradata table.
+QuickBooks Source
+QuickBooks Source
+Load data from QuickBooks service.
+QuickBooks Destination
+QuickBooks Destination
+Store data to QuickBooks service.
+Query
+Query
+Query data based on data flow input.
+Sybase Destination
+Sybase Destination
+Very fast bulk-load of data in Sybase table.
+Tableau Destination
+Tableau Destination
+Create Tableau Data Extract (TDE) files.
+SSIS Connection Managers
+SSH Connection ManagerSecure connections with SSH-enabled server.
+Package Connection ManagerGet access to the current or different package at runtime.
+Amazon S3 Connection ManagerConnections with Amazon S3 service.
+Jabber Connection ManagerConnections with Jabber servers.
+FTPS Connection ManagerSecure connections with FTP over SSL server.
+Salesforce Connection ManagerConnections with Salesforce service.
+Dynamics CRM Connection ManagerConnections with Dynamics CRM service.
+SMTP Connection ManagerConnections with SMTP mail server.
+POP3 Connection ManagerConnections with POP3 mail server.
+IMAP Connection ManagerConnections with IMAP mail server.
+Excel Connection ManagerConnections to Microsoft Excel workbook files with support for 64bit machines.
+SharePoint Connection ManagerConnections with SharePoint service.
+Dynamics AX Connection ManagerConnections with Dynamics AX server.
+Distributed Cache Connection ManagerConnections with Windows AppFabric distributed cache.
+SugarCRM Connection ManagerConnections with SugarCRM server.
+Dynamics NAV Connection ManagerConnections with Dynamics NAV server.
+Exchange Connection ManagerConnections with Exchange service.
+NetSuite Connection ManagerConnections with NetSuite services.
+Dynamics GP Connection ManagerConnections with Dynamics GP server.
+OpenAir Connection ManagerConnections with OpenAir services.
+Sage Connection ManagerConnections with Sage SData service.
+QuickBooks Connection ManagerConnections with QuickBooks services.
+SSIS Scripts
+Script Task Plus Script Component Plus
+Public RepositoryReady-to-use reusable scripts and samples.
+About Us
+COZYROC is the leading company providing advanced Microsoft SQL Server 2005-2014 Integration Services (SSIS) library of custom tasks, components and scripts for handling Zip, GZip, BZip2, Tar archives, enhanced script reuse and secure internet communications.
+Comments about our products:
+News BlogForumSite
+Re: Excel Plus Leading Spaces
+Re: Salesforce Upsert status as error
+Re: Get Remote File list Using FTP's Connection Manager
+Re: Excel Destination Plus deletes conditional formatting
+Re: Salesforce SSL3.0
+more
+updated Amazon S3 Connectionupdated Purchaseupdated Purchaseupdated Testupdated Data Flow Taskmore
+Join VIP
+Join VIP subscribers getting Exclusive COZYROC SSIS+ Library updates, private Q&A and more.
+Enter your email here: *
+No spam, ever. Just great stuff !
+Contact Us | Terms | Privacy
+2006-2016 COZYROC LLC ► Go to the next level

@@ -1,0 +1,12 @@
+https://www.gamechit.com
+Test Page for the Nginx HTTP Server
+Nginx Test Page
+Current server uptime: ,
+This page is used to test the proper operation of the Nginx HTTP server after it has been installed. If you can read this page, it means that the Nginx HTTP server installed at this site is working properly.
+If you are a member of the general public:
+The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.
+If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name "webmaster" and directed to the website's domain should reach the appropriate person.
+For example, if you experienced problems while visiting www.example.com, you should send e-mail to "webmaster@example.com".
+If you are the website administrator:
+You may now add content to the directory /usr/local/nginx/html. Note that until you do so, people visiting your website will see this page, and not your content. To prevent this page from ever being used, replace this file (index.html). You may also wish to make modifications to /usr/local/nginx/conf/nginx.conf and /usr/local/nginx/conf/conf.d/virtual.conf.
+You are free to use the image below (and these) on web sites powered by the Nginx HTTP Server:

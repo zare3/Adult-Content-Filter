@@ -1,0 +1,64 @@
+https://www.your-freedom.net
+Your Freedom - VPN, tunneling, anonymization, anti-censorship. Windows/Mac/Linux/Android
+SSL Certificate
+Your Footprint
+Your IP:
+156.197.105.142
+Android version is here!
+Latest News
+25-05-15
+Database upgrade
+Should finally solve issues seen in the last days.
+[more]
+13-02-15
+Reseller?
+Check out our offer.
+[more]
+30-12-14
+New servers!
+Located in the United States and in Germany.
+[more]
+21-03-14
+Hello R. Tayyip Erdoğan!
+Use Twitter, facebook and YouTube in Turkey.
+[more]
+go to Archive ->
+Statistics
+Users
+Total: 1913730
+Last month: 107251
+Last week: 52527
+Today: 29558
+Logged in: 12930
+Servers
+Total: 39
+Available: 39
+Traffic
+Overall: 224.55 MB/s
+(Data updated every 5 minutes.)
+Check out our statistics page for more statistics and server availability.
+Page served by:marvin.resolution.de
+This website uses cookies. Their lifespan is only short and they are only used to maintain the session.
+User:
+Pass:
+Click here to register!
+Forgot your password?
+The all-in-one VPN tunneling, firewall & proxy bypassing, anonymization and anti-censorship solution
+Are you trapped behind a firewall or a filtering web proxy and cannot access some or many web pages or use an application you would like to use or play a game you would like to play? Is your Internet connection being censored and you would like to stick censorship where the sun doesn't shine? Would you prefer to stay anonymous, that your IP address is not logged with every access to someone's web page? Then look no further, you've found the solution!
+The Your Freedom services makes accessible what is unaccessible to you, and it hides your network address from those who don't need to know. Just download our client application and install or just run it on your PC; it turns your own PC into an uncensored, anonymous web proxy and an uncensored, anonymous SOCKS proxy that your applications can use, and if that's not enough it can even get you connected to the Internet just as if you were using an unrestricted DSL or cable connection -- just like the firewall suddenly went boom! You can even make your PC accessible from the Internet if you like. Nearly all applications work with Your Freedom, and so far no-one has managed to block our service completely and permanently without blocking your Internet access entirely.
+Every day, more than 10,000 people in over 160 countries use our service, some because their government would rather not have them exercise their human rights, some because their school or university feels they are not mature enough to decide for themselves whether playing the odd game interferes with their studies or not, others because they don't want traceable IP addresses in every logfile. There are probably as many good reasons to use Your Freedom as there are restrictive firewalls in the world!
+Your first step to an unrestricted Internet access is to register on this web page -- all you need to provide is a contactable email address and a username and a password, nothing else is required. Then download the client application (available for Windows, Mac OS X, Linux and everything else that can run Java apps, and Android) and run it -- the wizard will guide you through configuring it properly. Then configure your applications to use your own PC as web or SOCKS proxy or use our transparent OpenVPN mode.
+If you do not need Your Freedom's filter avoidance capabilities, you can simply use our service through PPTP. No client software needed. Check out our PPTP howto. PPTP works well with games!
+Will Your Freedom get me a free Internet connection?
+Probably yes, particularly if you use DNS tunneling mode. You may be able to get a working mobile phone connection when the provider does not want it to be working (no credit, special APNs, etc.), and you may be able to use wireless hotspots without paying for the usage. Your Freedom cannot differentiate between true censorship and merely commercial interests; if there is a way out, Your Freedom will find it and use it.
+What does it cost?
+A rudimentary service is available for free. It will provide a bit more bandwidth than a modem connection and up to 2 hours of usage per day (up to 5 hours per week), and will probably be enough for all casual users -- it's certainly enough to visit blocked web pages and join chats, and if it suits your needs you are welcome to use it as much as you like.
+For those who want more, upgrade packages are available. Please check out our Account page for details. There are also upgrade vouchers available for those who don't want time based upgrades. Your bought upgrades and vouchers keep this service alive, so please consider to pay!
+Play many online games through web proxies!
+World of Warcraft Second Life Lineage 2 Final Fantasy XI EVE Online ... and many more
+How to use OpenVPN mode
+It's simple, and since many people don't figure out how to do it or where it is documented, we've decided to tell you on the front page. So once you've set up the Your Freedom client (and the configuration wizard congratulates you that now all is fine), be sure you read how to use OpenVPN mode, because it will magically solve most if not all of your problems, and you don't have to reconfigure any applications.
+SPAM
+Our domain names (your-freedom.net, resolution.de, some others as well) are frequently being used to make email SPAM appear to originate from us. Rest assured that we do not SPAM the net. We detest SPAM as much as virtually everyone else, and it is not possible to propagate SPAM through our service in substantial amounts. If you have reason to believe that someone sent SPAM through our system, please notify us at abuse@your-freedom.net immediately -- we will certainly take care of it!
+Contact/Impressum  |   Help Us
+Acceptable Use

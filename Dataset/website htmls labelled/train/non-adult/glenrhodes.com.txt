@@ -1,0 +1,197 @@
+https://www.glenrhodes.com
+Glen Rhodes | Game & App Developer, Unity 3D & Flash pro, composer, husband and father.
+Glen Rhodes
+Search
+Primary Menu
+Skip to content
+Portfolio
+Soundcloud
+Twitter
+Contact Me
+Search for:
+Unity 3D
+The sinking of the Titanic. A Unity 5 Experience.
+Unity 3D
+Unity 5 – Global Illumination & Reflection Tutorial
+Game Development, Oculus Rift, Unity 3D
+The Midway Oasis – Oculus Rift VR Game
+Blog, Game Development, Unity 3D
+ExtroForge – Indie Game
+Blog
+The Power of the Sleep Cycle
+Blog, Unity 3D, Writing
+As featured on Unity 3D –
+July 28, 2015 Glen Rhodes Leave a comment
+My recent tutorial on a realtime global illumination day/night cycle was recently added to the Unity 3D Learn portal site.  Check it out.
+http://unity3d.com/learn/tutorials/modules/intermediate/graphics/realtime-gi-day-night-cycle
+Share
+Blog
+Interrupt with care..
+May 4, 2015 Glen Rhodes Leave a comment
+Made this image in photoshop.  This is the ultimate developer/programmer truth.
+Share
+Blog
+This Is Why You Shouldn’t Interrupt a Programmer – The Slightly Disgruntled Scientist
+May 4, 2015 Glen Rhodes
+Since @kevin_rudds_cat suggested it, I also made a two-column A4 sized PDF version. Update: So after being retweeted several hundred times and being …
+Source: This Is Why You Shouldn’t Interrupt a Programmer – The Slightly Disgruntled Scientist
+Share
+Blog, Game Development
+What if I want to make a game? Where to find game assets
+April 29, 2015 Glen Rhodes
+HTML5 is the perfect technology if you want to make a game and today we will tell you where to find the best game assets!
+Source: What if I want to make a game? Where to find game assets
+Share
+Blog, Unity 3D
+Unity Focus: Remastering République with Unity 5 | Game Development Tools & Tech | Develop
+April 28, 2015 Glen Rhodes
+Guides to game development tools and technology
+Source: Unity Focus: Remastering République with Unity 5 | Game Development Tools & Tech | Develop
+Share
+Unity 3D
+The sinking of the Titanic. A Unity 5 Experience.
+Video
+April 18, 2015 Glen Rhodes
+This is something I put together to see if I could create an experience of being on board the RMS Titanic.  I created this to coincide with 103rd anniversary of the Titanic disaster.
+Here’s a video of the experience:
+This is all Unity 5, with realtime global illumination (GI).  This was pretty tricky because I wanted the ship to eventually sink and go beneath the water, but with pre-calculated indirect GI, it was impossible to move the ship into the water.  So what I did, was move the water, onto the ship!  The result is very effective.
+Try it out for yourself!  can you survive the sinking? Check it out here.  This is the Unity webplayer, not WebGL.  The WebGL version is coming soon.
+https://dl.dropboxusercontent.com/u/93115667/Titanic/index.html
+Share
+featured
+Unity 3D
+Unity 5 – Global Illumination & Reflection Tutorial
+Video
+April 10, 2015 Glen Rhodes
+After receiving many requests for a tutorial on my GI demo, I decided to put together this tutorial showing how it’s all done.
+Check it out!
+Share
+featured
+Unity 3D
+Unity 5 – Realistic Lighting Demo Scene
+Video
+April 10, 2015 Glen Rhodes
+Here’s a demo scene that I put together in Unity 5 to show off the new realtime global illumination (GI) and physically based rendering / shading.  It’s had over 25,000 views as of today.
+Share
+Blog
+A War Photographer Embeds Himself Inside a Video Game
+April 9, 2015 Glen Rhodes Leave a comment
+The Last of Us Remastered is a post-apocalyptic video game released earlier this year on PlayStation 4 with an in-game Photo Mode, which freezes the game and lets players shoot, edit and share photographs of their achievements. TIME assigned conflict photographer Ashley Gilbertson to use the Photo Mode to document the game’s protagonists as they […]
+http://time.com/3393418/a-war-photographer-embeds-himself-inside-a-video-game/
+Share
+Ashley GilbertsonphotographyPlaystationportfoliovideo game
+Game Development, Oculus Rift, Unity 3D
+The Midway Oasis – Oculus Rift VR Game
+September 17, 2014 Glen Rhodes Leave a comment
+My Oculus Rift DK2 arrived recently, and so I had to dive in and create something. I ended up creating this strange sort of surreal and dreamlike island – which, as it turns out, is a sort of purgatory that you must escape.
+The game is called “The Midway Oasis”.  It takes place on a strange island, that has more to it than meets the eye.
+Here’s a link to the app on the Oculus VR showcase (where you can download and try it out):
+https://share.oculusvr.com/app/the-midway-oasis
+Controls:
+Look around to move the aim sphere – this is where you’ll go to when you press the SpaceBar.
+The sphere must be green to travel to it.  If it’s red, it means its too far away, or on an inverted steep surface.
+To avoid having to turn your head 180 degrees, you can press the Left and Right Arrows to turn your body 90 degrees.
+Pick up the dream spheres by going close enough to them that the aim sphere turns light blue.
+The Midway Oasis is a mystifying experience. At its core, this is an exploration game, where you must arrive at a seemingly abandoned island in the middle of nowhere, with towering rocks, massive floating towers, rickety buildings, narrow bridges supported by splintered beams, and hints of an ancient presence. But what is this place?
+Welcome to the Midway Oasis, lost wanderer.
+As you have washed up here, you have clearly had a turn of fortune. For better, and for worse.
+Undoubtedly, you have no recollection of your journey here. You just know that you are here, and not much else.
+This island does that do you.
+Others have come before you, having cast their dreams upon these shores.
+And they have found the way home.
+They have left behind their dreams for you to find.
+If you seek redemption, you must find all the dream spheres, whereby the exit portal at the peak of the Great Tower will open.
+Listen to the wind.
+It whispers an ancient tale.
+You will not be judged harshly, for you have been compassionate when those around you were lost in their own darkness.
+They will follow you home.
+Share
+featured
+Posts navigation
+1
+2
+…
+9
+Next →
+CloudActionscript
+Arcadetown
+Article
+Author
+Black Knight
+Book
+Commander Keen
+Composer
+Disney
+Dream
+Electronic
+featured
+Flash
+Flash Games
+Flashinthecan
+Game Development
+Games
+Ironflash
+Keen
+Licensing
+Lightsaber
+Magazine
+Math
+My Music
+Orchestra
+Pianist
+Piano
+portfolio
+Practical Web Projects
+Producer
+Rambling
+Random
+Reference
+Research
+Retro
+Singer
+Singing
+Sleep Cycle
+Social Networking
+Speaking
+Thoughts
+Toy
+Web Designer
+Wolfenflash
+Writing
+Recent Posts
+As featured on Unity 3D –
+Interrupt with care..
+This Is Why You Shouldn’t Interrupt a Programmer – The Slightly Disgruntled Scientist
+Commentsrinoadamo on Adiemus Choral RecordingHow I cured my sleep problems with absolutely nothing (except a little knowledge)- The Gaia Health Blog on The Power of the Sleep CycleThe Power of the Sleep CycleBigdrobek on The Power of the Sleep CycleNeuroscience: In the long run, is it healthier to sleep five hours a day or two times for three hours? - Quora on The Power of the Sleep CycleSleep: To maximize rest, is it better to wake up during the "right" part of a sleep cycle or just get more sleep? - Quora on The Power of the Sleep Cycle
+Game & App Developer, Unity 3D & Flash pro, composer, husband and father.
+My Portfolio
+About Me…
+Contact Me
+Blog
+Client Work
+Unity 3D
+Flash
+My Flash Games
+Experiments
+My Music
+Soundcloud ->
+Speaking
+Writing
+Books
+Magazine Articles
+Search for:
+January 2016
+M
+T
+W
+T
+F
+S
+S
+« Jul
+123
+45678910
+11121314151617
+18192021222324
+25262728293031
+Proudly powered by WordPress

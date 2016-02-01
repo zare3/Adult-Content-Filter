@@ -1,0 +1,41 @@
+https://www.maslo.cz
+Lukáš Pokorný
+Lukáš Pokorný
+me
+i am lukas
+blogs
+blog in english
+blog in czech
+contact me
+lukas.pokorny@eu : swap [dot] and [at] to reach me
+networks
+twitter
+facebook
+flickr
+panoramio
+linkedin
+last.fm
+google
+works
+sftp.ws : sftp over websockets - a file transfer protocol
+post.ly helper : post.ly url retriever (2009-2013)
+sftp server lite : lightweight c# sftp/scp/ssh server api (2008-2011)
+posterapi : posterous api in c# (2009-2010)
+orkney : photos from my orkney visits (2007-2008)
+n2 : experimental demo editor (2004-2008)
+intros : demos and 64k intros by me (1998-2007)
+fiasko : first czech pc demoparty (1998-2001)
+friends
+adamm : social networking guru
+raist : kept the czech demoscene alive
+frohikey : owner of a planet of alien insects
+bberu : creates photos and poetry
+boop : moved to finland
+links
+nuane : my virtual space
+scene.cz : czech demoscene hq
+movsd : my old scene pals
+clrsrc : my new scene pals
+rebex : i work for them
+výheň : old czech diskmag archive
+máslo : all about butter

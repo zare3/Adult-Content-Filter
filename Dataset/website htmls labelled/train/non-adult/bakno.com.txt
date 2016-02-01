@@ -1,0 +1,43 @@
+https://www.bakno.com
+baKno Games | Mac Games | Windows Games | iOS Games | Android Games
+Menu
+Games IBackgammonBilliardsBlastChessColor SudokuCrazy ToadDominoGemsIsland RacerKasinoKinkKubixGames IIMacPoolMahJongMotorbikeNevenPinballPunk TraderRasty PelicanSkriptSolitaireSpacePigTicoXplorerYatzyToolsChartsSecure MessagesTokensSubscriptionRecommendRedeemPromotionsOrganizerNewsBlogNewslettersPress ReleasesForumSearchLoginRegisterCorporateAbout baKnoLicense AgreementPrivacyPaymentsHelpDownloadingPurchasingUnlockingFAQContact
+The Classic Board Game of All Times
+Realistic Billiards Simulation With Five Different Games
+Lasers, Bombs, Power Ups, Epic Action for Hours
+The classic strategy game with gorgeous graphics
+The Colorful Way to Puzzle Your Mind
+A Breakout Style Game With a Fun Twist
+Fun Against the Computer or Worldwide Players Online
+Addictive Match-Three Game With Gorgeous Graphics
+Fierce Hight Octane Battles… Across Paradise
+Tracing Curves Has Never Been So Challenging
+Enjoyment From the First Click
+The Best Pool Game Around
+The Most Beautiful Mahjong Game Around
+Vertiginous Bike Skills Full of Action
+Delightful Mind Puzzle Dare
+Crazy Pinball Game Now With Table Editor
+The Cool Rhythm of Fun
+Playable in Six Different Languages
+Five game styles with beautiful cards
+The Dice Game Now in a Cool and Exciting Format
+Welcome to baKno
+baKno is a game development studio based in Key Biscayne, FL, USA. We are a group of video game enthusiasts committed to create engaging gaming experiences, by developing casual games for Desktop, Mobile, Consoles and Virtual Reality. Customers in more than 100 countries enjoy our games on a daily basis. Our games are provided from our website and popular application stores.
+Enjoy Our Games Like They Do
+“Motorbike is a really awesome game, nice graphics, fine reality and very easy to make stunts. I love it!.”
+Jose Rocha, Brazil.
+“You have no idea how much MahJong means to my husband and to me. You have reached out to touch the lives of some very special people in more ways than you know.”
+Judy Morris, USA.
+“I've been playing baKno's Billiards for about 3 years now, the graphics and the physics are particularly good. Better still is the great email contact I've had with the guys from baKno, prompt, friendly, and helpful.”
+Donald MacKenzie, Tasmania, Australia.
+“The music for your games is quite good. I think your games are worth the cost. The graphics are bright and colorful yet sophisticated. The Mahjong and Gems are just beautiful.”
+Vera Karger, USA.
+“Thanks! I do have to say that Solitaire has the nicest set of cards around, love the medieval ones. I also like MacJong, great graphics on the tiles and nice music.”
+Carrie Steyer, USA.
+"I was very impressed with how much effort you put in to resolving the problem and the speed of the help I received from you, I wish more companies were like that “.
+Chris Pullan, UK
+Enjoy Blast on Your TV
+A few weeks before releasing the new AppleTV to the public, Apple sent us a development unit. Then, after evaluating the input/control options we decided to port our beloved Blast. Since tvOS is very similar to iOS most of the game was already coded, the only work necessary was to adapt the remote input (trackpad and gyro), optional gamepad input, and rewrite the user interface to respond to these new input controls.The result is awesome. Playing Blast in a big-screen with big-sound improves the experience considerably. Using a gamepad instead of the remote is highly recommended.
+Play Some More…
+© 2015 baKno. All rights reserved. Page translation provided by Google.

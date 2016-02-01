@@ -1,0 +1,54 @@
+https://www.avsofchoice.com
+Audio Video Solutons - Home
+Audio Video Solutons
+Home
+About
+Contact
+Knowlege Base
+services
+Custom Thearter
+Home Automation
+Distributed A/V
+Data & Networking
+Commercial
+Gallery
+Shades
+av cALABRATION
+HOMEWORKS
+Residential
+1021 Burke Street, Winston-Salem
+Commercial
+Coming Soon to a Theater Near You
+Knowledge Base
+Lighting Control
+Distributed Audio
+Data/Networking
+Commercial
+<
+>
+Surge & Transient Protection forTelephone, CATV & Satellite ServicesIntroduction This application brief outlines how telephone, cable, & satellite services enter a building and how these services should be properly installed and connected to protect connected equipment from lightning & man-made surge and transient damage.Service Entrance Surge and Transient ProtectionTelephone, CATV, and Satellite ServiceTelephone, CATV, and satellite services that enter commercial or residential premises are subject to surge and transient events in much the same way that the electrical service is. Direct and induced energy from lightning, as well as man- made surges and transients can find their way onto these services and subsequently into the building, damaging or destroying connected equipment. The most common form of protection offered by the service providers is in the form of a shunt mode device such as a MOV, gas discharge tubes, carbon and other arc-through block that is put in line with the transmission or phone line and connected to earth ground at a convenient place. The theory being that when a surge event occurs from lightning or some other source, the device will divert the energy to earth ground once a certain break-down or arc-over threshold is reached.Electrical ServiceA ground rod is required by code at the power service entrance of a building. It, along with the service entrance and building wiring, provide the first line of defense against lightning entering the building. It does so by allowing surge energy to arc-over from the service entrance and building wiring to earth ground thus limiting the maximum voltage seen inside the building to around 6000 volts.Proper Installation of ServicesFor surge energy to properly get diverted to earth ground at the service entrance and protect connected equipment, it is imperative that ALL of the services enter the building at or very near the same place so they can ALL share a common earth grounding point. Unfortunately this is often not the case. It is quite common to see the electrical service enter a building at one location and be properly grounded, while the other services come in at different locations, usually dictated by convenience to, or ignorance by the installer. Once this happens, even if a ground rod is placed at the different service entrances or a less capable ground such as a water pipe is used, the rule of using a common grounding point for all services has been broken and problems will begin to occur.Multiple Earth Ground SourcesOnce different grounding points have been used in service installations, any surge current that gets properly diverted by the surge protection device enters the earth ground through a wire having some small amount of impedance. This impedance, although perhaps only a few tenths of an ohm when presented with many thousand amperes of surge current to divert, will cause the ground potential (what we normally think of as the zero voltage reference) to rise many hundreds or even thousands of volts at that point.Shared Services If all services entering the building properly share a common earth ground at the service entrance the phenomenon described above would have no effect on connected equipment. All equipment would reference the same ground point and there would always be near zero volt difference between all equipment during a surge event. Such is not the case when different ground references are used and a surge event occurs. The many hundred or thousand volt shift in the ground reference due to having different ground sources is now present between the equipment that shares these services. With a different ground reference potential between equipment that is otherwise connected together with low- voltage telephone, CATV, network, or audio wire, a completed circuit is created and the voltage that is present (usually several orders of magnitude greater than normal) causes damage or destroys the connected equipment. Line-level audio inputs/outputs on audio equipment, telephone PBX’s, and network interface cards are particularly susceptible to this type of damage due to the much lower voltage and current signals present in normal operation.All-in one Surge Protection DevicesIn recent years, all-in-one surge protection devices have found their way into the marketplace. These devices range from inexpensive power-strips to high priced units that connect to the power, telephone, and CATV/satellite systems and claim to protect the connected equipment from surge and transient damage from any and all sources. These devices fail in three critical areas to protect equipment and proved a clean source of power.No Common Earth GroundBecause these devices use shunt mode technology in the form of Metal Oxide Varistors (MOVs) to shunt the surge energy to ground AND because they are not mounted at the service entrance, but rather sitting well inside the building and on a branch power circuit, they increase the problem of ground circuit contamination and ground loops. Any surge current that is successfully diverted to the ground wire inside the box must now travel some distance, usually several hundred feet through building wiring to the earth ground. This sets up that same ground-loop scenario as previously described, causing a voltage difference between connected equipment with subsequent damage.Redirection of EnergyAnytime a significant surge event such as a lightning strike occurs it needs to be mitigated in the best possible manner before the majority of the energy can enter the building. If energy of any significant magnitude is allowed to enter the building though a service such as the power, telephone, of CATV/satellite system, the absolute worst scenario is close placement of these services at a central point of connection such as an all-in-one surge protection device. Large surges will arc over from one service to another damaging otherwise unaffected equipment.Cross coupling of EMI/RFIOnce multiple services are brought into close proximity to each other, crosstalk through both high and low frequency signals occurs. The relatively large magnetic fields around the power lines will couple 60Hz AC noise into the telephone and RF signals paths and conversely, EMI and RFI from the satellite/CATV and high frequency data services on the phone line will find their way into the power and manifest themselves as audible noise, video degradation and so forth.Installation Guidelines for ServicesCommon Entrance/GroundAll services such as power, telephone, and CATV/satellite, need to be brought into the building at nearly the same point so that they can all share the same common earth ground.Proper Protective DevicesAll services need to have proper surge protection devices installed by the service provider and connected to the common earth ground as described above.TelephoneTelephone service entrance is usually provided in the form of a telephone network interface at the demarcation point. These devices usually uses some type of shunt mode protection to provide protection from lightning and other sources or large surge events from entering the premises. This the placement of the telephone service entrance needs to be close the other services, including power so that the common grounding point can be used.CATVCable television service entrance is often provided in the form of a junction at the demarcation point with a air- gap arc-over block. Again, the placement of the CATV service entrance needs to be close the other services, including power so that the common grounding point can be used for the surge protection device.SatelliteSatellite dishes need not be mounted on a rooftop and be turned into a natural lightning rod. Height above ground, unless for obstruction clearance or aesthetics is not critical for the operation of these devices. Satellite cable surge protection is often provided similar to CATV in the form or an air-gap arc-over block. The placement of the satellite service entrance needs to be close the other services, including power so that the common grounding point can be used for the surge protection device.If a rooftop installation is mandated, consider routing the feed line inside metal conduit from the dish down straight down the side of the building with no turns and ground the conduit to the common service entrance ground. At the point the feed line enters the building bring it in at a 90-degree angle to provide a high impedance path to lightning.This technique will not protect the feed horn, LNB or even the cable from damage due to direct lightning strike, but it will provide a reasonable defense against lightning entering the building by providing a path for the lightning to arc-over into the conduit and find a path to earth ground.
+NEXT PAGE
+CustomTheaters
+Video ProjectionSurround Sound3D VideoRoom DesignTouch ControlsPrecise Calibration
+HomeAutomation
+Lighting ControlMotorized ShadesRemote Monitoring
+DistributedA/V
+DataNetworking
+VideoAudioMedia Servers
+Audio Video Solutions1021 Burke StreetWinston-Salem, NC 27101336.722.9955
+© COPYRIGHT 2015. ALL RIGHTS RESERVED.
+Home
+About
+Contact
+Knowlege Base
+services
+Custom Thearter
+Home Automation
+Distributed A/V
+Data & Networking
+Commercial
+Gallery
+Shades
+av cALABRATION
+HOMEWORKS
+✕

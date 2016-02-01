@@ -1,0 +1,181 @@
+https://www.robotthoughts.com
+RobotThoughts | Robots, IT and Me
+Skip to content
+Photos
+Video
+Lego
+Star Wars
+Trains
+Robots
+Holonomic Drive
+Mistakes
+Radar Bots
+Rollers
+Synchro Drive
+Video Robots
+Walkers
+Rich ThompsonOctober 5, 2015October 5, 2015UncategorizedLeave a comment
+Collaborative Navigation Between Drone and Walker
+When the drones and the robots start collaborating should we be concerned? Weren’t we warned about this in a few movies… Actually, this is a cool demonstration of leveraging the right technology for mapping and farming out locomotion.
+Rich ThompsonDecember 3, 2014October 5, 2015Technology2 Comments
+Neopixel Lamp
+After seeing the SplashLight from Avoooq and enjoying the image of a pouring bottle lamp, I felt I had to make one and make it awesome. My first idea was to recycle a lamp from around the house and create something completely new. I discovered that all my lamps already had a good use case. So I dug […]
+Rich ThompsonAugust 11, 2014October 5, 2015VideoLeave a comment
+An Arduino Compatible Hexapod
+I had a chance to build the iitsii Robugtix hexapod and took some time to play with BigFoot Inverse Kinematics engine that comes with the platform. The engine really simplifies the gait management with the six legged platform. The build was easy, even though you have to manually position 18 servo motors by hand. The […]
+Rich ThompsonApril 17, 2014October 5, 2015Robot NewsLeave a comment
+MorphHex Robot
+The MorphHex robot looks to be an interesting and rapidly evolving robot type. There is a nice write up on it and other types at vice.com.
+Rich ThompsonMarch 22, 2014October 5, 2015VideoLeave a comment
+Hot Springs and Creepy Carnival Rides
+I’ve been playing more with slow motion video on IOS. Here is a shot from Hot Springs, Arkansas: Hot Springs from Rich Thompson on Vimeo. I also took a very creepy carnival ride shot: Memphis Cotton Carnival from Rich Thompson on Vimeo.
+Rich ThompsonApril 25, 2013October 5, 2015AppleLeave a comment
+Mac OSX ACLs
+I went down a rabbit hole working on OSX ACLs, luckily this page on OSX ACLs was around to help out.
+Rich ThompsonJuly 12, 2012TechnologyLeave a comment
+Rip DVD to Kindle Fire – Handbrake DVD Ripping
+I got tired of having to remind myself how to setup handbrake for DVD ripping. Yes I am ripping my own DVDs for Kindle, iPad, iPod and Android Tablets. Here are the fast instructions for Windows 64-bit computers DVD ripping and the software is all free. Download the appropriate LIBDVDCSS decryption file for Windows 64-bit […]
+Rich ThompsonApril 30, 2012October 5, 2015Holonomic DriveLeave a comment
+Quad Holomonic Drive Robot
+Over at RJ McNamara’s Blog, he has put together a new Quad Holomonic Drive Robot based on the LEGO® NXT. The robot uses dual Rotacaster® Omni-wheels on each of the four axis’s and four LEGO® NXT Ultrasonic Sensors. Head on over to RJ McNamara’s Blog and check it out.
+Rich ThompsonJune 16, 2011VideoLeave a comment
+Dog Beats Girls at Soccer
+Lucy beats my two youngest daughters at Soccer. Lucy the Dog Beats My Youngest Daughters at Soccer from Rich Thompson on Vimeo.
+Rich ThompsonJune 16, 2011VideoLeave a comment
+Holy Rosary Soccer 2010
+Pictures and video from the Fall 2010 Soccer season. September 2010 Holy Rosary Soccer from Rich Thompson on Vimeo.
+Posts navigation
+Older posts
+My Tweets
+Search for:
+Recent Posts
+Collaborative Navigation Between Drone and Walker
+Neopixel Lamp
+An Arduino Compatible Hexapod
+MorphHex Robot
+Hot Springs and Creepy Carnival Rides
+Recent CommentsRich Thompson on Neopixel LampAvooq on Neopixel LampJohn Cranny on Solar Powered Lego Rollerjesus carpio on Lego Mindstorms NXT Holonomic Drive – Killough Platform – Rev 2Kyle on iCARS, A Star Trek LCARS Summerboard Theme For The iTouch and iPhoneArchives
+October 2015
+December 2014
+August 2014
+April 2014
+March 2014
+April 2013
+July 2012
+April 2012
+June 2011
+September 2008
+August 2008
+April 2008
+March 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+April 2006
+March 2006
+January 2006
+December 2005
+November 2005
+October 2005
+August 2005
+July 2005
+June 2005
+May 2005
+April 2005
+March 2005
+February 2005
+January 2005
+November 2004
+October 2004
+September 2004
+July 2004
+June 2004
+May 2004
+April 2004
+March 2004
+February 2004
+January 2004
+December 2003
+November 2003
+October 2003
+September 2003
+August 2003
+July 2003
+June 2003
+May 2003
+April 2003
+March 2003
+February 2003
+January 2003
+December 2002
+November 2002
+October 2002
+September 2002
+August 2002
+July 2002
+June 2002
+April 2002
+March 2002
+February 2002
+January 2002
+December 2001
+November 2001
+October 2001
+September 2001
+August 2001
+July 2001
+June 2001
+May 2001
+April 2001
+March 2001
+February 2001
+January 2001
+December 2000
+November 2000
+October 2000
+August 2000
+July 2000
+January 2000
+Categories
+Apple
+Editor News
+Gaming
+Holonomic Drive
+How To's
+Lego
+Memes
+Mistakes
+Photos
+Radar Bots
+Reviews
+Robot News
+Rollers
+Screenshots
+Site News
+Star Wars
+Stupid Quotes
+Synchro Drive
+Technology
+Trains
+Uncategorized
+Video
+Video Robots
+Walkers
+Wii
+Proudly powered by WordPress
+|
+Theme: Fara by JustFreeThemes.			 Back to top

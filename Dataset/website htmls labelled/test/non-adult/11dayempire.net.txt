@@ -1,0 +1,58 @@
+https://www.11dayempire.net
+CakePHP: the rapid development php framework:
+Home
+CakePHP: the rapid development php framework
+Release Notes for CakePHP 2.6.7.
+Read the changelog
+URL rewriting is not properly configured on your server.		1) Help me configure it
+2) I don't / can't use URL rewriting
+Your version of PHP is 5.2.8 or higher.
+Your tmp directory is writable.
+The FileEngine is being used for core caching. To change the config edit APP/Config/core.php
+Your database configuration file is present.
+CakePHP is NOT able to connect to the database.Database connection "Mysql" is missing, or could not be created.
+DebugKit is not installed. It will help you inspect and debug different aspects of your application.You can install it from GitHub
+Editing this Page
+To change the content of this page, edit: APP/View/Pages/home.ctp.
+To change its layout, edit: APP/View/Layouts/default.ctp.
+You can also add some CSS styles for your pages at: APP/webroot/css.
+Getting Started
+New CakePHP 2.0 Docs
+The 15 min Blog Tutorial
+Official Plugins
+DebugKit:
+provides a debugging toolbar and enhanced debugging tools for CakePHP applications.
+Localized:
+contains various localized validation classes and translations for specific countries
+More about CakePHP
+CakePHP is a rapid development framework for PHP which uses commonly known design patterns like Active Record, Association Data Mapping, Front Controller and MVC.
+Our primary goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility.
+CakePHP
+The Rapid Development Framework
+CakePHP Documentation
+Your Rapid Development Cookbook
+CakePHP API
+Quick API Reference
+The Bakery
+Everything CakePHP
+CakePHP Plugins
+A comprehensive list of all CakePHP plugins created by the community
+CakePHP Community Center
+Everything related to the CakePHP community in one place
+CakePHP Google Group
+Community mailing list
+irc.freenode.net #cakephp
+Live chat about CakePHP
+CakePHP Code
+Find the CakePHP code on GitHub and contribute to the framework
+CakePHP Issues
+CakePHP Issues
+CakePHP Roadmaps
+CakePHP Roadmaps
+Training
+Join a live session and get skilled with the framework
+CakeFest
+Don't miss our annual CakePHP conference
+Cake Software Foundation
+Promoting development related to CakePHP
+CakePHP 2.6.7

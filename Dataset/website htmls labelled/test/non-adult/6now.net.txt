@@ -1,0 +1,180 @@
+https://www.6now.net
+The Internet Society of Australia
+Skip to navigation (Press Enter)
+Skip to main content (Press Enter)
+Home
+About
+Membership
+Events
+Submissions
+SIGs
+Information
+Sponsorship
+Media
+Policy
+Contact
+MEMBERSHIP RENEWALJuly 2014 - June 2015NOW DUE!
+Please go to the membership page
+for information and our secure online form. 20%
+off for UPGRADED membership
+ISOC-AU is a non-profit society founded in
+1996 which promotes Australian Internet development - the Internet is
+for everyone!
+ISOC-AU is a chapter of the world-wide
+Internet Society and supports international web accessibility
+guidelines.
+Thank you, ISOC-AU Sponsors
+Networking Events: we believe the
+social side of networking is just as important as the technical side.
+Above: Board members with Vint Cerf, 21 January 2011 (click image to
+enlarge). From left: Andrew McRae, Cheryl Langdon-Orr, Paul Brooks, Vint
+Cerf, Narelle Clark, Tony Hill, Holly Raiche.
+Organisational Membership
+Sustaining Members:
+Welcome to our newest
+Enterprise Members:
+Sophos
+Welcome to our newest
+Foundation Members:
+Kymodo Blue
+Affordable Computer Repairs and Service
+Website Setup
+2014 AGM of ISOC-AU
+The AGM was held on 23 October 2014, at ACCAN's offices, 55 Mountain Street,
+Ultimo NSW. See the Notices and Reports. George Fong,
+Robert Gregory, Cheryl-Langdon-Orr and Craig Ng were elected to the Board.
+Contact Us
+Do you have a question about the Internet or ISOC-AU?
+Email
+assist(at)isoc-au.org.au [replace (at) with @].
+Address and Board contact details
+Oct 2014: Minutes from
+the Directors' Meeting
+ISOC-AU Privacy Policy
+From our 1996 Objectives
+The fundamental human desire for communication has been the engine
+driving social, cultural, scientific, and economic development throughout
+history. The new medium of the Internet has brought about widespread,
+creative communication between individuals and groups that previously had
+little chance of contact.
+The overriding objective of the Society is to give expression to the
+needs and wishes of individuals, groups, or organisations that have a
+common interest in the viability of the Internet in Australia, so that
+all Australian users of the Internet may continue to benefit from, and
+contribute to its applications, technologies, and evolution.
+Thank you to all ISOC-AU members for your ongoing years of
+commitment.
+22 Jan 2015: The
+Data Retention Bill: A threat to civil rights protections that just won't
+work!
+22 January 2015: The Internet Society of Australia has called on the
+Parliamentary Joint Committee on Intelligence and Security (PJCIS) to recommend
+a total rethink of the Telecommunications (Interception and Access) Amendment
+(Data Retention) Bill. Internet Society of Australia CEO, Laurie Patton, said
+his board and members are extremely concerned that the legislation, as
+currently drafted, simply won't achieve the Government's stated aims while
+constituting a serious threat to existing civil rights protections.
+More ...
+Submission to the Parliamentary Joint
+Committee on Intelligence and Security re the Telecommunications (Interception
+and Access) Amendment (Data Retention) Bill 2014.
+ISOC-AU Appoints CEO and Charts a New Course
+24 November 2014: Mr Laurie Patton has been appointed the new CEO of the
+Internet Society of Australia. The Society looks forward to expanding our work
+in helping shape our Internet future at both national and international levels.
+See the news
+release for more information.
+New ISOC-AU Executive
+The Internet Society of Australia is pleased to announce its
+executive for 2015:
+George Fong, President;
+Paul Brooks, Vice-President;
+Craig Ng, Honorary Treasurer; and
+Roger Clarke, Honorary Secretary. See the Media Release from new President, George Fong.
+Ten Questions about Metadata
+Retention
+The Australian Government has announced it will mandate the retention of
+communications metadata for two years.
+ISOC-AU believes the proposal requires
+a rigorous business case and/or regulatory impact assessment process which
+takes into account the costs and risks across industry and the economy as a
+whole.
+Based on the technical and policy experience of its members,
+ISOC-AU poses ten questions in relation to the proposal ...
+Recent Submissions
+22 Jan 2015: Submission to the
+Parliamentary Joint Committee on Intelligence and Security re the
+Telecommunications (Interception and Access) Amendment (Data Retention) Bill
+2014.
+31 Aug 2014: Letter to
+Senator Brandis re Metadata Retention Consultations.
+25 Aug 2014: To the
+Inquiry on s313 of the Telecommunications Act.
+23 Apr 2014: Senate Inquiry
+Into the Telecommunications Interception and Access Act.
+14 Mar 2014: NBN Regulatory
+Review.
+16 Sep 2013: Welcome to the
+Communications Portfolio - Letter to the Hon Malcolm Turnbull MP from
+ISOC-AU.
+19 Aug 2012: Submission
+to the request for comments on the Inquiry into potential reforms
+of National Security Legislation.
+All submissions in order of time or
+order of topic.
+Recent Media Releases
+22 Jan 2015:
+The Data Retention Bill: A threat to civil rights protections that just won't work!
+24 Nov 2014:
+Internet Society of Australia Appoints CEO and Charts New Course
+25 Oct 2014:
+Internet Society of Australia Announces New Executive
+06 Aug 2014:
+Ten questions about Metadata Retention
+ISOC-AU and the Transition to IPv6
+ISOC-AU co-hosted the Australian IPv6 Summits 2005-2012.
+IPv6
+Resource site: IPv6 is critical to the Internet's continued
+growth as a platform for innovation and development.
+World IPv6 Launch, 6 June 2012:
+Global ISPs, network vendors and web companies came together to
+permanently enable IPv6.
+World IPv6 Day, 08 May
+2011: ISOC-AU spearheaded Australia's contribution to the worldwide
+testing collaboration. Pictures here.
+IPv6 for e-Business, 2006-07:
+was a groundbreaking IPv6 study which mapped usage, developed business tools,
+raised awareness and assessed readiness for IPv6.
+Internet Society's 20th Anniversary
+One of the founding principles of the Internet's design is openness, and
+in 1992 a small group of Internet pioneers came together to make sure it
+stayed that way.
+This laid the foundation for the Internet Society - dedicated to helping
+keep the Internet open, accessible, and defined by you ...
+History and Resources
+Media Releases
+Information Resources
+ISOC-AU and Internet Histories
+Internet Regulation and Censorship
+Governance for the Domain Name System
+OnTheInternet - the online magazine from the Internet Society
+Conferences
+UPCOMING Internet
+Society international conferences
+Click here for all Australian IPv6
+Summits since 2005
+APIA & ISOC-AU Open
+Forum
+Internet Infrastructure:
+The material on this site has been produced by the Internet Society of
+Australia and its members. The material may be used free of charge by
+any other organisation in policy or procedural development related to
+the Internet, provided that the source is fully acknowledged and a copy
+of the quoted material is forwarded to the Internet Society of
+Australia.
+© Internet Society of Australia, ABN 36 076 406 801
+Updated 24 February 2015. Dual-stack IPv4/IPv6 website and mysql database
+are hosted by
+PPS Internet.
+Webmaster Lancewood.
+Layout based on YAML.

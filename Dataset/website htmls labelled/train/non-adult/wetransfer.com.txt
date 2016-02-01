@@ -1,0 +1,46 @@
+https://www.wetransfer.com
+WeTransfer
+You are using an outdated browser that WeTransfer no longer supports.
+Things may not work properly, or even at all.
+Please update your browser now. We recommend Google Chrome.
+Your browser needs Flash to send files.
+Download Flash.
+You can also use a modern browser, like IE 10, Chrome or Firefox.
+characters
+We will give you a download link once your transfer is complete.
+The file(s) will be kept for 7 days.
+After your transfer, your message and a link will be tweetedfrom your Twitter account
+After your transfer, your message and a link will be postedto your Facebook wall
+Email
+Connect
+t('upload.sharing.facebook')
+Link
+Transfer
+Terms and Conditions
+To continue, you must agree to the WeTransfer Terms of Service and Privacy Policy.
+Cookies
+WeTransfer uses cookies for functional and analytical purposes. Please read our Cookie Policy for more information.
+I agree
+Skip
+Transferring...
+Please wait
+Preparing to upload (this can take a few minutes)
+Cancel
+Cancel transfer?
+Transfer complete
+You did it! Expect a confirmation email in your inbox shortly.
+Copy link
+Okay
+Storage Limit
+You reached your 100 GB limit. Delete some old transfers to send new files
+Okay
+Clean up
+Menu
++
+Oops..
+&nbsp;
+&nbsp;
+Oh noes
+Something has gone wrong.
+Please try again
+Drop it like it's hot

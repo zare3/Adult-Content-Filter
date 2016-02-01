@@ -1,0 +1,618 @@
+https://www.boardgameman.com
+BoardGameGeek | Gaming Unplugged Since 2000
+Register
+Board Games
+Home
+Recent Additions
+Welcome
+Wiki
+Subdomains
+All
+Abstract Games
+Customizable Games
+Children's Games
+Family Games
+Party Games
+Strategy Games
+Thematic Games
+Wargames
+RPGs
+Video Games
+Events
+Login
+SEARCH
+Board Game
+Artists
+Designers
+Publishers
+Accessories
+Families
+Forums
+GeekLists
+Honors
+Tags
+Wiki
+Users
+Podcast
+Podcast Ep.
+Accessory
+Adv. Search
+Browse
+Database
+Games (81570) Families (2385) Categories (84) Mechanics (51) Artists (13206) Designers (22381) Publishers (15972) Accessories (934) Honors (2759) Random Game
+Gone Cardboard
+User Submitted Content
+Files
+Images
+Reviews
+Session Reports
+Videos
+Blogs
+Podcasts
+Podcasts
+Podcast Episodes
+Forums
+Forums
+Hot
+Recent
+Active
+Search
+Post Thread
+Moderators
+Bookmarks
+Subscriptions
+Rules
+GeekLists
+Hot
+Recent
+Active
+Favorites
+My GeekLists
+Create New GeekList
+Bazaar
+Geek Market
+Auctions
+Trades
+Geek Store
+eBay
+Hot
+Ending
+Recently Added
+Misc
+Guilds
+GeekMod
+GeekChat
+GeekQuestions
+Stats
+Find Users
+RSS
+Tag Cloud
+Avatars
+Bugs
+Microbadges
+Ad Manager
+GeekExchange
+GeekCurrent
+Add to Database
+Board Game
+Accessory
+Person
+Publisher
+Family
+Podcast
+Help
+FAQ
+Guide To BGG
+Glossary
+Admins
+« Prev
+Next »
+Bomarzo: Worship
+$8.00
+Heroes: Promo Cards
+$5.00
+Metal Cubes - 8 mm - Bag of 30
+$6.00
+City of Iron: Clockwork Fortress and Cave Market Promo
+$5.00
+Elysium: Family Cards
+$5.00
+Ascension: Location Pack
+$10.00
+Glass Road: Oktoberfest
+$3.00
+Ekö: 3 Small Expansions
+$5.00
+Imperial Settlers: Exploration Tiles
+$5.00
+Escape: Queenie 7 – New Characters
+$5.00
+Art of War
+$22.00
+BGG Micro #1: I Hate Zombies.
+$13.00
+Alhambra: Queenie 2 – Medina Buildings
+$5.00
+Casual Game Insider Issue #14 - Winter 2016
+$4.00
+Good Cop Bad Cop: Equipment Pack
+$5.00
+Guns & Steel: Second Edition
+$32.00
+Escape: Queenie 8 – The Maya Calendar
+$5.00
+Historia: Destiny Expansion
+$8.00
+Friedemann Friese's Folders
+$15.00
+Dominion: Summon Promo Card
+$3.00
+Black Hat: Celebrity Status Promo Deck
+$5.00
+Kingdom Builder: Queenie 3 - The Island
+$8.00
+504: Set-Up Poster
+$5.00
+Historia: Capitals Expansion
+$10.00
+Bomarzo: Seasons
+$8.00
+The Hotness
+Games|People|Company
+Tiny Epic Western
+Pandemic Legacy: Season 1
+Blood Rage
+T.I.M.E Stories
+Star Wars: Imperial Assault
+Vinhos Deluxe Edition
+Quadropolis
+Bear Valley
+The Ninth World: A Skillbuilding Game for Numenera
+The Pursuit of Happiness
+Warhammer Quest: The Adventure Card Game
+Through the Ages: A New Story of Civilization
+Star Wars: Rebellion
+The 7th Continent
+Codenames
+Food Chain Magnate
+Dead of Winter: A Crossroads Game
+Twilight Struggle
+Zombicide: Black Plague
+Star Wars: X-Wing Miniatures Game
+Terra Mystica
+XenoShyft: Onslaught
+Secret Hitler
+Robinson Crusoe: Adventures on the Cursed Island
+The Voyages of Marco Polo
+Kingdom Death: Monster
+7 Wonders: Duel
+Eldritch Horror
+Mage Knight Board Game
+Covert
+Mombasa
+The Lord of the Rings: The Card Game
+Legendary: A Marvel Deck Building Game
+Tiny Epic Galaxies
+Android: Netrunner
+Orléans
+Agricola
+Nemo's War (second edition)
+The Castles of Burgundy
+Eclipse
+Roll for the Galaxy
+Caverna: The Cave Farmers
+The Gallerist
+Cthulhu Wars
+Deception: Murder in Hong Kong
+7 Wonders
+Trickerion: Legends of Illusion
+Dead Man's Draw
+Through the Ages: A Story of Civilization
+T.I.M.E Stories: A Prophecy of Dragons
+Updating...
+{{data.config.moduletitle}}
+Relationship:
+[Edit Front Page]
+{{sort.name}}
+|
+[]
+[Forums »]
+[Post »]
+[Search »]
+{{forum.title}}
+|
+1
+«
+Pg. {{module.params.pageid}}
+»
+{{data.config.endpage}}
+No threads found
+{{thread.numrecommend}}
+{{thread.subject}}
+Last Post {{thread.lastpostdate|truncate:"10"}}
+Posted {{thread.postdate|truncate:"10"}}
+{{thread.user.username|truncate:"10"}}
+{{thread.numposts-1}}
+Updating...
+{{data.config.moduletitle}}
+Relationship:
+[Edit Front Page]
+{{sort.name}}
+|
+[]
+[Forums »]
+[Post »]
+[Search »]
+{{forum.title}}
+|
+1
+«
+Pg. {{module.params.pageid}}
+»
+{{data.config.endpage}}
+No threads found
+{{thread.numrecommend}}
+{{thread.subject}}
+Last Post {{thread.lastpostdate|truncate:"10"}}
+Posted {{thread.postdate|truncate:"10"}}
+{{thread.user.username|truncate:"10"}}
+{{thread.numposts-1}}
+Updating...
+{{data.config.moduletitle}}
+Relationship:
+[Edit Front Page]
+{{sort.name}}
+|
+[]
+[Forums »]
+[Post »]
+[Search »]
+{{forum.title}}
+|
+1
+«
+Pg. {{module.params.pageid}}
+»
+{{data.config.endpage}}
+No threads found
+{{thread.numrecommend}}
+{{thread.subject}}
+Last Post {{thread.lastpostdate|truncate:"10"}}
+Posted {{thread.postdate|truncate:"10"}}
+{{thread.user.username|truncate:"10"}}
+{{thread.numposts-1}}
+Updating...
+{{title}}
+{{st.name}}
+|
+[Browse »]
+{{st.name}}
+|
+1
+«
+Pg. {{module.params.pageid}}
+»
+{{data.config.endpage}}
+No items found
+{{item.numwish}}
+{{item.date}}
+Updating...
+[Browse »]
+[Browse »]
+[Add »]
+{{sort.name}}
+|
+1
+«
+Pg. {{module.params.pageid}}
+»
+{{data.config.endpage}}
+No items found
+{{item.title}}
+{{item.timeleft}}
+{{item.currentprice}}
+Updating...
+{{title}}
+{{fo.name}}
+|
+{{sort.name}}
+|
+[Browse]
+[Browse »]
+[Add Video »]
+Category:
+Language:
+1
+«
+Pg. {{module.params.pageid}}
+»
+{{data.config.endpage}}
+No videos found
+{{video.numrecommend}}
+{{video.title}}
+{{video.language}}
+{{video.username|truncate:"10"}}
+{{video.numcomments}}
+Updating...
+GeekLists
+{{sort.name}}
+|
+[Browse »]
+[Summary »]
+1
+«
+Pg. {{module.params.pageid}}
+»
+{{data.config.endpage}}
+No lists found
+{{list.numpositive}}
+{{list.title}}
+{{list.username|truncate:"10"}}
+{{list.numitems}}
+{{list.lastreplydate|truncate:"10"}}
+{{list.postdate|truncate:"10"}}
+Updating...
+{{data.config.moduletitle}}
+Relationship:
+[Edit Front Page]
+{{sort.name}}
+|
+[]
+[Forums »]
+[Post »]
+[Search »]
+{{forum.title}}
+|
+1
+«
+Pg. {{module.params.pageid}}
+»
+{{data.config.endpage}}
+No threads found
+{{thread.numrecommend}}
+{{thread.subject}}
+Last Post {{thread.lastpostdate|truncate:"10"}}
+Posted {{thread.postdate|truncate:"10"}}
+{{thread.user.username|truncate:"10"}}
+{{thread.numposts-1}}
+Updating...
+{{data.config.moduletitle}}
+Relationship:
+[Edit Front Page]
+{{sort.name}}
+|
+[]
+[Forums »]
+[Post »]
+[Search »]
+{{forum.title}}
+|
+1
+«
+Pg. {{module.params.pageid}}
+»
+{{data.config.endpage}}
+No threads found
+{{thread.numrecommend}}
+{{thread.subject}}
+Last Post {{thread.lastpostdate|truncate:"10"}}
+Posted {{thread.postdate|truncate:"10"}}
+{{thread.user.username|truncate:"10"}}
+{{thread.numposts-1}}
+Updating...
+{{title}}
+{{sort.name}}
+|
+1
+«
+Pg. {{module.params.pageid}}
+»
+{{data.config.endpage}}
+No posts found
+{{post.numpositive}}
+{{post.title}}
+by
+{{post.numcomments}}
+Updating...
+Marketplace
+{{sort.name}}
+|
+[Browse »]
+[Browse »]
+[Sell »]
+1
+«
+Pg. {{module.params.pageid}}
+»
+{{data.config.endpage}}
+No items found
+{{product.prettycondition}}
+{{product.title}}
+{{product.title}}
+{{product.numforsale}} for sale
+{{product.price}}
+{{product.prettycondition}}
+{{product.listdate|truncate:"10"}}
+Updating...
+{{title}}
+{{sort.name}}
+|
+1
+«
+Pg. {{module.params.pageid}}
+»
+{{data.config.endpage}}
+No posts found
+{{post.numpositive}}
+{{post.title}}
+by
+{{post.numcomments}}
+Updating...
+Images
+{{st.name}}
+|
+{{sort.name}}
+|
+[Browse »]
+[Browse »]
+[Upload »]
+Gallery:
+1
+«
+Pg. {{module.params.pageid}}
+»
+{{data.config.endpage}}
+No images found
+Updating...
+{{data.config.moduletitle}}
+Relationship:
+[Edit Front Page]
+{{sort.name}}
+|
+[]
+[Forums »]
+[Post »]
+[Search »]
+{{forum.title}}
+|
+1
+«
+Pg. {{module.params.pageid}}
+»
+{{data.config.endpage}}
+No threads found
+{{thread.numrecommend}}
+{{thread.subject}}
+Last Post {{thread.lastpostdate|truncate:"10"}}
+Posted {{thread.postdate|truncate:"10"}}
+{{thread.user.username|truncate:"10"}}
+{{thread.numposts-1}}
+Updating...
+{{data.config.moduletitle}}
+Relationship:
+[Edit Front Page]
+{{sort.name}}
+|
+[]
+[Forums »]
+[Post »]
+[Search »]
+{{forum.title}}
+|
+1
+«
+Pg. {{module.params.pageid}}
+»
+{{data.config.endpage}}
+No threads found
+{{thread.numrecommend}}
+{{thread.subject}}
+Last Post {{thread.lastpostdate|truncate:"10"}}
+Posted {{thread.postdate|truncate:"10"}}
+{{thread.user.username|truncate:"10"}}
+{{thread.numposts-1}}
+Updating...
+{{data.config.moduletitle}}
+Relationship:
+[Edit Front Page]
+{{sort.name}}
+|
+[]
+[Forums »]
+[Post »]
+[Search »]
+{{forum.title}}
+|
+1
+«
+Pg. {{module.params.pageid}}
+»
+{{data.config.endpage}}
+No threads found
+{{thread.numrecommend}}
+{{thread.subject}}
+Last Post {{thread.lastpostdate|truncate:"10"}}
+Posted {{thread.postdate|truncate:"10"}}
+{{thread.user.username|truncate:"10"}}
+{{thread.numposts-1}}
+Updating...
+{{data.config.moduletitle}}
+Relationship:
+[Edit Front Page]
+{{sort.name}}
+|
+[]
+[Forums »]
+[Post »]
+[Search »]
+{{forum.title}}
+|
+1
+«
+Pg. {{module.params.pageid}}
+»
+{{data.config.endpage}}
+No threads found
+{{thread.numrecommend}}
+{{thread.subject}}
+Last Post {{thread.lastpostdate|truncate:"10"}}
+Posted {{thread.postdate|truncate:"10"}}
+{{thread.user.username|truncate:"10"}}
+{{thread.numposts-1}}
+Updating...
+{{data.config.moduletitle}}
+Relationship:
+[Edit Front Page]
+{{sort.name}}
+|
+[]
+[Forums »]
+[Post »]
+[Search »]
+{{forum.title}}
+|
+1
+«
+Pg. {{module.params.pageid}}
+»
+{{data.config.endpage}}
+No threads found
+{{thread.numrecommend}}
+{{thread.subject}}
+Last Post {{thread.lastpostdate|truncate:"10"}}
+Posted {{thread.postdate|truncate:"10"}}
+{{thread.user.username|truncate:"10"}}
+{{thread.numposts-1}}
+Updating...
+{{data.config.moduletitle}}
+Relationship:
+[Edit Front Page]
+{{sort.name}}
+|
+[]
+[Forums »]
+[Post »]
+[Search »]
+{{forum.title}}
+|
+1
+«
+Pg. {{module.params.pageid}}
+»
+{{data.config.endpage}}
+No threads found
+{{thread.numrecommend}}
+{{thread.subject}}
+Last Post {{thread.lastpostdate|truncate:"10"}}
+Posted {{thread.postdate|truncate:"10"}}
+{{thread.user.username|truncate:"10"}}
+{{thread.numposts-1}}
+Front Page
+| Welcome
+| Contact
+| Privacy Policy
+| Terms of Service
+| Advertise
+| Support BGG
+| Feeds
+Geekdo, BoardGameGeek, the Geekdo logo, and the BoardGameGeek logo are trademarks of BoardGameGeek, LLC.

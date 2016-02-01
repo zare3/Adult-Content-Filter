@@ -1,0 +1,134 @@
+https://www.michaelhuynh.com
+ThinkingMBA.com
+ThinkingMBA.com We read business news, so you don't have to
+Subscribe via RSS
+Home
+Contact Us
+About
+20Feb/140
+Google’s Project Tango is a Product in Search of a Problem
+Google's Project Tango is a 3D-sensing mobile phone.  Like most companies, Google is investing into technology in search of a problem.
+Like this? Share it:
+Filed under: Uncategorized
+20Feb/140
+From Food Stamps to Billionaire
+The land of opportunity can helped WhatsApp co-founder, Jan Koum, move from Food Stamp Recipient to Billionaire.
+"...a 16-year-old immigrant living on food stamps, he had the extra incentive of wanting to stay in touch with his family..."
+Forbes estimates that Koum owns 45% of WhatsApp, so that would make Koum worth $6.8 billion.
+Like this? Share it:
+Filed under: Uncategorized
+13Feb/140
+Consulting Jargon: Socialize
+Socialize: to share within an organization
+"You should socialize this plan with the marketing team"
+Like this? Share it:
+Tagged as: consulting, management, MBA
+7Jan/120
+Will Vizio PCs Fail?
+Vizio recently announced three new products 2 all-in-one Desktop PCs and 3 ultrabooks. During Vizio founder and CEO William Wang's visit to the USC campus in 2010, I asked him about Vizio's core competency and he said, "Marketing." Vizio has the marketing muscle to sell a commodity product, but they do not have:
+Experience with PC customer support
+Large Engineering Team
+Scale
+PCs are made up of hardware and software.  On the hardware side, PCs have many more parts than TVs, so the risk of hardware failures are much higher on PCs than TVs.  On the software side, Vizio does not have any experience supporting issues with Windows.  Although TVs these days are more sophisticated than my first 486 PC, PCs are way more sophisticated than the single purpose, closed box TV.  Vizio will have to help their customers connect to Wifi, wireless mouse, wireless keyboards, printers, log on to the Internet, etc.  I hope Vizio has not underestimated the need for a much larger and sophisticated customer support staff.
+Moores Law says that computing power will double every 18 months.  This means that the PC industry moves very quickly. Vizio will need to include the latest bells and whistles of the next great thing on the PC.  I hope Vizio has the engineering staff to innovate as quickly as the PC industry innovates.
+PCs are just like Flat-Screen TVs, a commodity product.  When Vizio entered the Flat-Screen TV market, the industry was still in its infancy.  There were the big brands such as Sony and Samsung, but their volumes were still very low compared to traditional CRT TVs.  Vizio came into the the market space at that time and grew with the industry.  The PCs market is a very mature industry with established players.  These players have scale that allows them to negotiate for lower costs for their parts.  Vizio does not have the scale, so their products will never be able to compete with HP or Dell on price.
+Without a plan to address the above issues, Vizio's PCs will fail in the marketplace, just like their tablets.
+Like this? Share it:
+Tagged as: Strategy
+19Jun/11Off
+Create a Password you can Remember
+Hackers stole 100 million Sony Playstation Network accounts in April.  Hackers stole 200,000 Citibank accounts early this month. And now, there is news that hackers stole 1.3 million Sega Pass accounts from Sega.
+Do you use the same password for all your different accounts on the internet?  It is time to be more careful and use different passwords for the different accounts you have on the internet.
+It is simple if you use an algorithm that is made up of two parts, the website and a non-changing pass phrase. Here are a few sample algorithms:
+Take the name of the website and then add the last four digits of a friend's home phone number to the end.  (don't use your own phone number)
+Take the first or last 4-6 characters of the website's name and add your license plate number.  You can now reuse your license plate number as the root, because the website portion of the password would change.
+Once you change to this approach, you will be better protected with a unique password for every one of your website accounts.  A hacker's access to your account at website "A" will not give them access to your account at website "B."
+Like this? Share it:
+Filed under: Uncategorized
+14Jun/11Off
+The 90-9-1 Rule: Understand How Many Users Contribute
+The 90-9-1 Rule States:
+In most online communities, 90% of users never contribute, 9% of users contribute a little, and 1% of users account for almost all the action.
+Overcome participation inequality by:
+Making it easy to contribute
+Making participation a side effect of the primary action (i.e. Amazon's "People who bought this book, bought these other books")
+Allowing for templates
+Rewarding participants
+Promoting quality contributors
+Does this rule hold up on Facebook?  Does only 1% of my friends comment and only 9% of my friends "Like" my status updates?  What is the percentage who doesn't care about my status updates?
+Like this? Share it:
+Filed under: Uncategorized
+9Jun/110
+Three Critical Elements of Start-Up Success: People, Customers and Sales
+William Sahlman, professor at Harvard Business School, says that people, customers, and sales are the critical ingredients to the success of a start up.
+I whole heartily agree with Dr. Sahlman.
+In any competitive landscape, the start-up team is an early differentiator that can really determine whether the company will succeed or fail.
+An early customer or partner can really increase the chances for success.
+No one really knows if a business concept is good until it gets tested in the marketplace and that first and early customer will provide invaluable feedback to make the concept better.
+And lastly, sales is the proof in the pudding.
+A user, customer, or partner cannot help a company survive in the long term unless they show are willing to pay for the service or product.
+Like this? Share it:
+Tagged as: Start-Up
+7Jun/110
+Five Startup Lessons from Box.net Founder
+Having started Box.net in his college dorm room, CEO Aaron Levie has learned some valuable lessons. In this clip, Levie elaborates on five lessons:
+Do something that was not possible three years ago
+Do something you are extremely passionate about
+Don't compromise
+If you feel comfortable, you're probably not doing it right
+Don't write your obituary too early.
+Like this? Share it:
+Tagged as: Start-Up
+2Jun/110
+Groupon Files for IPO
+Groupon filed their Form S-1 with the SEC today.  They hope to raise up to $750 million in this IPO.  Shares will trade under the symbol "GRPN".  According to the S-1:
+2010 Revenues were $713 million
+2010 Losses were $456 million
+Quarter 1 2011 Revenues were $644 million
+Quarter 1 2011 Loss were $146  million in 2010
+Over 70 million Groupons sold as of today (30 million sold in 2010 / 28 million sold in quarter 1 of 2011)
+83.1 million subscribers
+15.8 million subscribers purchased a Groupon
+Like this? Share it:
+Tagged as: IPO, Social, Start-Up
+1Jun/110
+Happy Hour Evolves with Groupon Now
+Groupon Now deals will help businesses just like how Happy Hour specials help restaurants and bars attact customers during the dead hours of 3 PM - 6 PM of the weekday.  Groupon will offer deals to users based on the time of day and location via a mobile device (iPhone or Android Phone).  Redemption of the deals are only valid during specific time and days, so local business can now offer deals to customers exactly when they need them to streamline their utilization capacity.
+Like this? Share it:
+Tagged as: Social, Start-Up
+Older Entries »
+Popular Tagsadvertisting
+Apple
+consulting
+Facebook
+IPO
+management
+marketing
+MBA
+motivation
+Privacy
+Recruiting
+Research
+Social
+Start-Up
+Strategy
+Survey
+working
+Good Reads
+Council on Foreign Relations
+Harvard Business Review Blogs
+Mckinsey Quarterly
+MIT Sloan Review
+Mixergy
+nPost
+O'Reilly Radar
+Pew Research
+Read Write Web
+Strategy+Business
+Reading List
+On Becoming a Leaderby Warren Bennis
+Delivering Happiness: A Path to Profits, Passion, and Purposeby Tony Hsieh
+The Dynamics of Taking Chargeby John J. Gabarro
+The Fred Factor: How Passion in Your Work and Life Can Turn the Ordinary into the Extraordinaryby Mark Sanborn
+Copyright © 2016 ThinkingMBA.com · Powered by WordPress Lightword Theme by Andrei Luca
+Go to top ↑

@@ -1,0 +1,431 @@
+https://www.zoommovie.com
+ZLURP! - The Definitive CD-Ripper/Encoder/Tagger
+Home
+Donate
+Contacts
+Newsletter
+Info
+Screen
+Shots
+Hardware
+Downloads
+FAQ
+Mailing
+List
+Links
+E-mail
+This
+box
+for
+RENT
+Donations
+Monk E. Boy
+Hondaboy
+Dustin CDW Arft
+Robert E. Kulp
+Nick Abston
+Lyn Raulinaitis
+Denise Kato
+Chris Dennett
+Sadie Reay
+Spyke Alexander
+Randy Burgess
+Nathan Bashore
+Curt Siffert
+Welcome to our web site!
+Here you can find the latest
+versions of ZLURP! and our favorite audio encoders.
+What's New
+Updated Version
+Happy For Now
+R
+E L E A S E D
+MAY.22.2005
+New Version 1.9.4
+Made EXTended info happy again for now.
+Wanted to get a bit more done this weekend, but I got the flu and lost all
+my motivation!
+Did make a list of things I'd like to tackle in the next few months.
+Want to get a few things back up to date - newest LAME, newest ID3V2 tagging,
+newest freeDB protocol.
+And have a couple of features I want to add, like a Quick Rip setting (a great suggestion by loyal Zlurper "fast slow").
+So here's to
+the Zlurp Summer of 2005, and no more flu!
+New Information
+Once Again, Pesky EXT Info
+R
+E L E A S E D
+MAY.18.2005
+Working On It
+CDUniverse has changed their way of doing things, so I'm in the process of tweaking.
+You may want to temporarily turn off getting
+EXTended info for the moment.
+ETF (est time to finish!) the newest fixes is Monday.
+Hopefully I can get a couple of other odds and ends in by then too...
+Updated Version
+Pesky EXT Info
+R
+E L E A S E D
+AUGUST.15.2004
+New Version 1.9.3
+Silly CDUniverse decided to change their site format just enough to make EXTended info unhappy. Zlurp! should once again be back in action getting your EXTended info.
+Also took a look at the WAV to MP3 functionality. There were some problems that I ironed out.
+If you still have trouble with it, drop me a note.
+Thank you one and all for helping me find any problems with Zlurp! Couldn't do it without you!
+:-)
+Updated Version
+Fixing the Fix!
+R
+E L E A S E D
+FEBRUARY.8.2004
+New Version 1.9.2
+Well, fixed one problem and broke something else! There was a problem if you had too much free space on your hard drive. The place I stored the calculation overflowed and Zlurp! thought you only had a tiny amount of free space.
+Fixed that, but I broke when you only had a little bit of free space. D'oh! So here's a shiny new version that should be happy to let you rip if you have enough room to store the result!
+As always, if you have any problems, please tell me so I can FIX IT! :-)
+New Version
+Super Double Happy Groundhog Day!
+R
+E L E A S E D
+FEBRUARY.2.2004
+New Version 1.9.1 With Win XP/2000 Support is Here!
+Good things come to patient Zlurpers! Finally have a reasonably ready version for you all to try.
+I still consider this a beta version. It needs a lot more testing, which is where YOU come in! ;-)
+If you have any problems with the install or running of this version, please give me a holler! I'd really appreciate it, and everyone will benefit from
+squashed bugs!
+New Stuff:
+EXTended info is back and better than ever! If getting info an any disc gives you any problems, please tell me the artist and title of the disc so I can see what the heck went wrong.
+Track Organization has been enhanced. You can save the title names in all upper or lower case. You can organize the output by genre, artist AND album.
+OS Auto Detect so Zlurp will run on both Win 98 and XP/2000.
+Tidbits I Know About:
+- If you are having trouble with your install or Zlurp! can't find your CD-rom, some people have had success by starting their computer in safe mode, installing Zlurp! and then running it the first time to let it initialize. As far as I can
+tell, there may be some CD burning software that is running in the background that prevents Zlurp! from getting info about your drives. When you start in safe mode, that software will not be running.
+- Many many discs are now enhanced CDs. They have video or web content or other fun stuff on them. Traditionally, the last track before this data had been very difficult to rip. Zlurp! has always handled this well. It does seem on XP/2000 that you may have to
+do more tweaking by hand to get this right. If you get a "Problem With Track" message on the last track before data, here's what you do...
+Go to Settings, Input/Output
+You will be changing the value in the Multimedia Offset field. Try bumping it up by 2. The higher this number, the shorter you are making the last track. The track is failing in the first place because it was calculated to be too long, and is running into the data!
+Hit OK
+Then you must Get Info AGAIN! This is a very important step - this is where Zlurp! will recalculate the track length.
+Select the track and rip it!
+If you still get the problem message, go back and bump up the number again. If you bump it up too high, you will cut off some of the song, so listen to that last track and see if it gets chopped off. If that happens, adjust the value 1 or 2 lower!
+It usually takes me 2 times at the most to get my last track taken care of if I had a problem!
+Still To Do:
+Major, huge work on the Help!!!!
+Fix any install bugs you-all find. :-)
+Then, I will tackle the other 2 platforms - Mac and Linux! I can't wait!
+New Information
+Happy Groundhog Day!
+R
+E L E A S E D
+FEBRUARY.2.2003
+Mailing List is Back
+After a slight struggle with file permissions, a new Zlurp! Keep-Me-Informed mailing list has been started.
+If you want to be notified the instant a new version is out, click on over to the Mailing List and make your presence known!
+New Information
+Version1.2.9d
+R
+E L E A S E D
+JANUARY.29.2003
+New verison
+of ZLURP!
+Hello my patient Zlurpers!
+First I want to thank you all for your prayers and kind words of support. It's nice to know there are so many amazing people out there in this world.
+Thank you from the bottom of my heart!
+Good news - I've taken out the expiration date.
+Now you will
+always have a fully working cow.
+To automatically check for a
+new version when you fire Zlurp up, go to the General Settings
+and check the "Check For Update".
+There have been a few large changes in the outside world
+since I've done major work on Zlurp!
+CDDB has gone away.
+Bye
+bye!
+I had some fundamental differences with the CDDB² people's
+philosophy, so Zlurp will be using the freeDB database exclusively.
+I have some more testing to do on that code, so please let me know
+if there are any problems finding your CD's track names.
+The other main issue is that CDNow was bought by Amazon.com.
+Zlurp would get EXTended info from them.
+I've switched to using
+CDUniverse, but the interface isn't quite finished.
+Rats!
+But
+I figured all you loyal Zlurp fans would want a working Zlurp as
+soon as possible.
+So, EXTended info is temporarily disabled.
+THESE ARE NOT READY YET BUT ARE IN THE PIPELINE!!!
+The next goals are:
+Version 1.3 will have EXTended info back.
+Version 2.0 will have Win2000/WinXP support!
+Yay!
+Finally, I had to redo the installer from scratch because that
+was one of Chuck's tasks.
+Please let me know if there are any install
+problems!
+New Information
+Loss of Chuck Zenkus
+R
+E L E A S E D
+DECEMBER.28.2002
+Difficult news to report
+On September.4.2002 Chuck and I (Ilana) were in a car accident. A car swerved into our lane and hit us head on at a high rate of speed. Chuck did not survive the accident. I am still learning how to walk again. All of Chuck's friends and family deeply miss him. If you would like to learn more about the kind of person Chuck was, please visit his memorial page at www.hatman.com
+I will try to continue with Zlurp. I am planning to add the much requested Win2000 and WinXP support. It is hard work for me now, so please bear with me - I will do the best that I can.
+New Information
+Version1.2.9c
+R
+E L E A S E D
+JANUARY.20.2002
+New verison
+of ZLURP!
+What's New?
+* Installer bugs are now a
+thing of the past.
+* Updated the encoders
+LAME  v3.91
+GOGO  v3.08
+New Information
+R
+E L E A S E D
+OCTOBER.12.2001
+New Winamp
+Plug-in.
+Plugin Cover & TAG
+J.
+Richter
+http://richtjo.virtualave.net/
+This is a must have if you
+use ZLURP! with ID3v2 tagging.
+With this plugin installed
+Winamp will now display any of your mp3's that you encoded with artwork.
+If you have used ZLURP! with
+ID3v2 turned on you will now have the album art displayed while playingf.
+Click here
+to download plugin.
+World News
+R
+E L E A S E D
+SEPTEMBER.11.2001
+As we mourn those who have
+perished and thank
+the heroes who have given
+so much, we admire
+the strength of all Americans
+and appreciate the
+compassion of our friends
+around the world.
+New Information
+R
+E L E A S E D
+JANUARY.01.2001
+New version
+of ZLURP! is here.
+I think I have found and fixed
+the installer problems.
+Ilana also compiled a new
+BETA
+version of L.A.M.E.
+LAME 3.83
+New Information
+R
+E L E A S E D
+DECEMBER.26.2000
+New version
+of ZLURP! will be out New Years Day.
+New Information
+R
+E L E A S E D
+DECEMBER.25.2000
+SETI@home is a scientific experiment
+that uses Internet-connected computers in the Search for Extraterrestrial
+Intelligence (SETI). You can participate by running a free program that
+downloads and analyzes radio telescope data.
+We have set up a TEAM ZLURP!
+- Click on the image above.
+New Information
+R
+E L E A S E D
+OCTOBER.25.2000
+A new version of Winamp 2.666
+now supports ID3v2.
+Download
+it today!
+New Features
+Version1.2.9
+R
+E L E A S E D
+OCTOBER.18.2000
+A new version of ZLURP! has be
+released today (Version 1.2.9).
+Windows
+2000 is still not supported. Not until version 1.3
+New Features
+Version1.2.9
+R
+E L E A S E D
+OCTOBER.16.2000
+SORRY
+!!
+A new version of ZLURP! will
+be released today (Version 1.2.9).
+We have just been so busy
+with our fulltime jobs as a game delevoper (www.itsgames.com),
+we really have not had too much time to work on ZLURP!
+Do
+check back much later today for the newest version.
+Windows
+2000 is still not supported. Not until version 1.3
+New Information
+R
+E L E A S E D
+AUGUST.20.2000
+Some issues have come up about ID3v2
+tagging. Seems the two biggest MP3 exchange clients are not supporting
+ID3v2. Napster and Scour
+look at the tag in MP3's to help their search engines give you faster and
+more accurate hits.
+The ID3v2 tag comes before the MP3
+info, so when Napster or Scour expects to see MP3 info, they see the tag
+info instead. So, the problem is they don't think ID3v2 tagged MP3's are
+MP3's!
+They only support ID3v1.
+ZLURP! by default is set to tag your
+MP3 files with this extended tag info. Please take some time to learn about
+ID3v2 at www.id3.org web site. ZLURP!
+does what no other tagger can claim. Once the disc info is found from CDDB,
+ZLURP! will go out and grab the album cover art to use in the ID3v2 tag.
+Sort of a one stop shop ripper!
+If you would like to create MP3's
+that work with these MP3 exchange clients you need to "UNCHECK" ID3v2 on
+the main page.
+But please respond to both NAPSTER
+and SCOUR and tell them you would like to see ID3v2 support.
+It's as easy as 1..2..3!
+1) Click
+to e-mail them!
+2) Send
+3) Repeat!
+New Features
+Version1.2.7
+R
+E L E A S E D
+JULY.31.2000
+A new version of ZLURP! has been
+released today.
+Lots
+of fixes and treats!
+Your input has been invaluable
+in hunting down Zlurp! problems.
+We would like to say THANK
+YOU THANK YOU to all who have taken the time and trouble to tell us about
+any Zlurp! snarls!!!
+Display Art bug has been attacked
+and hopefully annihilated. When internet access is disabled, you will be
+able to rip all the odd tracks now, instead of just 4.
+Biggest new feature - WAV tagging.
+Allows you to tag a WAV file as it's created.  Then you can convert
+a batch of WAVs to MP3, and the tag info will be there!  This version
+just tags ID3v1. Will try to get ID3v2 in next time.
+Batch WAV to encode is in.
+Thanks to Jim Atkinson of 3WK
+Underground Radio for all his wonderful suggestions and bug testing!
+New Information
+R
+E L E A S E D
+JULY.06.2000
+Ogg
+Vorbis is
+a new MP3 type of encoder. It's a completely open, patent-free, professional
+audio encoding and streaming technology with all the benefits of Open Source.
+Do check this encoder out!
+You are going to need a PLUG-IN to play back your newly encoded .OGG files.
+Those can be found here.
+New Information
+R
+E L E A S E D
+JUNE.23.2000
+Spyke Alexander was kind
+enough to donate $20.00.
+ZLURP! is free, But if you
+like it, let us know. Send us an e-mail, send CASH, buy us a DVD.
+New Information
+R
+E L E A S E D
+JUNE.22.2000
+GOGO has caused so very bad crashes.
+Please select LAME as your encoder. New version is to be released soon!
+Version
+1.2.6 - This will have a new feature with WAV TAGING.
+Thanks to Jim Atkinson of
+www.3wk.com
+for make the suggestion.
+If you use Sound Forge and
+have made wav files and used their tagging method, ZLURP will now support
+ID3 tagging from a WAV.
+New Information
+R
+E L E A S E D
+MAY.04.2000
+This is by far the best ID3v2
+tagger around. It's not supporting PNG yet.
+Some of the most important
+ID3v2 tags are supported. Do check it out!
+You can download it by clicking
+on the link below.
+New Features
+V
+E R S I O N
+1.2.1
+CDDB² Beta
+R
+E L E A S E D
+MAY.03.2000
+Beta version to test some new
+CDDB² functionality.
+Want to help us beta test
+CDDB²?
+Click to sign up
+New Features
+V
+E R S I O N
+1.2.1
+R
+E L E A S E D
+MAY.03.2000
+We have released a new version
+with the latest fixes for ID3v2. We're very happy with ZLURP!s progress.
+ZLURP! is very close to final release.
+Why not help us celebrate
+by taking home your very own Yellow COW?
+New Features
+V
+E R S I O N
+1.2
+R
+E L E A S E D
+MAY.01.2000
+We have added yet another CD database.www.freedb.org
+is running a CDDB server too! To try them out, select "Free DB Org" as
+the source to "Get Track Info From" on the General Settings page.
+Their database will remain
+always free, because the initial software license was GPL.
+(see: www.gnu.org
+for more information on GPL).
+Take the COW home today!
+Download
+NOW!
+Windows
+is the only version available.
+Click to see larger image
+We
+are taking donations to keep ZLURP! FREE - That's right FREE!
+When you sign up with
+PAY-PAL you will receive $5.00 and we will too.
+I'm sorry to report that Yellow Cow is now unavailable! :-(
+I will be looking for a suitable cow replacement!
+For a $20.00 donation via
+PAY-PAL, we will ship you
+one of these cute little PLUSH COW TOYS. Imagine, you can be the first
+ZLURP!er on the block to own a Yellow COW!
+Site Contents Copyright ©
+1999-2005 Ilana Rudnik/Chuck Zenkus (Hatman, Inc.). All rights reserved.

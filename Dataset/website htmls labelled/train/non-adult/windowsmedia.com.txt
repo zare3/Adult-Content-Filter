@@ -1,0 +1,38 @@
+https://www.windowsmedia.com
+MP3 to MIDI and WAVE to MIDI Converter: WIDISOFT Home.
+other languages
+contact us: info@widisoft.com
+About...
+Events
+08.12.2015
+WIDI 4.4 for Windows & Mac
+WIDI Recognition System 4.4 is released.
+more...
+06.06.2013
+WIDI 4.3 for Windows & Mac OS X
+WIDI Recognition System 4.3 is released.
+more...
+07.05.2007
+MIDI back to MP3
+Direct MIDI to MP3 Converter may be a worthy addition
+to the WIDISOFT products.
+more...
+news archive...
+WIDISOFT company develops software for sound and music processing.
+site map | links |
+Our mainstream product is WIDI Recognition System, designed for automated music recognition/transcription.
+WIDI turns a musical recording into its musical notation.
+Read more about
+MP3 to MIDI Conversion
+privacy policy
+WAVE, MP3 and MIDI in brief
+Wave, mp3 and midi are the most popular file formats for storing music. That is why the question "How to convert one format to another?" is very popular. Here we explain in brief the difference between Wave, MP3 and MIDI.
+The most simple is Wave. It is a record of sound pressure on microphone on time. Any sound can be recorded as wave file, but wave does not allow to edit components of sound and occupies a lot of space. MP3 is a compressed wave. It takes several times less space, but does not allow to separate and edit components as well.
+In opposite, MIDI can store only musical sounds. MIDI is a command system, containing information about a note, about the instrument and its change, the length of pressing and so on. This kind of a record can easily be edited and takes less storage space than wave. More information about MIDI can be found on What is MIDI page.
+The task of converting MP3 to Wave and WAVE to MP3 is easy, there are many software products capable of doing
+this. MIDI to MP3 conversion is more difficult, it is called MIDI rendering.
+The most difficult is the task of musical WAVE or MP3 to MIDI conversion, also known as music recognition. It is somewhat similar to speech or handwritten text recognition, and involves complex AI algorithms. MP3 to MIDI description page contains more information on this topic.
+Our WIDI Recognition System is intended to perform MP3 or Wave to MIDI conversion, you can find more information on the products page.
+WIDI functions: Audio to MIDI |	MP3 to MIDI | WAV to MIDI | CD to MIDI | MP2 to MIDI | MP1 to MIDI | MPP to MIDI | MPA to MIDI | AIF to MIDI | WIDI Audio To MIDI VST | WAVE to MIDI | Audio to MID | MP3 to MID | WAV to MID | CD to MID | MP2 to MID | MP1 to MID | MPP to MID | MPA to MID | AIF to MID | SND to MID | AU to MID | WAVE to MID | Realtime recognition |
+Pitch to MIDI | Voice to MIDI | Music transcription.
+[AD]

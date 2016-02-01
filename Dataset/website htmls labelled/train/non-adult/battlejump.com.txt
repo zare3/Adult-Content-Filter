@@ -1,0 +1,92 @@
+https://www.battlejump.com
+Battle Jump :: The 3D Platform game
+Not Connected
+NEWS
+PRESENTATION
+DOWNLOAD
+FORUM
+:: Sign in
+Name :
+Password :
+Forgot your password ?
+:: 	Register
+Create an account for free to share your levels.
+:: Navigate
+Members
+Scores
+Unofficial levels
+Official levels
+About us ?
+:: The Game
+Presentation
+Screenshots
+Download
+Forum
+:: Search
+:: Stats
+Members : 219
+Levels : 323
+Connected : 21
+:: Links
+Progmatique
+Codeswall
+JeuxAmateurs
+Home
+Welcome to Battle Jump's home page. You'll find here Battle Jump's latest releases, and more.
+Battle Jump is a free 3D Platform game using OpenGL in order to be available on Windows, Mac OS and Linux.
+We hope that you will enjoy it.
+Do not hesitate to share with us your comments, and join our facebook page.
+Jérôme BaudouxBattle Jump - v 0.12After a few months without news, I'm proud to present you Battle Jump 0.12.0. This version is important because it will be available for Windows, Linux, and very soon for MacOS X!
+This new version contains:A new graphical theme for the menusNew options in the menus (invert selection, next level...)An optimization in the gamepad controlsYour best time is now saved locally in "Single Map"A ghost of your best play is saved in "Single Map"!You can also see the apparition of "+1" buttons in the main page and in every level, feel free to use them and to join Battle Jump's facebook group if you like the game!
+Have fun, and as usual feel free to contact me if you see a bug, or if you have questions.09/07/2011 - 2 CommentsBattle Jump - v 0.11Hi everyone.
+I know Christmas isn't in November; still I have a present for you. That's right, there is a new release of Battle Jump labeled 0.11.0.
+This version brings new features, like the possibility to play with gamepads! Also the collisions between the Jumper and the blocks have been changed in order to simplify the game.
+Another cool feature is the fact that for now on, each user of your computer will have his own configuration files and his own levels.
+Finally thanks to Sebastian 'DaBASCHT' Riedel the game is now translated into German.
+Have a fun game!13/11/2010 - 0 CommentBattle Jump - v 0.10.3After a month of testing Battle Jump v 0.10.x on Windows many little problem were solved.
+As a result, the latest version of Battle Jump (0.10.3) is now available on Windows and Linux.
+Don’t hesitate to contact me if you see any problem with the game.
+Enjoy.20/07/2010 - 0 CommentBattle Jump - v 0.10What is better than a new version of Battle Jump to celebrate the summer?
+This new version (0.10.0) brings tons of new features like new blocs, new levels, and new difficulties. Bloc that makes all the other blocs invisible during a few seconds.A bloc that translate with various speed.
+This is the most significant feature of this version in term of game play.I let you discover the effect of this one.Another great feature is the translation of Battle Jump in several languages like Portuguese and Greek! (You can even make your own translation)
+Don't wait and download Battle Jump 0.10.0 for your PC. (Linux and Mac OS version will follow)
+21/06/2010 - 0 CommentHappy new yearLike everyone, I wish you an happy new year 2010.
+I would like to thank all those who have already tried the game, and I hope that you enjoyed it.
+Battle Jump will continue to evolve. New blocks and levels are planned for future releases, so keep an eye open.
+Thank you.
+01/01/2010 - 0 CommentBattle Jump - v 0.9Hi. It's been a long time since the last version and there is a lot to tell about the new features.
+First of all this new version is available on Mac OS X! There is however a little restriction because you'll need to have at least Leopard to run it.
+But this is not the only new feature, indeed this is the list of additions:Bugs correction3D optimizationThe Battle Jump cover is now available in the Docs Folder.Many images are now in PNG format.You can now see the preview of all levels directly into the game.The two-player game has been modified in order to run several levels without returning to the menu.A counter of victories has been added in the two-player mode.You can download this new version right now.
+20/12/2009 - 0 CommentOne hundred levels!Thanks to the community, Battle Jump has more than 100 levels. 75% of those levels were created by members, so I really should be grateful to them.
+For this event, I will list every person who made a level for Battle Jump (persons are listed by the number of levels they made)
+matmeo123654Thomashjkl2117LenDark patateflo0627gregouarLithreinTaurlockSaurenAmplaydeniishumatheodSacamatitragon94Zér0p0intéThanks to them !05/12/2009 - 2 CommentsWebsite new featuresIt is now possible to download multiple levels at once, all you have to do is to select levels to download and click "Download Selection".
+I would like to remind you that you can rate and comment all levels. You can also comment the news since today.29/09/2009 - 3 CommentsSending scoresTo send your scores you must have the latest version of Battle Jump (0.8.1). All previous versions cannot send scores due to an incompatibility. 22/09/2009 - 0 CommentBattle Jump - v 0.8After few months without updates a new version of Battle Jump was released.
+New features:
+Bug fixes1 new bloc.New images for the menuNew 2 players mode.20/09/2009 - 0 Comment Pages :
+1
+2
+3
+Advertising
+Most downloaded levels
+Petite tour infernale1st ContestAnti TimeMegamanChemins croises
+Most actifs members
+dylan17matmeo123654Leonsulivan50Shydow
+Rss
+Rss News
+Rss Unofficial levels
+Rss Comments
+Other
+License
+Help
+Faq
+Plan
+Site Web made by Jérôme Baudoux
+Links
+Jérôme Baudoux
+Black Armada
+Daidalos
+Stephane Baudoux
+Other web sites
+Official website for Battle Jump the free 3D platform game. The game is under a creative commons lisence (cc-by-nc-sa).
+Do not copy this website (or part of this website) without the consent of the webmaster.
+Please contact me if you want to delete your battle jump account.

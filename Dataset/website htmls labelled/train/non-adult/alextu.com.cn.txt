@@ -1,0 +1,514 @@
+https://www.alextu.com.cn
+phpinfo()
+PHP Version 5.2.17
+System Windows NT USER-186C9C7294 5.2 build 3790
+Build Date Jan
+6 2011 17:26:08
+Configure Command cscript /nologo configure.js
+"--enable-snapshot-build" "--enable-debug-pack" "--with-snapshot-template=d:\php-sdk\snap_5_2\vc6\x86\template" "--with-php-build=d:\php-sdk\snap_5_2\vc6\x86\php_build" "--with-pdo-oci=D:\php-sdk\oracle\instantclient10\sdk,shared" "--with-oci8=D:\php-sdk\oracle\instantclient10\sdk,shared" "--without-pi3web"
+Server API ISAPI
+Virtual Directory Support enabled
+Configuration File (php.ini) Path C:\WINDOWS
+Loaded Configuration File C:\WINDOWS\php.ini
+Scan this dir for additional .ini files (none)
+additional .ini files parsed (none)
+PHP API 20041225
+PHP Extension 20060613
+Zend Extension 220060519
+Debug Build no
+Thread Safety enabled
+Zend Memory Manager enabled
+IPv6 Support enabled
+Registered PHP Streams php, file, data, http, ftp, compress.zlib, https, ftps, zip
+Registered Stream Socket Transports tcp, udp, ssl, sslv3, sslv2, tls
+Registered Stream Filters convert.iconv.*, string.rot13, string.toupper, string.tolower, string.strip_tags, convert.*, consumed, zlib.*
+This program makes use of the Zend Scripting Language Engine:Zend Engine v2.2.0, Copyright (c) 1998-2010 Zend Technologies    with Zend Extension Manager v1.2.0, Copyright (c) 2003-2007, by Zend Technologies    with Zend Optimizer v3.3.0, Copyright (c) 1998-2007, by Zend Technologies
+PHP Credits
+Configuration
+PHP Core
+DirectiveLocal ValueMaster Value
+allow_call_time_pass_referenceOnOn
+allow_url_fopenOnOn
+allow_url_includeOffOff
+always_populate_raw_post_dataOffOff
+arg_separator.input&&
+arg_separator.output&&
+asp_tagsOffOff
+auto_append_fileno valueno value
+auto_globals_jitOnOn
+auto_prepend_fileno valueno value
+browscapno valueno value
+default_charsetno valueno value
+default_mimetypetext/htmltext/html
+define_syslog_variablesOffOff
+disable_classesno valueno value
+disable_functionsno valueno value
+display_errorsOnOn
+display_startup_errorsOffOff
+doc_rootno valueno value
+docref_extno valueno value
+docref_rootno valueno value
+enable_dlOnOn
+error_append_stringno valueno value
+error_logno valueno value
+error_prepend_stringno valueno value
+error_reporting61356135
+expose_phpOnOn
+extension_dird:/host/php/ext/d:/host/php/ext/
+file_uploadsOnOn
+highlight.bg#FFFFFF#FFFFFF
+highlight.comment#FF8000#FF8000
+highlight.default#0000BB#0000BB
+highlight.html#000000#000000
+highlight.keyword#007700#007700
+highlight.string#DD0000#DD0000
+html_errorsOnOn
+ignore_repeated_errorsOffOff
+ignore_repeated_sourceOffOff
+ignore_user_abortOffOff
+implicit_flushOffOff
+include_path.;C:\php5\pear.;C:\php5\pear
+log_errorsOffOff
+log_errors_max_len10241024
+magic_quotes_gpcOnOn
+magic_quotes_runtimeOffOff
+magic_quotes_sybaseOffOff
+mail.force_extra_parametersno valueno value
+max_execution_time3030
+max_file_uploads2020
+max_input_nesting_level6464
+max_input_time6060
+memory_limit128M128M
+open_basedirno valueno value
+output_buffering11
+output_handlerno valueno value
+post_max_size8M8M
+precision1212
+realpath_cache_size16K16K
+realpath_cache_ttl120120
+register_argc_argvOnOn
+register_globalsOnOn
+register_long_arraysOnOn
+report_memleaksOnOn
+report_zend_debugOnOn
+safe_modeOffOff
+safe_mode_exec_dirno valueno value
+safe_mode_gidOffOff
+safe_mode_include_dirno valueno value
+sendmail_fromno valueno value
+sendmail_pathno valueno value
+serialize_precision100100
+short_open_tagOnOn
+SMTPlocalhostlocalhost
+smtp_port2525
+sql.safe_modeOffOff
+track_errorsOffOff
+unserialize_callback_funcno valueno value
+upload_max_filesize10M10M
+upload_tmp_dird:/host/php/Tempd:/host/php/Temp
+user_dirno valueno value
+variables_orderEGPCSEGPCS
+xmlrpc_error_number00
+xmlrpc_errorsOffOff
+y2k_complianceOnOn
+zend.ze1_compatibility_modeOffOff
+bcmath
+BCMath support enabled
+calendar
+Calendar support enabled
+com_dotnet
+COM supportenabled
+DCOM supportdisabled
+.Net supportenabled
+DirectiveLocal ValueMaster Value
+com.allow_dcom00
+com.autoregister_casesensitive11
+com.autoregister_typelib00
+com.autoregister_verbose00
+com.code_pageno valueno value
+com.typelib_fileno valueno value
+ctype
+ctype functions enabled
+curl
+cURL support enabled
+cURL Information libcurl/7.21.0 OpenSSL/0.9.8e zlib/1.2.3
+date
+date/time support enabled
+"Olson" Timezone Database Version 2010.9
+Timezone Database internal
+Default timezone UTC
+DirectiveLocal ValueMaster Value
+date.default_latitude31.766731.7667
+date.default_longitude35.233335.2333
+date.sunrise_zenith90.58333390.583333
+date.sunset_zenith90.58333390.583333
+date.timezoneno valueno value
+dom
+DOM/XML enabled
+DOM/XML API Version 20031129
+libxml Version 2.7.7
+HTML Support enabled
+XPath Support enabled
+XPointer Support enabled
+Schema Support enabled
+RelaxNG Support enabled
+filter
+Input Validation and Filtering enabled
+Revision $Revision: 298196 $
+DirectiveLocal ValueMaster Value
+filter.defaultunsafe_rawunsafe_raw
+filter.default_flagsno valueno value
+ftp
+FTP support enabled
+gd
+GD Support enabled
+GD Version bundled (2.0.34 compatible)
+FreeType Support enabled
+FreeType Linkage with freetype
+FreeType Version 2.1.9
+T1Lib Support enabled
+GIF Read Support enabled
+GIF Create Support enabled
+JPG Support enabled
+PNG Support enabled
+WBMP Support enabled
+XBM Support enabled
+hash
+hash support enabled
+Hashing Engines md2 md4 md5 sha1 sha256 sha384 sha512 ripemd128 ripemd160 ripemd256 ripemd320 whirlpool tiger128,3 tiger160,3 tiger192,3 tiger128,4 tiger160,4 tiger192,4 snefru gost adler32 crc32 crc32b haval128,3 haval160,3 haval192,3 haval224,3 haval256,3 haval128,4 haval160,4 haval192,4 haval224,4 haval256,4 haval128,5 haval160,5 haval192,5 haval224,5 haval256,5
+iconv
+iconv support enabled
+iconv implementation "libiconv"
+iconv library version 1.11
+DirectiveLocal ValueMaster Value
+iconv.input_encodingISO-8859-1ISO-8859-1
+iconv.internal_encodingISO-8859-1ISO-8859-1
+iconv.output_encodingISO-8859-1ISO-8859-1
+ISAPI
+Server VariableValue
+CONTENT_LENGTH 0
+PATH_TRANSLATED E:\wwwroot\AlexTu\https\index.php
+REMOTE_ADDR 156.197.233.165
+REMOTE_HOST 156.197.233.165
+REQUEST_METHOD GET
+SERVER_NAME www.alextu.com.cn
+SERVER_PORT 443
+SERVER_PROTOCOL HTTP/1.1
+SERVER_SOFTWARE Microsoft-IIS/6.0
+APPL_MD_PATH /LM/W3SVC/1448809954/Root
+APPL_PHYSICAL_PATH E:\wwwroot\AlexTu\https\
+INSTANCE_ID 1448809954
+INSTANCE_META_PATH /LM/W3SVC/1448809954
+URL /index.php
+ALL_HTTP HTTP_CONNECTION:close
+HTTP_ACCEPT_ENCODING:identity
+HTTP_HOST:www.alextu.com.cn
+HTTP_USER_AGENT:Python-urllib/2.7
+HTTP_X_REWRITE_URL:/
+HTTPS on
+SCRIPT_NAME /index.php
+CERT_KEYSIZE 128
+CERT_SECRETKEYSIZE 2048
+CERT_SERVER_ISSUER C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+CERT_SERVER_SUBJECT OU=Domain Control Validated, OU=PositiveSSL, CN=alextu.com
+HTTPS_KEYSIZE 128
+HTTPS_SECRETKEYSIZE 2048
+HTTPS_SERVER_ISSUER C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+HTTPS_SERVER_SUBJECT OU=Domain Control Validated, OU=PositiveSSL, CN=alextu.com
+SERVER_PORT_SECURE 1
+json
+json support enabled
+json version 1.2.1
+ldap
+LDAP Support enabled
+RCS Version $Id: ldap.c 293036 2010-01-03 09:23:27Z sebastian $
+Total Links 0/unlimited
+API Version 2004
+Vendor Name OpenLDAP
+Vendor Version 0
+libxml
+libXML support active
+libXML Version 2.7.7
+libXML streams enabled
+magickwand
+MagickWand Backend LibraryImageMagick
+MagickWand Extension Version 1.0.5
+ImageMagick support enabled
+ImageMagick version ImageMagick 6.3.5 09/21/07 Q16 http://www.imagemagick.org
+ImageMagick QuantumRange (MaxRGB) 65535
+MagickWand supported image formats A, ART, AVI, AVS, B, BIE, BMP, BMP2, BMP3, C, CAPTION, CIN, CIP, CLIP, CLIPBOARD, CMYK, CMYKA, CR2, CRW, CUR, CUT, DCM, DCR, DCX, DFONT, DNG, DPS, DPX, EMF, EPDF, EPI, EPS, EPS2, EPS3, EPSF, EPSI, EPT, EPT2, EPT3, EXR, FAX, FITS, FRACTAL, FTS, G, G3, GIF, GIF87, GRADIENT, GRAY, HISTOGRAM, HTM, HTML, ICB, ICO, ICON, INFO, IPL, JBG, JBIG, JNG, JP2, JPC, JPEG, JPG, JPX, K, LABEL, M, M2V, MAP, MAT, MATTE, MIFF, MNG, MONO, MPC, MPEG, MPG, MRW, MSL, MSVG, MTV, MVG, NEF, NULL, O, ORF, OTB, OTF, PAL, PALM, PAM, PATTERN, PBM, PCD, PCDS, PCL, PCT, PCX, PDB, PDF, PEF, PFA, PFB, PFM, PGM, PGX, PICON, PICT, PIX, PJPEG, PLASMA, PNG, PNG24, PNG32, PNG8, PNM, PPM, PREVIEW, PS, PS2, PS3, PSD, PTIF, PWP, R, RAF, RAS, RGB, RGBA, RGBO, RLA, RLE, SCR, SCT, SFW, SGI, SHTML, STEGANO, SUN, SVG, SVGZ, TEXT, TGA, THUMBNAIL, TIFF, TIFF64, TILE, TIM, TTC, TTF, TXT, UIL, UYVY, VDA, VICAR, VID, VIFF, VST, WBMP, WMF, WMFWIN32, WMZ, WPG, X, X3F, XBM, XC, XCF, XPM, XV, XWD, Y, YCbCr, YCbCrA, YUV
+mbstring
+Multibyte Support enabled
+Multibyte string engine libmbfl
+Multibyte (japanese) regex support enabled
+Multibyte regex (oniguruma) version 4.4.4
+Multibyte regex (oniguruma) backtrack check On
+mbstring extension makes use of "streamable kanji code filter and converter", which is distributed under the GNU Lesser General Public License version 2.1.
+DirectiveLocal ValueMaster Value
+mbstring.detect_orderno valueno value
+mbstring.encoding_translationOffOff
+mbstring.func_overload00
+mbstring.http_inputpasspass
+mbstring.http_outputpasspass
+mbstring.internal_encodingno valueno value
+mbstring.languageneutralneutral
+mbstring.strict_detectionOffOff
+mbstring.substitute_characterno valueno value
+mysql
+MySQL Supportenabled
+Active Persistent Links 0
+Active Links 0
+Client API version 5.0.45
+DirectiveLocal ValueMaster Value
+mysql.allow_persistentOnOn
+mysql.connect_timeout6060
+mysql.default_hostno valueno value
+mysql.default_passwordno valueno value
+mysql.default_portno valueno value
+mysql.default_socketno valueno value
+mysql.default_userno valueno value
+mysql.max_linksUnlimitedUnlimited
+mysql.max_persistentUnlimitedUnlimited
+mysql.trace_modeOffOff
+odbc
+ODBC Supportenabled
+Active Persistent Links 0
+Active Links 0
+ODBC library Win32
+DirectiveLocal ValueMaster Value
+odbc.allow_persistentOnOn
+odbc.check_persistentOnOn
+odbc.default_cursortypeStatic cursorStatic cursor
+odbc.default_dbno valueno value
+odbc.default_pwno valueno value
+odbc.default_userno valueno value
+odbc.defaultbinmodereturn as isreturn as is
+odbc.defaultlrlreturn up to 4096 bytesreturn up to 4096 bytes
+odbc.max_linksUnlimitedUnlimited
+odbc.max_persistentUnlimitedUnlimited
+openssl
+OpenSSL support enabled
+OpenSSL Version OpenSSL 0.9.8q 2 Dec 2010
+pcre
+PCRE (Perl Compatible Regular Expressions) Support enabled
+PCRE Library Version 8.02 2010-03-19
+DirectiveLocal ValueMaster Value
+pcre.backtrack_limit100000100000
+pcre.recursion_limit100000100000
+Reflection
+Reflectionenabled
+Version $Id: php_reflection.c 300129 2010-06-03 00:43:37Z felipe $
+session
+Session Support enabled
+Registered save handlers files user
+Registered serializer handlers php php_binary wddx
+DirectiveLocal ValueMaster Value
+session.auto_startOffOff
+session.bug_compat_42OnOn
+session.bug_compat_warnOnOn
+session.cache_expire180180
+session.cache_limiternocachenocache
+session.cookie_domainno valueno value
+session.cookie_httponlyOffOff
+session.cookie_lifetime00
+session.cookie_path//
+session.cookie_secureOffOff
+session.entropy_fileno valueno value
+session.entropy_length00
+session.gc_divisor100100
+session.gc_maxlifetime14401440
+session.gc_probability11
+session.hash_bits_per_character44
+session.hash_function00
+session.namePHPSESSIDPHPSESSID
+session.referer_checkno valueno value
+session.save_handlerfilesfiles
+session.save_pathd:/host/php/Tempd:/host/php/Temp
+session.serialize_handlerphpphp
+session.use_cookiesOnOn
+session.use_only_cookiesOffOff
+session.use_trans_sid11
+SimpleXML
+Simplexml supportenabled
+Revision $Revision: 299016 $
+Schema support enabled
+SPL
+SPL supportenabled
+Interfaces Countable, OuterIterator, RecursiveIterator, SeekableIterator, SplObserver, SplSubject
+Classes AppendIterator, ArrayIterator, ArrayObject, BadFunctionCallException, BadMethodCallException, CachingIterator, DirectoryIterator, DomainException, EmptyIterator, FilterIterator, InfiniteIterator, InvalidArgumentException, IteratorIterator, LengthException, LimitIterator, LogicException, NoRewindIterator, OutOfBoundsException, OutOfRangeException, OverflowException, ParentIterator, RangeException, RecursiveArrayIterator, RecursiveCachingIterator, RecursiveDirectoryIterator, RecursiveFilterIterator, RecursiveIteratorIterator, RecursiveRegexIterator, RegexIterator, RuntimeException, SimpleXMLIterator, SplFileInfo, SplFileObject, SplObjectStorage, SplTempFileObject, UnderflowException, UnexpectedValueException
+standard
+Regex Library Bundled library enabled
+Dynamic Library Support enabled
+Internal Sendmail Support for Windows enabled
+DirectiveLocal ValueMaster Value
+assert.active11
+assert.bail00
+assert.callbackno valueno value
+assert.quiet_eval00
+assert.warning11
+auto_detect_line_endings00
+default_socket_timeout6060
+safe_mode_allowed_env_varsPHP_PHP_
+safe_mode_protected_env_varsLD_LIBRARY_PATHLD_LIBRARY_PATH
+url_rewriter.tagsa=href,area=href,frame=src,input=src,form=,fieldset=a=href,area=href,frame=src,input=src,form=,fieldset=
+user_agentno valueno value
+tokenizer
+Tokenizer Support enabled
+wddx
+WDDX Supportenabled
+WDDX Session Serializer enabled
+xml
+XML Support active
+XML Namespace Support active
+libxml2 Version 2.7.7
+xmlreader
+XMLReader enabled
+xmlwriter
+XMLWriter enabled
+xsl
+XSL enabled
+libxslt Version 1.1.23
+libxslt compiled against libxml Version 2.6.32
+EXSLT enabled
+libexslt Version 0.8.13
+Zend Optimizer
+Optimization Pass 1 enabled
+Optimization Pass 2 enabled
+Optimization Pass 3 enabled
+Optimization Pass 4 enabled
+Optimization Pass 9 enabled
+Zend Loader enabled
+License Path no value
+Obfuscation level 3
+zip
+Zip enabled
+Extension Version $Id: php_zip.c 305848 2010-11-30 11:04:06Z pajoye $
+Zip version 1.8.11
+Libzip version 0.9.0
+zlib
+ZLib Support enabled
+Stream Wrapper support compress.zlib://
+Stream Filter support zlib.inflate, zlib.deflate
+Compiled Version 1.2.3
+Linked Version 1.2.3
+DirectiveLocal ValueMaster Value
+zlib.output_compressionOffOff
+zlib.output_compression_level-1-1
+zlib.output_handlerno valueno value
+Additional Modules
+Module Name
+dbase
+Environment
+VariableValue
+ALLUSERSPROFILE C:\Documents and Settings\All Users
+ClusterLog C:\WINDOWS\Cluster\cluster.log
+CommonProgramFiles C:\Program Files\Common Files
+COMPUTERNAME USER-186C9C7294
+ComSpec C:\WINDOWS\system32\cmd.exe
+FP_NO_HOST_CHECK NO
+NUMBER_OF_PROCESSORS 4
+OS Windows_NT
+PATH C:\Python27;D:\nodejs\;C:\WINDOWS\system32;C:\Program Files\WinRAR;C:\Program Files\TortoiseSVN\bin;D:\Program Files\VisualSVN Server\bin
+PATHEXT .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.PY;.PYM
+PROCESSOR_ARCHITECTURE x86
+PROCESSOR_IDENTIFIER x86 Family 6 Model 44 Stepping 2, GenuineIntel
+PROCESSOR_LEVEL 6
+PROCESSOR_REVISION 2c02
+ProgramFiles C:\Program Files
+SystemDrive C:
+SystemRoot C:\WINDOWS
+TEMP C:\WINDOWS\TEMP
+TMP C:\WINDOWS\TEMP
+USERPROFILE C:\Documents and Settings\Default User
+VISUALSVN_SERVER D:\Program Files\VisualSVN Server\
+windir C:\WINDOWS
+PHP Variables
+VariableValue
+PHP_SELF /index.php
+_SERVER["ALL_HTTP"]HTTP_CONNECTION:close
+HTTP_ACCEPT_ENCODING:identity
+HTTP_HOST:www.alextu.com.cn
+HTTP_USER_AGENT:Python-urllib/2.7
+HTTP_X_REWRITE_URL:/
+_SERVER["HTTPS"]on
+_SERVER["SCRIPT_NAME"]/index.php
+_SERVER["HTTP_COOKIE"]no value
+_SERVER["AUTH_PASSWORD"]no value
+_SERVER["AUTH_TYPE"]no value
+_SERVER["AUTH_USER"]no value
+_SERVER["CONTENT_LENGTH"]0
+_SERVER["CONTENT_TYPE"]no value
+_SERVER["PATH_TRANSLATED"]E:\wwwroot\AlexTu\https
+_SERVER["QUERY_STRING"]no value
+_SERVER["REMOTE_ADDR"]156.197.233.165
+_SERVER["REMOTE_HOST"]156.197.233.165
+_SERVER["REMOTE_USER"]no value
+_SERVER["REQUEST_METHOD"]GET
+_SERVER["SERVER_NAME"]www.alextu.com.cn
+_SERVER["SERVER_PORT"]443
+_SERVER["SERVER_PROTOCOL"]HTTP/1.1
+_SERVER["SERVER_SOFTWARE"]Microsoft-IIS/6.0
+_SERVER["APPL_MD_PATH"]/LM/W3SVC/1448809954/Root
+_SERVER["APPL_PHYSICAL_PATH"]E:\wwwroot\AlexTu\https\
+_SERVER["INSTANCE_ID"]1448809954
+_SERVER["INSTANCE_META_PATH"]/LM/W3SVC/1448809954
+_SERVER["LOGON_USER"]no value
+_SERVER["REQUEST_URI"]/index.php
+_SERVER["URL"]/index.php
+_SERVER["CERT_COOKIE"]no value
+_SERVER["CERT_FLAGS"]no value
+_SERVER["CERT_ISSUER"]no value
+_SERVER["CERT_KEYSIZE"]128
+_SERVER["CERT_SECRETKEYSIZE"]2048
+_SERVER["CERT_SERIALNUMBER"]no value
+_SERVER["CERT_SERVER_ISSUER"]C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+_SERVER["CERT_SERVER_SUBJECT"]OU=Domain Control Validated, OU=PositiveSSL, CN=alextu.com
+_SERVER["CERT_SUBJECT"]no value
+_SERVER["HTTPS_KEYSIZE"]128
+_SERVER["HTTPS_SECRETKEYSIZE"]2048
+_SERVER["HTTPS_SERVER_ISSUER"]C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+_SERVER["HTTPS_SERVER_SUBJECT"]OU=Domain Control Validated, OU=PositiveSSL, CN=alextu.com
+_SERVER["SERVER_PORT_SECURE"]1
+_SERVER["SCRIPT_FILENAME"]E:\wwwroot\AlexTu\https\index.php
+_SERVER["ORIG_PATH_INFO"]/index.php
+_SERVER["PATH_INFO"]no value
+_SERVER["ORIG_PATH_TRANSLATED"]E:\wwwroot\AlexTu\https\index.php
+_SERVER["DOCUMENT_ROOT"]E:\wwwroot\AlexTu\https
+_SERVER["PHP_SELF"]/index.php
+_SERVER["HTTP_CONNECTION"]close
+_SERVER["HTTP_ACCEPT_ENCODING"]identity
+_SERVER["HTTP_HOST"]www.alextu.com.cn
+_SERVER["HTTP_USER_AGENT"]Python-urllib/2.7
+_SERVER["HTTP_X_REWRITE_URL"]/
+_SERVER["REQUEST_TIME"]1452852133
+_SERVER["argv"]Array
+(
+)
+_SERVER["argc"]0
+_ENV["ALLUSERSPROFILE"]C:\Documents and Settings\All Users
+_ENV["ClusterLog"]C:\WINDOWS\Cluster\cluster.log
+_ENV["CommonProgramFiles"]C:\Program Files\Common Files
+_ENV["COMPUTERNAME"]USER-186C9C7294
+_ENV["ComSpec"]C:\WINDOWS\system32\cmd.exe
+_ENV["FP_NO_HOST_CHECK"]NO
+_ENV["NUMBER_OF_PROCESSORS"]4
+_ENV["OS"]Windows_NT
+_ENV["PATH"]C:\Python27;D:\nodejs\;C:\WINDOWS\system32;C:\Program Files\WinRAR;C:\Program Files\TortoiseSVN\bin;D:\Program Files\VisualSVN Server\bin
+_ENV["PATHEXT"].COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.PY;.PYM
+_ENV["PROCESSOR_ARCHITECTURE"]x86
+_ENV["PROCESSOR_IDENTIFIER"]x86 Family 6 Model 44 Stepping 2, GenuineIntel
+_ENV["PROCESSOR_LEVEL"]6
+_ENV["PROCESSOR_REVISION"]2c02
+_ENV["ProgramFiles"]C:\Program Files
+_ENV["SystemDrive"]C:
+_ENV["SystemRoot"]C:\WINDOWS
+_ENV["TEMP"]C:\WINDOWS\TEMP
+_ENV["TMP"]C:\WINDOWS\TEMP
+_ENV["USERPROFILE"]C:\Documents and Settings\Default User
+_ENV["VISUALSVN_SERVER"]D:\Program Files\VisualSVN Server\
+_ENV["windir"]C:\WINDOWS
+PHP License
+This program is free software; you can redistribute it and/or modify it under the terms of the PHP License as published by the PHP Group and included in the distribution in the file:
+LICENSE
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+If you did not receive a copy of the PHP license, or have any questions about PHP licensing, please contact license@php.net.

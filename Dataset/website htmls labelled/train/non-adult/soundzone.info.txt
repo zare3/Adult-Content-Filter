@@ -1,0 +1,136 @@
+https://www.soundzone.info
+SOUNDZONE.INFO
+Home
+Download SF2 (SoundFonts)
+Tutorials
+Login
+About us
+SOUNDZONE.INFO
+How to download SoundFonts
+Mon, 05/10/2010 - 21:50 |
+soundzone
+|  Tags: Tutorial, download, SF2 soundfont, VST
+How to download SoundFonts? There are plenty of professional big SoundFonts available on our web site for download. The links to them are visible for logged in users only.
+We are refreshing the site and the content
+Read more
+Virus Ti Soundset / SoundFonts
+Tue, 08/18/2009 - 13:53 |
+soundzone
+|  Tags: Samples, free, download, SF2 soundfont, Access Virus Ti
+Download free soundfonts!
+Now you can get the power of Access Virus Ti sound without spending thousands of dollars on the Access hardware.
+mp3:
+It look's like you don't have Adobe Flash Player installed. Get it now.
+Read more
+Free SFZ player with filters from Camel Audio
+Tue, 11/22/2011 - 15:52 |
+admin
+|  Tags: Samplers, free, Intangible, AU, RTAS, VST, MAC, PC
+There not many really stable and usable samplers around unless on have a couple of hundreds of spare cash to pay. Since release of SFZ player there was nothing on the market. SF play is not bad, but it has issue with filtering. Well it has no filtering at all. Nowever, there is a solution for you...
+Read more
+Trance lead Free Soundfont for download
+Fri, 09/17/2010 - 18:10 |
+soundzone
+|  Tags: Samples, free, download, SF2 soundfont, Yamaha An1X
+New 88 key wide Soundfont (sf2) has been released and is available for free download. This sf2 features drive and dirty trance lead that is perfectly looped and very filter sweepable. Please listen to the demo which is recorded using only one instance of the offered MoonyDrive Soundfont!
+mp3:
+It look's like you don't have Adobe Flash Player installed. Get it now.
+Read more
+AN1X Bell like Trance
+Synth SoundFont (SF2) for free download!
+Fri, 09/10/2010 - 17:37 |
+soundzone
+|  Tags: Samples, free, download, SF2 soundfont, Yamaha An1X
+Wow! Super Trance sound is just flooding out from our Yamaha AN1X! Download free this 5 Meg soundfont layered for 88 keys keyboard with each sample perfectly looped. Just listen how dirty and at the same time crisp it is!
+mp3:
+It look's like you don't have Adobe Flash Player installed. Get it now.
+Read more
+Download Free An1X Soundfont (sf2) Trance me Up
+Fri, 09/10/2010 - 11:28 |
+soundzone
+|  Tags: Samples, free, download, SF2 soundfont, Yamaha An1X
+We offer free 9Mb Yamaha An1x trance soundfont for instant download. It covers full MIDI range of 128 notes and all samples are perfectly looped.
+mp3:
+It look's like you don't have Adobe Flash Player installed. Get it now.
+Read more
+Sidechain in Cubase 5
+Fri, 07/23/2010 - 21:23 |
+soundzone
+|  Tags: Tutorial, VST
+This tutoral explains how to setup sidechain compression in Cubase 5 in 5 simple steps.
+It is pretty simple if you understand what you are doing. You need
+* one control signal channel that will drive compression. Kick drum is very often used for "ducking" effect.
+* the actual signal the you want to apply effect to ("duck" / compress / gate,etc). for example strings or bass
+Read more
+Free SoundFont
+Player
+Mon, 05/03/2010 - 13:46 |
+soundzone
+|  Tags: Samplers, free, download, SF2 soundfont, VST, PC
+It could take a long time to find perfect SoundFont Player. We have one for you! Let's see what it could do! The requirements were simple:
+work as polyphonic VST plugin
+playback stereo Soundfonts
+be easy on CPU
+be able to handle big Soundfonts
+have amp envelope with ADSR filter
+Read more
+JV-1080
+64voicePiano Free SoundFont (SF2) Download
+Sun, 04/25/2010 - 21:10 |
+soundzone
+|  Tags: Samples, Sounds, free, download, SF2 soundfont, Roland JV-1080, MAC, PC
+There is the first preset from the bank B from the legendary Roland JV-1080. This 42 MB free SoundFont features clear and bright upright piano sound with precise and distinct lows and classical panning.
+The Soundfont is build on 60 waveforms and recorded at maximum velocity level.
+Read more
+Roland V-Synth Compact Flash compatible cards
+Sun, 04/25/2010 - 20:58 |
+soundzone
+|  Tags: Tutorial
+Roland V-Synth XT features a PC card slot for flash memory expansion. Roland web site only lists small sized Compact Flash compatible cards that are not available on the market any more. We recently done some tests and identified 2 cards that definitely work with our V-Synth XT.
+Read more
+What is side chain compression
+Tue, 03/02/2010 - 22:48 |
+soundzone
+|  Tags: Tutorial
+Side chain compression is just a variation of well know compression effect.
+The only difference between side chain compression and an ordinary compression is that at any moment in time in side chain the compression is driven by external signal (control) volume and applied to target (destination) sound rather then by the volume of the original target signal itself.
+Read more
+Cubase 5 VST folder (for VST 2.x plugins)
+Sun, 02/28/2010 - 14:02 |
+soundzone
+|  Tags: Tutorial
+Steinberg Cubase 5 DAW does not have folder for VST 2.x plugins in standard location.
+This results that Cubase can't find you favorite plugins that you install before Cubase 5 installation or plugins installers are being confused and not knowing where to deploy them selves.
+Fortunately, this is easy to fix and we have several options here.
+Read more
+Authentic Expression Technology in Kontakt 4 / Kontakt Player 4
+Sat, 02/27/2010 - 17:58 |
+soundzone
+|  Tags: Samplers, Tutorial
+The new Authentic Expression Technology (AET) sets the new milestone in reproduction of sampled sounds. It allows acuratly reproduce dynamics and articulations without well know "jumps" in sound between different veloity layers.
+Read more
+Free Access Virus Ti MnstrSW2MS.sf2 SoundFont Download
+Sat, 02/06/2010 - 21:42 |
+soundzone
+|  Tags: Samples, Sounds, free, download, SF2 soundfont, Access Virus Ti, MAC, PC
+We have smapled and offer you free one of the famous and most wanted Access Virus Ti sounds from the main factory bank!
+We switched off all enviromental effects like delay and reverb to ensure that the sound is transperant, clean and ready fro use in any mix!
+Virus Ti users migth be interesed to compare it with original.
+Read more
+Free Kontakt Player 4 sampler
+Sat, 02/06/2010 - 13:26 |
+soundzone
+|  Tags: Samplers, free, Intangible, AU, DX, RTAS, TDM, VST, MAC, PC
+Kontakt Player is a FREE, the most fully featured sample player. It has the same engine as famous Native Instruments Kontakt 4 and hence supports all it's native formats.
+Kontakt Player also provides reasonable control over the sound.
+Read more
+Music Tools
+SoundsSamples
+Tutorial
+SoftwareSamplers
+Synthersizers
+HardwareSynthesizers
+Search
+Search this site:
+Search
+Copyright © 2009 SOUNDZONE.INFO. All Rights Reserved.

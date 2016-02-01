@@ -1,0 +1,264 @@
+https://www.armageddon.org
+ArmageddonMUD Home Page
+×
+Account Login
+Use your Armageddon game account, if
+you do not have a game account, you can log into the game
+using a MUD or telnet client to
+armageddon.org 4050,
+or use our Web Client
+Account Name
+Password
+Remember Me
+Cancel
+Login
+×
+Search
+Enter a term to search for.
+Close
+Armageddon
+Hi,
+New Request
+Requests
+Biographies
+Staff
+Logout
+Login
+Play!
+Intro
+New to MUDs?
+Logging In
+About Zalanthas
+Create a Character
+What You Know
+Allanak
+Labyrinth
+Luir's Outpost
+Red Storm
+Tablelands
+Tuluk
+Walkthrough
+Exploring
+Maps
+Communicating
+Rules
+Helpers
+Characters
+Races
+City Elves
+Dwarves
+Half-Elves
+Humans
+Karma Required
+Desert Elves
+Half-Giants
+Muls
+Guilds
+Assassins
+Burglars
+Merchants
+Pickpockets
+Rangers
+Warriors
+Karma Required
+Drovians
+Elkrosians
+Krathis
+Nilazi
+Psionicists
+Rukkians
+Sorcerers
+Templars
+Vivaduans
+Whirans
+Subguilds
+About Karma
+Roleplaying
+Racial Roleplay
+City Elves
+Desert Elves
+Dwarves
+Half-Elves
+Half-Giants
+Humans
+Mul
+Magick Roleplay
+Profession Roleplay
+Thief's Bible
+Bard Roleplay
+Hunter Roleplay
+Linguist Roleplay
+Physician Roleplay
+Clans
+Professional
+T'zai Byn
+Merchant Houses
+Greater Houses
+Kadius
+Kurac
+Nenyuk
+Salarr
+Lesser Houses
+Delann
+Deuring
+Regional
+Allanak
+Arm of the Dragon
+Noble Houses
+Borsail
+Fale
+Jal
+Kasix
+Oash
+Rennik
+Sath
+Tor
+Valika
+Tuluk
+Utep Sun Clan
+Akai Sjir
+Bards of Poets' Circle
+Noble Houses
+Dasari
+Kassigarh
+Lyksae
+Negean
+Reynolte
+Tenneshi
+Uaptal
+Winrothol
+Labyrinth
+The Guild
+Jaxa Pah
+Racial
+Human Tribes
+al'Seik
+Anyali
+Arabet
+Benjari
+Jul Tavan
+Tan Muark
+Desert-Elf Tribes
+Akei'Ta Var
+Blackwing
+Dune Stalkers
+Sand Jakhals
+Soh Lanah Kah
+Sun Runners
+Other
+Unclanned
+Starting a Clan
+Gameplay
+Communication
+Emoting
+Languages
+Socials
+Spoken
+The Way
+Written
+Movement
+Combat
+Defense
+Melee Combat
+Ranged Combat
+Fighting Styles
+Guard
+Mercy
+Sheathe
+Health
+Crafting
+Shops
+Crime & Justice
+Stealth
+Magick
+World
+Chronology
+Geography
+Cities
+Known World
+Maps
+Regions
+Animal Life
+Plant Life
+Fruit
+Herbs
+Small Plants
+Trees
+Geology
+Gems
+Minerals
+Silt
+Culture
+Clothing
+Games
+Jobs
+Marriage
+Music
+Measurement, Time & Weather
+Community
+Forum
+Original Submissions
+Introduction
+Armageddon MUD is an online fantasy game in which players jointly inhabit a
+harsh, post-apocalyptic desert world. The game requires roleplay; while
+conflict abounds, the game is not about killing things. Rather, it is about
+living out a character's sometimes short and always difficult life in the
+harsh world, Zalanthas. It is a world where sorcerer-kings and their
+ruthless servants, the Templarate, govern the two main cities, Allanak and
+Tuluk. Any magick not granted by the Kings is feared and hated, and where
+the punishment of such a curse might be death. In this harsh realm, life is
+a constant struggle, and death may occur over a drink of precious water.
+Armageddon is an unparalleled roleplaying experience, blending worldwide
+socio-political intrigue with riveting interpersonal conflict and cooperation.
+Some players and staff have been participating in the Armageddon experience for
+two decades.
+"…like no other mud I have played before."
+"…the most creative, emotionally involved mud on the Net."
+"…a place of astonishing beauty and detail."
+"…the most entertaining game I've ever played!"
+New to MUDs?
+If you're completely new to online text-based roleplaying, a MUD (multi-user dungeon)
+is a form of multiplayer online roleplaying game (MMORG) that is completely textual.
+Like an interactive, collaborative story, each player uses written text to describe
+their character's life as it unfolds, and to interact with other characters in the
+world.
+But like other computer games, there are also hard-coded actions, like combat,
+spellcasting, item-crafting, and more.
+We strongly suggest that new players take the time to review the wealth of documents
+describing the rich cultural and historical detail of Zalanthas in order to help
+them design and roleplay an interesting, compelling character. If you want to try
+the game before investing too much time in the documentation, please read our
+Quickstart.
+Player Helpers are also available to guide you through your first forays in Zalanthas.
+When you're ready to create your account and your first character, log into armageddon.org 4050.
+If you need help with this, read our telnet client primer.
+Stuck? Need an answer?
+Get quick help fromone of our helpers!
+Community Quick Links
+VISIT THE FORUMS
+VOTE TOP MUD SITES
+VOTE MUDCONNECTOR
+Server Time is 1/14/2016 3:52:25 PM
+Local Time is
+News
+Twitter
+01/13/2016
+Rewrite of Borsail Estate:
+50+ new rooms, 30+ new items, 10+ new NPCs
+--Eukelady, Renenu
+12/28/2015
+Change to employee structure in GMHs
+--Nergal
+12/18/2015
+Tablelands role call posted on the GDB.
+--Armageddon Staff
+12/17/2015
+80+ player/staff submitted objects, 13+ new NPCs, and new rooms for world plot
+--Mordiggian
+3 new drinks added to the Rennik Arboretum
+--Nessalin
+More News...
+Tweets by @armageddonmud
+Copyright © ArmageddonMUD 2016
+Logo artwork by Denny Unger.
+Header artwork by Andree Wallin.

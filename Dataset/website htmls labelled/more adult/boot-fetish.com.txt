@@ -1,0 +1,35 @@
+https://www.boot-fetish.com
+Boosty
+buy now
+Use your smartphone to speed up your home broadband
+Introduction
+Boosty is an easy to install solution that allows you to get faster Internet access at home by using your smartphone's mobile connection to provide a speed boost. Find out more by viewing the short video below.
+What is Boosty?
+Boosty is a revolutionary new service that speeds up your home Broadband by 'topping it up' with the second Broadband connection you have in your pocket; your 3G or 4G smartphone. Plug the small Boosty router into the back of your home router, install the BoostyLink app on a compatible Apple or Android smartphone and your home network will see a combination of both connections speeds. Boosty keeps as much traffic on your home broadband connection as possible; only when it is maxed out will it seamlessly 'burst' into your mobile connection.
+Boosty is suitable for households where broadband is slower than 4Mbps that need faster speeds. Whether you're a home worker, an avid gamer or just want to be able to stream movies in the comfort of your home, Boosty is for you.
+Benefits at a glance:
+Increased broadband speeds - fibre not available now? No problem, get faster speeds today with Boosty.
+Better reliability - even if your fixed broadband connection fails, stay online using your preferred mobile network.
+Low cost - for a special introductory price of only £69 get the Boosty starter pack including a years' subscription.
+Plug and Play - once plugged into your broadband router, most devices instantly start using the Boosty service.
+How does Boosty work?
+A small, bright Boosty router plugs into your home Broadband router's LAN (Ethernet) port, and connects to the mobile date network via your 3G or 4G Android or Apple smartphone. The Boosty router then combines the speed of both networks by sending packets across both links which are brought together at a Boosty server sitting in a UK datacenter. This server re-combines the data packets which are presented to the Internet as if they were from a single connection.
+As mobile traffic costs more than normal home Broadband traffic, Boosty tries to only send traffic over mobile when absolutely necessary. It looks to see if your home Broadband connection is full for a period of time, then increases how much of the mobile network connection is opened up. This 'top-up' mechanism is key to Boosty helping give you speeds when you need them, whilst preserving your mobile data allowance.
+What do I need for Boosty?
+1. Slow home broadband
+Boosty works with home Broadband speeds up to 4Mbps.
+A Boosty router connects to the back of your home Broadband router using a free Ethernet port. If you do not have any free Ethernet ports you will need to use an Ethernet switch.
+Boosty is powered using a free USB port on your router, or alternatively use the supplied USB power adapter.
+Test My Line
+2. Smartphone with good 3G or 4G coverage
+Android 4.1.2 (or higher) or Apple iOS 7.1.2 (or higher) smartphone with 3G or 4G connectivity.
+BoostyLink app installed on your smartphone.
+Good 3G or 4G signal strength (at least 2 or 3 bars).
+Suitable mobile service subscription and data allowance.
+3. Boosty Starter Pack
+The Boosty starter pack includes Boosty service connection fee, 12 months Boosty service subscription, rental of a Boosty router whilst you take the service.
+FAQ
+Terms & conditions
+Privacy
+Contact
+© 2014-2016 Boosty Limited

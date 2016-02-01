@@ -1,0 +1,76 @@
+https://www.addinto.com
+Share & Social Bookmark Button - Sharing Plugins and Widgets - Addinto
+Get AddInto
+Examples
+API
+More tools
++
+Social Networks & Boorkmarks
+100+ services available with addinto sharebox. Facebook, Twitter, Google+,...
+Resources
+Icon, thumbnails and Images you could need...
+FAQ
+Any question ? Let's check the FAQ !
+Try it
+Show code
+Show code
+Show code
+More Examples »
+Sharing made easy
+AddInto will help visitors share & bookmark your content, and promote it to the social networking services, sending you back more traffic✔ Easy to install✔ Highly customizable✔ More than 100 social services
+Get your button
+For bloggers :
+Wordpress share plugin
+Blogger Widget
+X
+<a href="http://www.addinto.com/ai?type=bkmk" onmouseover="ai2display_bkmk(this, '', '', '');" onmouseout="ai2close_bkmk();"><img src="http://www.addinto.com/logos/bookmark_share_v2.gif" alt="AddInto" border="0" /></a><script type="text/javascript" src="http://static.addinto.com/ai/ai2_bkmk.js"></script>
+X
+<div class="addinto_sharebox addinto_sharebox_default">
+<a class="addinto_button_email" title="E-mail"></a>
+<a class="addinto_button_print" title="Print"></a>
+<a class="addinto_button_bookmark" title="Bookmark"></a>
+<a class="addinto_button_facebook" title="Facebook"></a>
+<a class="addinto_button_twitter" title="Twitter"></a>
+<a class="addinto_button_google_plus" title="Google+"></a>
+<a class="addinto_button_separator"></a>
+<a href="http://www.addinto.com/ai?type=bkmk" class="addinto_button_more_dd"></a>
+</div>
+<script type="text/javascript"  src="http://static.addinto.com/ai/ai2_bkmk.js"></script>
+X
+CSS:
+.addinto_sharebox .social_buttons a {
+width: 32px;
+height: 32px;
+}
+.addinto_sharebox .social_buttons a img {
+opacity: 0.8;
+border:0 none;
+}
+.addinto_sharebox .social_buttons a:hover img {
+opacity: 1.0;
+}	HTML:
+<div class="addinto_sharebox">
+<div class="social_buttons">
+<a class="addinto_button_email"><img src="/imgs/social_imgs/email.png" alt="Email" /></a>
+<a class="addinto_button_facebook"><img src="/imgs/social_imgs/facebook.png" alt="Facebook" /></a>
+<a class="addinto_button_twitter"><img src="/imgs/social_imgs/twitter.png" alt="Twitter" /></a>
+<a class="addinto_button_delicious"><img src="/imgs/social_imgs/delicious.png" alt="Delicious" /></a>
+<a class="addinto_button_google_plus"><img src="/imgs/social_imgs/google_plus.png" alt="Google+" /></a>
+<a href="http://www.addinto.com/ai?type=bkmk" class="addinto_button_more"><img src="/imgs/social_imgs/ai2_32x32.png" alt="More" /></a>
+</div>
+</div>
+<script type="text/javascript" src="http://static.addinto.com/ai/ai2_bkmk.js"></script>
+Featured publishers
+Al Aoula
+Pizza Hut
+Council of Europe
+Action contre la faim
++
+Weezigo, sport nature
+More sharing tools
+RSS Feed Button
+Firefox Addon
+Chrome extension
+More tools...
+Terms of Use - Contact us
+© AddInto, Bookmark & Share Button by One Clic

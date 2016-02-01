@@ -1,0 +1,55 @@
+https://www.aardwolf.com
+Aardwolf MUD - Home Page
+Aardwolf Home
+Play Aardwolf
+Aardwolf Mud Blog
+Players Online
+MUD Introduction
+Aardwolf Features
+News Archive
+Aardwolf Wiki
+Aardwolf V3
+Area Building
+Lua Coding
+Game World
+Game Stats
+How to ...?
+Terms of Service
+Races
+Aardwolf Clans
+Classes
+MUD Resources
+Location: Home
+Play Aardwolf
+Aardwolf RPG is a unique and free text based roleplaying game. Aardwolf is based in the fantasy world of Andolor where magic is common and there are hundreds of exotic realms to explore, puzzles to solve and quests to
+complete. Aardwolf features a realistic game world with multiple continents and real geography. Each area includes a real time line-of-sight overhead map to see other characters and points of interest around you.
+Create your character from any one of 28 classes including fighter classes such as Soldiers, Knights, Hunters, Barbarians, Rangers, Archers, Assassins and Paladins or select a magic based class including Elementalists, Necromancers, Healers, Priests, Witches and Enchanters. Once you have choosen your race, your guild and your profession then the rest is up to you. You have absolute control over your character's actions and there are many ways to play Aardwolf.
+Sample screenshot of the Aardwolf Client
+You can play the game solo or group with other players, focus on gaining experience and levels, take part in hundreds of quests, solve puzzles, explore, map, play casino games for in-game currency, join a clan, take part in our forums, enchant and craft equipment, compete with other players in
+player-vs-player combat and global quests, answer trivia, create your own
+private manor, experiment with hundreds of spells and skills and even, eventually, build your own additions to the world.
+If you have never played a text based RPG before, we offer an extensive in-game help system to help you get started and a team of volunteer
+"helpers" who answer questions in real time. We also have a very detailed
+starting area called "The Aylorian Academy" - your first major quest in the
+game where you are guided through playing Aardwolf in an interactive format.
+To learn more about MUDs in general, see the introduction to MUDs article. To jump in and get started, visit the "Play now" page to choose from a selection of online and downloadable clients.
+For builders, Aardwolf features an embedded LUA interpreter allowing area developers to add atmosphere to their areas and create area puzzles and quests. See our building section for more information on the LUA integration.
+If you already have a MUD client, you can connect to Aardwolf using aardwolf.org (66.228.127.34) port 4000. You can also use port 23 if you have a firewall blocking port 4000. To reach our Java client, click 'Play Aardwolf' in the link above. If you have problems connecting, feel free to mail webmaster@aardmud.org for help.
+Keyring Feature / Afterglow Area
+New keyring feature for storing keys out of inventory. Afterglow Area and Quest. Other changes in news article.
+Radiance Woods / Disenchanting.
+Disenchant feature added for Solidify, Illuminate and Resonate. Radiance Woods - New area and quest.
+Vaults and TPenchant
+Private player equipment vaults added. Some changes to trivia point based enchanting.
+Saves Equipment Upgrade
+Command added to upgrade equipment that previously had 'saves' with other stats. Other code changes listed in the post.
+Imagi's Nation Area.
+Imagi's Nation Area added. Several other changes to game code.
+Global Quest Rewrite
+Global quest rewritten to allow for multiple global quests to run at a time in different gquest tracks.
+Dusk Valley Area, T3 Hardcore, Other
+New area and goal called Dusk Valley. Hardcore now available at T3. Vistells command.
+Spamreduce and other new changes.
+Spamreduce command added with several new spam filtering options. Forgetskills extended. New Death Messages.
+Hardcore PK Mode
+New "Hardcore" PK mode added to Aardwolf as a challenge for higher tiers to see how far they can get in completely open PK.

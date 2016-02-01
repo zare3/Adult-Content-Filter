@@ -1,0 +1,30 @@
+https://www.healthcarejob.com
+ASPDIAG3
+ASPDiag 3 ::
+jetstat iis server diagnostics
+| Thursday, January 14, 2016
+Welcome
+Server Info.
+Server Variables
+Stdandard Com's
+Known Com's
+User Com's
+Server FS
+Will It Run?
+Copyright ©2005 by JetStat.com
+This script was authored by Eugene Semerenko of JetStat.com
+and is intended for use with JetStat.com applications or exclusively for diagnostics purposes.
+ See the License
+Welcome
+ASP test: ASP is working (you must see: 'ASP is working in blue')
+SSI test: SSI is working (you must see: 'SSI is working in blue')
+ At this stage the first tests is now completed.
+If this page looks fine then your web server is capable of running
+Active Server Pages (ASP).
+If this page looks like a mess of chars or unreadable,
+then please contact your web server support for information
+about enabling ASP on this web server.
+Click 'Next' button to test your web server thoroughly...
+> ASP Scripts of JetStat.com
+> ASP Login and User Management Script
+© 2001 - 2005 Jetstat.com . All Rights Reserved.

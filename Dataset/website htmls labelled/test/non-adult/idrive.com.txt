@@ -1,0 +1,189 @@
+https://www.idrive.com
+IDrive® - Online Backup
+Download IDrive App
+Protect your device data in ONE TOUCH
+Username/Email
+Remember me
+Password
+Forgot password?
+Login
+New to IDrive?
+Sign up now
+5 GB Free 1 TB, $59.50$44.62 First Year
+Resellers
+Small Business
+Enterprise
+Support
+FAQs
+Tutorials
+Blog
+More
+Features
+When you need more than just backup.
+Multiple Device Backup
+Server Backup
+Online File Sync
+IDrive Express
+Linux Backup
+Sub-accounts
+Mobile Backup
+Manage Computers
+True Archiving
+Sign up
+Login
+English
+Spanish
+French
+German
+Backup All your PCs, Macs and Mobile devices into one account for $5/month!
+Sign up
+now!
+Faster Cloud Backups via IDrive Express™!
+Transfer data up to 3 TB to IDrive® cloud without using your bandwidth, in a week
+or less,
+via physical storage shipment - For Free!
+Sign up
+now!
+Backup Everything. Access From Anywere
+One stop solution to protect your digital life. Protect photos, financial documents and music in just 2 clicks.
+Sign up
+now!
+Military Grade Encryption
+256-bit AES encryption with optional private key safeguards all of your IDrive account files.
+Sign up
+now!
+Online Backup - IDrive
+Features
+Download
+Pricing
+Backup Everything. Access From Anywere
+One stop solution to backup your digital life. Protect photos, financial documents and music in just 2 clicks.
+Sign up
+Sign up
+Sign up - Save 75%
+Sign up
+Limited time only!
+SUPPORT: 1-866-748-0555
+Business days: 6:00 AM to 6:00 PM PST
+Live Support
+Protect All Your Devices
+One stop solution to protect all of your PCs, Macs, iPhones, iPads, Android devices and Facebook pictures into a single account!
+Small Business Backup
+Enterprise class secure data protection for all of your business computers, servers, Exchange, SQL, NAS and mobile devices.
+Get Started
+True Archiving
+IDrive – Your Data is Stored Forever!
+January 14, 2016
+Businesses have ceaselessly battled to defend data losses. With frequent data loss experiences in the past, businesses have coped up with backing up their data more assertively than before. The outcome is the realization that there is no fail-safe solution to protect your data from disasters! The most businesses could do is to back them up to an offsite location, to avail in case of a disaster. By doing so, data loss from disasters can be prevented as a copy of the data is saved offsite.
+Cloud solutions have boomed in the market during the last decade with its good offerings. Cloud service also has picked its place in businesses due to simplicity and affordability. But there’s a lot that you must be considering when choosing a cloud solution as your data matters most for your business!
+Imagine that your data is deleted from your devices, but not backed up for quite a long, and you want the lost data recovered. How can you fetch the data that is not backed up for a long time? The answer is, there is very little or no chance! But if your data was once backed up with IDrive, you can be sure about recovering it. True Archiving in IDrive ensures that your files that are sent once to your cloud account, stays there as long as your account is alive. With us, even if you accidentally or intentionally remove a file from your computer, it will always remain on the cloud. This means, unless you don’t manually delete files or use the automated Archive Cleanup process, you'll always have access to your files.
+What is Archive Cleanup?
+Archive cleanup is a feature on your IDrive application, with which you can delete files from your cloud account. The ‘archive cleanup’ option, compares the files of your cloud account to the existing files that you have chosen for protection, and then deletes the ones present in your cloud and not on your file transfer set. This feature is great to free up space in your account.
+Your Data is Secure with Us
+IDrive has the best-in-class security. Your files are encrypted during transfer and storage, using military grade 256-bit AES encryption. IDrive also offers the option of private key encryption, wherein the encryption key is defined by you and not stored anywhere on IDrive servers, ensuring only you can access your backed up files. Not just that, your data is stored in our data center with world-class facilities like, smoke detection, fire suppression systems, motion sensors, 24/7 secured access, video camera surveillance and security breach alarms.
+What IDrive Offers?
+All-to-one Protection
+You can protect data from unlimited PCs, Macs, iPhones, iPads and Android devices into a single account. It doesn’t matter how many devices you own, IDrive makes backing them easier to one account, at one price. Unlike other cloud services that charge per computer or device, IDrive securely protects data from any number of devices into one cloud account, for one low fee.
+Server Protection without Downtime
+You can secure data from running databases and servers - MS SQL Server, MS Exchange Server, VMware, Hyper-V, MS SharePoint Server, Oracle Server and Linux Servers, without suspending them. This means, you have an interruption-free operation while backing up your data, ensuring efficiency with no downtime.
+Save Data Locally and On Cloud
+You can store your files locally and to the cloud. Local feature is a perfect complement to your cloud storage by enabling you to locally store your important files to IDrive Wi-Fi - a storage device that combines the security of cloud and the convenience of local connectivity. Your data is encrypted and stored locally (IDrive Wi-Fi) and on cloud. Local storage helps speedy recovery of your data when compared to cloud!
+Multiple File Versions
+All the files backed up previously to your cloud account can be retained. You can restore 10 previous file versions to any location on your local computer. The additional storage for the previous versions has no impact on your account's quota, as your storage is calculated only for the most current version.
+Securely Share Files and Folders
+You can transfer all your data to your cloud account and then safely share files, using a single secure link. With an edit option, your recipients can access your files, make changes and upload them back to the account. You can share files from your computer, mobile device or via the web.
+That’s not all, IDrive offers much more. Sign up and explore!
+Mobile Backup
+for iPhone and Android
+Protect your iPhone and Android data with strong privacy options.
+IDrive Wi-Fi
+for speedy local backups
+Complement your cloud account with wireless local backup.
+Manage Computers
+remotely via the web
+Manage backups and more, on your far-away computers via web console.
+Get Started More Features
+and there's more...
+Facebook Backup
+Online File Sync
+Security and Privacy Sub-accounts DataCenter Edition
+Why IDrive?
+Here's what the experts say:
+“ There's a heck of a lot to like about IDrive. It can do things that none of the alternatives can. – Michael Muchmore
+”
+“ It's affordable, comprehensively capable, has clients for just about every platform, and was pretty darn fast backing up my data.
+– Jon L.Jacobi
+”
+“ You can set your own encryption key for your data, which means extra protection...
+– Melanie Pinola
+”
+“ IDrive Express is a common-sense solution to time-consuming backups. – Michael S.Lasky
+”
+“ All of the data is encrypted client-side using 256-bit AES encryption with an optional private key, unusual security feature for syncing services. – Frederic Lardinois
+”
+“ IDrive for iPhone offers a combination of capabilities not found in other apps, letting you back up, share, and enjoy all your photos, music, video, and more-anywhere. – Michael Muchmore
+”
+1-866-748-0555
+Business Days: 6:00 AM to 6:00 PM PST
+My IDrive
+Sign Up
+Features
+Download
+Pricing Plans
+Security
+Developers
+Blog
+IDrive vs Competition
+NAS Backup
+Synology Backup
+QNAP Backup
+Netgear Backup
+Products
+Mobile Backup
+Facebook Backup
+Instagram Backup
+Linux Backup
+Hybrid
+Backup
+Special Products
+Data Center Backup
+TurboTax Backup
+Server Backup
+SQL Server
+Exchange Server
+Hyper-V
+SharePoint Server
+Oracle Server
+Features
+Multiple Device Backup
+Small Businesses
+Manage Computers via Web
+Online File Share
+Sub-accounts
+Online Files Sync
+True Archiving
+IDrive Rewind
+Services
+Resellers
+IDrive Express
+Business Compliance
+Help
+Support
+FAQs
+Video Tutorials
+Corporate
+IDrive Ventures
+Press Releases
+Reviews
+Legal
+We Serve...
+Canada
+UK
+Verticals
+Healthcare
+Accounting
+Education
+Support
+1-866-748-0555
+Business Days: 6:00 AM to 6:00 PM PST
+© 2016 IDrive Inc.

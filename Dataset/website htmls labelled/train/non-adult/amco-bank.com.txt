@@ -1,0 +1,114 @@
+https://www.amco-bank.com
+KIFS Trade Capital | Online Trading |Best Trading Platform
+Open New Account
+Sign In
+Trading Login
+Trade Capital Web
+ODIN Web
+Backoffice Login
+Branch Backoffice Login
+Support
+Career
+Downloads
+Trading Platform
+Why Us?
+About Us
+Pricing
+FAQ
+Blog
+Trading Platform
+Why Us?
+About Us
+Pricing
+FAQ
+Blog
+{"1987":{"0":{"featured_image":"","title":"Inception of Khandwala","publish_date":"2015-01-27 06:50:05","post_link":"https:\/\/kifstradecapital.com\/?p=280","event_date":"01-01-1987","post_type":"standard","content":"Inception of Khandwala group with registration in Ahmedabad Stock Exchange (Asia\u2019s second oldest stock exchange)","event_date_display":"01 January 1987","position":0,"start_position":0,"end_position":320,"order":0,"post_width":"320"},"position":0,"year_width":320},"1988":{"0":{"featured_image":"","title":"Founders","publish_date":"2015-02-23 12:04:37","post_link":"https:\/\/kifstradecapital.com\/?p=747","event_date":"01-01-1988","post_type":"image","image_urls":["https:\/\/kifstradecapital.com\/wp-content\/uploads\/2015\/02\/1.1.jpg","https:\/\/kifstradecapital.com\/wp-content\/uploads\/2015\/02\/2.1.jpg","https:\/\/kifstradecapital.com\/wp-content\/uploads\/2015\/02\/3.1.jpg","https:\/\/kifstradecapital.com\/wp-content\/uploads\/2015\/02\/unnamed.jpg"],"event_date_display":"01 January 1988","content":"","position":320,"start_position":320,"end_position":600,"order":1,"post_width":"280"},"position":320,"year_width":280},"1995":{"0":{"featured_image":"https:\/\/kifstradecapital.com\/wp-content\/uploads\/2015\/01\/bse_nse_small_1.png","title":"Member of BSE & NSE","publish_date":"2015-01-29 13:49:06","post_link":"https:\/\/kifstradecapital.com\/?p=381","event_date":"01-01-1995","post_type":"aside","content":"Registration as member in BSE and NSE","event_date_display":"01 January 1995","position":600,"start_position":600,"end_position":985,"order":2,"post_width":"385"},"1":{"featured_image":"","title":"Membership of NSE in Capital Market Segment","publish_date":"2015-03-17 05:10:42","post_link":"https:\/\/kifstradecapital.com\/?p=1203","event_date":"05-05-1995","post_type":"standard","content":"Conversion of ASE membership into M\/s. Khandwala Finstock Pvt. Ltd. Incorporation of M\/s. Khandwala Integrated Financial Services P. Ltd. And Obtained membership of NSE in Capital Market Segment Incorporation of M\/s. Active Finstock P. Ltd. Incorporation of M\/s. Khandwala Capital…","event_date_display":"05 May 1995","position":985,"start_position":985,"end_position":1305,"order":3,"post_width":"320"},"2":{"featured_image":"https:\/\/kifstradecapital.com\/wp-content\/uploads\/2015\/03\/1221952_51477459a1.jpg","title":"Capital Market Segment","publish_date":"2015-03-12 13:47:21","post_link":"https:\/\/kifstradecapital.com\/?p=1177","event_date":"02-06-1995","post_type":"aside","content":"Incorporation of M\/s. Khandwala Integrated Financial Services P. Ltd. And\u00a0Obtained\u00a0membership of NSE in Capital Market Segment","event_date_display":"02 June 1995","position":1305,"start_position":1305,"end_position":1690,"order":4,"post_width":"385"},"3":{"featured_image":"https:\/\/kifstradecapital.com\/wp-content\/uploads\/2015\/03\/inc.jpg","title":"Active Finstock P. Ltd.","publish_date":"2015-03-12 14:23:55","post_link":"https:\/\/kifstradecapital.com\/?p=1182","event_date":"05-11-1995","post_type":"aside","content":"Incorporation of\u00a0M\/s. Active Finstock P. Ltd.","event_date_display":"05 November 1995","position":1690,"start_position":1690,"end_position":2075,"order":5,"post_width":"385"},"position":1690,"year_width":1475},"1996":{"0":{"featured_image":"https:\/\/kifstradecapital.com\/wp-content\/uploads\/2015\/03\/e.jpg","title":"Bombay Stock Exchange Ltd","publish_date":"2015-03-17 05:14:46","post_link":"https:\/\/kifstradecapital.com\/?p=1205","event_date":"1996","post_type":"aside","content":"Obtained membership of BSE. In Cash Segment in M\/s. Active Finstock P. Ltd.","event_date_display":"14 January 1996","position":2075,"start_position":2075,"end_position":2460,"order":6,"post_width":"385"},"1":{"featured_image":"https:\/\/kifstradecapital.com\/wp-content\/uploads\/2015\/03\/d.jpg","title":"Listing of Securities","publish_date":"2015-03-12 15:33:17","post_link":"https:\/\/kifstradecapital.com\/?p=1191","event_date":"04-06-1996","post_type":"aside","content":"Listing of Securities of M\/s. Khandwala Capital Services Ltd. at AhmedabadStock Exchange (ASE)","event_date_display":"04 June 1996","position":2460,"start_position":2460,"end_position":2845,"order":7,"post_width":"385"},"position":2460,"year_width":770},"1998":{"0":{"featured_image":"","title":"Obtained Registration with RBI","publish_date":"2015-03-17 05:20:29","post_link":"https:\/\/kifstradecapital.com\/?p=1209","event_date":"17-3-1998","post_type":"standard","content":"Obtained Registration with RBI as NBFC in the name of M\/s. Khandwala Capital Services Ltd.","event_date_display":"17 March 1998","position":2845,"start_position":2845,"end_position":3165,"order":8,"post_width":"320"},"position":2845,"year_width":320},"2000":{"0":{"featured_image":"https:\/\/kifstradecapital.com\/wp-content\/uploads\/2015\/01\/nsdl.png","title":"NSDL for DP services","publish_date":"2015-01-29 13:48:09","post_link":"https:\/\/kifstradecapital.com\/?p=375","event_date":"01-01-2000","post_type":"aside","content":"Registration of membership with NSDL for DP services.","event_date_display":"01 January 2000","position":3165,"start_position":3165,"end_position":3550,"order":9,"post_width":"385"},"1":{"featured_image":"https:\/\/kifstradecapital.com\/wp-content\/uploads\/2015\/03\/e.jpg","title":"M\/s. Khandwala Fincap P. Ltd.","publish_date":"2015-03-17 05:23:17","post_link":"https:\/\/kifstradecapital.com\/?p=1211","event_date":"17-3-2000","post_type":"aside","content":"Incorporation of M\/s. Khandwala Fincap P. Ltd. and Obtained membership of DSE.","event_date_display":"17 March 2000","position":3550,"start_position":3550,"end_position":3935,"order":10,"post_width":"385"},"position":3550,"year_width":770},"2006":{"0":{"featured_image":"","title":"Membership of BSE in Cash Segment","publish_date":"2015-03-17 05:26:13","post_link":"https:\/\/kifstradecapital.com\/?p=1213","event_date":"17-3-2006","post_type":"standard","content":"Incorporation of M\/s. Khandwala Shares & Services P. Ltd. And obtained membership of BSE in Cash Segment","event_date_display":"17 March 2006","position":3935,"start_position":3935,"end_position":4255,"order":11,"post_width":"320"},"position":3935,"year_width":320},"2007":{"0":{"featured_image":"https:\/\/kifstradecapital.com\/wp-content\/uploads\/2015\/03\/f.jpg","title":"Portfolio Manager with SEBI","publish_date":"2015-03-17 09:45:07","post_link":"https:\/\/kifstradecapital.com\/?p=1216","event_date":"17-03-2007","post_type":"aside","content":"Obtained SEBI Registration as Portfolio Manager (PMS) in M\/s. Khandwala Integrated Financial Services P. Ltd.","event_date_display":"17 March 2007","position":4255,"start_position":4255,"end_position":4640,"order":12,"post_width":"385"},"position":4255,"year_width":385},"2008":{"0":{"featured_image":"https:\/\/kifstradecapital.com\/wp-content\/uploads\/2015\/01\/bscren.png","title":"294 Subbrokers, Host of other services","publish_date":"2015-01-27 06:55:05","post_link":"https:\/\/kifstradecapital.com\/?p=283","event_date":"1-1-2008","post_type":"aside","content":"Milestone of 294 Subbrokers and Associates. Started PMS, Merchant Banking, &\u00a0Currency Derivatives.","event_date_display":"01 January 2008","position":4640,"start_position":4640,"end_position":5025,"order":13,"post_width":"385"},"1":{"featured_image":"","title":"Trading Cum Clearing Member at NSE","publish_date":"2015-03-17 10:36:00","post_link":"https:\/\/kifstradecapital.com\/?p=1228","event_date":"17-3-2008","post_type":"standard","content":"Commenced Currency Derivatives Trading in the capacity of Trading Cum Clearing Member (TCM) at NSE in M\/s. Khandwala Integrated Financial Services P. Ltd. Obtained SEBI Registration as Merchant Banker Category \u2013 1 in M\/s. Khandwala Integrated Financial Services P. Ltd.","event_date_display":"17 March 2008","position":5025,"start_position":5025,"end_position":5345,"order":14,"post_width":"320"},"position":5025,"year_width":705},"2009":{"0":{"featured_image":"","title":"Transfer of Business","publish_date":"2015-03-17 10:23:54","post_link":"https:\/\/kifstradecapital.com\/?p=1220","event_date":"17-3-2009","post_type":"standard","content":"Transfer of Business of M\/s. Active Finstock P. Ltd. to M\/s. Khandwala Integrated Financial Services P. Ltd. and then after Name of M\/s. Khandwala Integrated Financial Services P. Ltd. was changed to M\/s. KIFS Securities P. Ltd. The same was…","event_date_display":"17 March 2009","position":5345,"start_position":5345,"end_position":5665,"order":15,"post_width":"320"},"position":5345,"year_width":320},"2010":{"0":{"featured_image":"","title":"SEBI Registration as Trading Member in Currency Derivative Segment","publish_date":"2015-03-17 10:25:25","post_link":"https:\/\/kifstradecapital.com\/?p=1222","event_date":"17-3-2010","post_type":"standard","content":"Obtained SEBI Registration as Trading Member in Currency Derivative Segment of MCX \u2013 SX in M\/s. KIFS Securities Ltd.","event_date_display":"17 March 2010","position":5665,"start_position":5665,"end_position":5985,"order":16,"post_width":"320"},"position":5665,"year_width":320},"2013":{"0":{"featured_image":"https:\/\/kifstradecapital.com\/wp-content\/uploads\/2015\/03\/b.jpg","title":"Trading Member in Cash & F&O","publish_date":"2015-03-17 10:26:52","post_link":"https:\/\/kifstradecapital.com\/?p=1224","event_date":"17-3-2013","post_type":"aside","content":"Obtained SEBI Registration as Trading Member in Cash & F&O Segment of MCX-SX in M\/s. KIFS Securities Ltd.","event_date_display":"17 March 2013","position":5985,"start_position":5985,"end_position":6370,"order":17,"post_width":"385"},"1":{"featured_image":"https:\/\/kifstradecapital.com\/wp-content\/uploads\/2015\/05\/trophy_2.png","title":"NSDL Star Performer Awards","publish_date":"2015-05-19 13:42:34","post_link":"https:\/\/kifstradecapital.com\/?p=1513","event_date":"30-11-2013","post_type":"aside","content":"Best Performer in Account Growth Rate (Top DP Category) Top Performer in New Accounts Opened (Non Bank Category)","event_date_display":"30 November 2013","position":6370,"start_position":6370,"end_position":6755,"order":18,"post_width":"385"},"position":6370,"year_width":770},"2014":{"0":{"featured_image":"","title":"Change of Name","publish_date":"2015-03-17 10:28:16","post_link":"https:\/\/kifstradecapital.com\/?p=1226","event_date":"17-3-2014","post_type":"standard","content":"M\/s. KIFS Securities Ltd. to M\/s. KIFS Securities P. Ltd.","event_date_display":"17 March 2014","position":6755,"start_position":6755,"end_position":7075,"order":19,"post_width":"320"},"1":{"featured_image":"https:\/\/kifstradecapital.com\/wp-content\/uploads\/2015\/05\/trophy_1.png","title":"NSDL Star Performer Awards","publish_date":"2015-05-19 14:06:47","post_link":"https:\/\/kifstradecapital.com\/?p=1520","event_date":"11-12-2014","post_type":"aside","content":"Top Performer in Active Accounts (Top DP Category) 2nd Position","event_date_display":"11 December 2014","position":7075,"start_position":7075,"end_position":7460,"order":20,"post_width":"385"},"position":7075,"year_width":705},"2015":{"0":{"featured_image":"https:\/\/kifstradecapital.com\/wp-content\/uploads\/2015\/01\/a.jpg","title":"Launching KIFS Trade Capital","publish_date":"2015-01-27 06:40:57","post_link":"https:\/\/kifstradecapital.com\/?p=277","event_date":"1-1-2015","post_type":"aside","content":"Launch of a Game changing, State of the Art and Cutting Edge online trading platform - KIFS Trade Capital.","event_date_display":"01 January 2015","position":7460,"start_position":7460,"end_position":7845,"order":21,"post_width":"385"},"1":{"featured_image":"","title":"KIFS DP Certification","publish_date":"2015-05-19 14:13:39","post_link":"https:\/\/kifstradecapital.com\/?p=1523","event_date":"10-02-2015","post_type":"standard","content":"KIFS DP obtained Certificate of Permanent Registration from SEBI","event_date_display":"10 February 2015","position":7845,"start_position":7845,"end_position":8165,"order":22,"post_width":"320"},"position":7845,"year_width":705}}
+TRADE ON NSE, BSE, MCX-SX AND MCX
+Join India’s fastest growing trading community.
+Take on the markets with KIFS Trade Capital
+Give yourself the technical and fundamental edge to trade better- and smarter- than 99% of people in the market. With customized multiple market watches, superior User Experience, zero connectivity issues, and best in class online banking solutions, you are sure to be in the top 1% with us!
+Refer and Earn – Your lifetime business partner
+Introduce any clients and earn 10% of their brokerage earnings- for life! We have a very easy and transparent referral process, so that you will know all the details before and after referring someone. You can refer clients from your own back office and keep track of your earnings right there!
+Something for everyone
+Whatever type of trader you are, we have a perfect match for you.
+The Day Trader
+Use over hundreds of tools and techniques in our powerful charting station. Take advantage of our access charge plans to reduce your trading costs
+The Positional Trader
+Explore the signals, studies and strategies in our cutting edge charting function.
+Stay updated with the latest news and trends in the trading industry.
+The Long term Investor
+Use our fundamental database to screen out your favourite investment picks. Explore Balance Sheet, P&L Statements, Corp. Actions and much more.
+Choose the best plan
+Ready to get started? Open an account Now.
+Our clients love us
+And within minutes you will understand why
+prevnext
+Yamal VyasCA, CS, Former Editor – Dalal Street Investment Journal, Member of State Finance Commission, Gujarat KIFS has always stood by their clients and many times even suffered losses on behalf of clients,they have always been transparent in their dealing. They are embracing new technology and delivering the best experience for their clients
+Ruzan KhamabhattaSerial Entraprenur-Director, E Comm Opportunities P. Ltd and N' Wave Tech P. Ltd, reachgujarat.com and Wizz O Tech I was never into the business of investing in stocks, but KIFS helped me scientifically, they helped me even if I go beyond taking risk. For all the women out there, I would say that they can excel in stock markets as they are inherently risk averse.
+Atul MehtaInvestor, Trader – Rishi Finstock Pvt. Ltd. It’s been more than 20 years of working together with KIFS, I have had no complaints ever.They have been always helpful to their customers with their excellent client services.
+Nisha PatelCA It has been wonderful experience with KIFS.  I have been trading since the last 12 years with them, when I started, the staff at KIFS helped me a lot in understanding the stock markets. They went beyond their job profile to help a newbie like me.
+Atul DoshiPast President - Ahmedabad Stock Exchange I was impressed with their humbleness, integrity followed by sincerity in business and their accessibility. I have been associated with them since the past 27 years.
+Nisarg KajiInvestor, Trader – Computer Science Graduate Stock Trading has helped me in recovering all the expenses of my studies in US. Association with KIFS was a good & smart choice.
+A trading platform, available on almost every device you use daily.
+What’s new?
+Latest news on Stock, Market, and Trading.
+Refer and Earn – KIFS TradeCapital referral rewards program explained
+Parthiv Shah
+| Economy
+|
+No Comments
+The online trading community is centered on winning and profits, but that’s usually a one way street. Rarely do we see win-win situations, where both the trader and the trading…
+A trading calendar that every trader needs to note down
+Ashish Mehta
+| Economy
+|
+No Comments
+Regardless of your experience in trading, you need to know when it is wise to trade, and when it is not. There are various factors that can turn a trade…
+The organized mind – dump the lingo, get a Jumpstart on your trading career
+Kushal Khandwala
+| Economy
+|
+No Comments
+At first trading can seem intimidating- everyone uses what seems to be another language with very fancy terms, and it’s difficult to get a hold of the basic information you…
+Trading Costs – a breakdown of trading costs that every trader needs to know
+Ashish Mehta
+| Economy
+|
+No Comments
+As a trader, it is essential that you focus on your finances and keep a close eye on where your money is spent. That’s why it is important to know…
+Get in touch
++91 79-30000 320-27/ info@kifs.co.in
+HEAD OFFICE
+B-81, Pariseema Complex
+C.G Road, Ellisbridge
+Ahmedabad, Gujarat
+Tel: +079-30000320-27 / 079-26400140
+View office on a map
+CORPORATE OFFICE
+#901, 9th floor C-wing
+Lotus corporate park
+WE Highway, Goregao East, Mumbai
+Tel: 022- 65659910/ 12
+View office on a map
+Prevent Unauthorized transactions in your Trading/Demat account --> Update your mobile numbers/email IDs with us. Receive information of your transactions directly from Exchange/NSDL on your mobile/email at the end of the day/same day.......... Issued in the interest of investors
+KYC is one time exercise while dealing in securities markets - once KYC is done through a SEBI registered intermediary (Broker, DP, Mutual Fund etc.), you need not undergo the same process again when you approach another intermediary.
+ATTENTION INVESTORS: No need to issue cheques by investors while subscribing to IPO. Just write the bank account number and sign in the application form to authorise your bank to make payment in case of allotment. No worries for refund as the money remains in investor's account.
+Investors are advised to exercise necessary caution w.r.t. unsolicited emails/ SMSs/Tips/Rumors circulated via various medium like social networks, SMS, Whatsapp, Blogs etc. advising to buy/sell/hold securities but to trade only based appropriate analysis and informed decision. Please do not to blindly follow these unfounded rumours, tips etc.
+Please share your knowledge/evidence of systematic wrongdoing, potential frauds or unethical behavior through : http://www.nseindia.com/int_invest/dynacontent/any_portal.htm
+KIFS SECURITIES KIFS Securities Limited (KIFS) is a flag-ship company of KIFS Group, and started its broking operations under corporate license in 1995.
+Tweets
+KIFS Trade Capital
+8 hours ago
+#KIFS Wishes you a very Happ and Safe Uttrayan.
+#KIFSTradeCapital
+kifstradecapital.com fb.me/77QwUWV4S
+Trading
+Join India’s fastest growing trading community.
+Open an Account
+You are requested to regularly refer our website – Download Section - for prevalent RMS and other policies, RDD, Rights & Obligations as well as standard set of KYC documents, KIFS AML Literature for client general awareness etc. Please also note that we never offer any Legal/Taxation/Guaranteed Return scheme/advice, so never rely upon anybody offering any such scheme/service under our name. Only you shall be solely responsible for your acting upon such scheme/advice/recommendation. If you come across any such scheme, immediately contact our compliance officer prior to acting on such advice.
+© 2016 KIFS. All Rights Reserved
+|
+Privacy | Powered by Domy Innovations Cafe
+X
+IMP. CAUTION-DISCLAIMER FOR INVESTORS.
+Download

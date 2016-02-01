@@ -1,0 +1,147 @@
+https://www.slackware.com
+The Slackware Linux Project
+The Slackware Linux Project
+News
+Security AdvisoriesFAQBookGeneral InfoGet SlackInstall HelpConfigurationPackagesChangeLogsPropagandaPortsOther SitesSupportContactMailing ListsAbout
+Slackware 14.1 is released!
+After over a year of development (including the beta release and several
+release candidates to get everything polished up) we're proud to announce
+the availability of the new stable release. You'll find updates throughout
+the system, with the latest compilers and development tools, and recent
+versions of applications, window managers, desktop environments, and
+utilities.
+The Linux kernel is updated to version 3.10.17 (part of the
+3.10.x kernel series that will be getting long-term support from the kernel
+developers).
+The x86_64 version of Slackware also adds support for installing
+and booting on systems running UEFI firmware.
+For additional information, see the official announcement
+and the release notes.
+For a complete list of included packages, see the package list.
+Build scripts for all kinds of additional software for Slackware 14.1 can be found on
+the slackbuilds.org website.
+Need help?
+Check out our documentation site, docs.slackware.com.
+Stop by and share your knowledge!
+Please consider supporting the Slackware project by picking up a copy of the
+Slackware 14.1 release from the Slackware Store.
+The discs are off to replication, but we're accepting pre-orders for the
+official 6 CD set and the DVD.
+The CD set is the 32-bit x86 release, while
+the DVD is a dual-sided disc with the 32-bit x86 release on
+one side and the 64-bit x86_64 release on the other.
+Thanks to our subscribers and supporters for keeping Slackware going all these years.
+Thanks to the Slackware team for all the hard work getting 14.1 ready for action!
+And of course, thanks to all the open source developers upstream, and to the Slackware
+community on linuxquestions.org
+for all the help with bug reports, suggestions, and patches.
+We couldn't have done it without you.
+Enjoy the new stable release!
+Pat and the Slackware crew
++--------------------------+
+Slackware 14.1 for ARM is also available.
+For details, see: http://arm.slackware.com
+2013-11-07
+Slackware web site now delivered through Akamai
+The pressure of delivering the Slackware web site - especially at release time - has
+been an issue for some time.
+Akamai - the leading global Content Delivery Network - have generously
+provided us with extensive global content caching and Internet routing performance enhancements, allowing us
+to keep the site up, even at peak times.
+A big thanks to the guys at Akamai for making this happen.
+2013-11-03
+Slackware switching to the MariaDB database
+From today's Slackware -current ChangeLog:
+The big news here is the removal of MySQL in favor of MariaDB.
+This
+shouldn't really be a surprise on any level.
+The poll on LQ showed a large
+majority of our users were in favor of the change.
+It's my belief that
+the MariaDB Foundation will do a better job with the code, be more
+responsive to security concerns, and be more willing to work with the
+open source community.
+And while I don't think there is currently any
+issue with MySQL's licensing of the community edition for commercial uses,
+several threads on LQ showed that there is confusion about this, whereas
+with MariaDB the freedom to use the software is quite clear.
+Thanks are
+due to Heinz Wiesinger for his work on transitioning the build script,
+testing, and getting us all behind this move.
+He's been working with
+MariaDB (and their developers) for several years now.
+Vincent Batts also
+had a hand in the early discussions here -- he met Daniel Bartholomew of
+MariaDB on a train last year and got a copy of the source to play with to
+pass the time on the journey (ah, the miracle of thumbdrives :), and was
+impressed with not only MariaDB itself, but also with the welcome that
+Slackware was getting.
+We expect they'll be responsive to any concerns
+we have.
+In the vast majority of situations, MariaDB is entirely
+compatible with existing MySQL databases and will drop right in with no
+changes required.
+There's an article available outlining the areas in
+which MariaDB differs from MySQL that I'd recommend reading:
+https://kb.askmonty.org/v/mariadb-versus-mysql-compatibility/
+Thanks to the MariaDB Foundation!
+We look forward to working with you.
+For more information about MariaDB, visit their website:
+http://mariadb.org
+2013-03-23
+Slackware 14.0 is released!
+That's right, the long wait is finally over and a new stable release of Slackware
+has arrived!
+Since our last stable release, a lot has changed in the Linux and FOSS
+world.
+The kernel has moved on to major version 3 (we're using the long term supported
+3.2.29 kernel for this release), X.org has released X11R7.7, and Firefox has had a
+whopping *11* major releases to arrive at version 15.0.1!
+We've brought together the
+best of these and other modern components and worked our magic on them.
+You'll find
+new compilers (including the LLVM/clang compiler that's becoming a popular alternative
+to gcc), development tools, libraries, and applications throughout, all prepared with
+our careful and rigourous testing.
+If you've used Slackware before, you'll find the
+system feels like home.
+But we've also added new features such as NetworkManager for
+easy setup and management of wired and wireless networking (or, you can still use the
+traditional network setup if you prefer).
+And, we've updated the desktops and window
+managers to recent versions as well.
+For additional information, see the official announcement
+and the release notes.
+For a complete list of included packages, see the package list.
+Build scripts for all kinds of additional software for Slackware 14.0 can be found on
+the slackbuilds.org website.
+Need help?
+We've launched a new documentation site, docs.slackware.com.
+Thanks to Eric Hameleers for getting it up and running.
+Stop by and share your knowledge!
+Please consider supporting the Slackware project by picking up a copy of the
+Slackware 14.0 release from the Slackware Store.
+The discs are off to replication, but we're accepting pre-orders for the
+official 6 CD set and the DVD.
+The CD set is the 32-bit x86 release, while
+the DVD is a dual-sided disc with the 32-bit x86 release on
+one side and the 64-bit x86_64 release on the other.
+If you're looking for something
+stylish to wear for the end-of-the-world celebration coming up in December, be sure
+to check out our new Mayan themed Slackware 14.0 T-shirts!
+And we still have some
+13.37 shirts left, too, because leet never goes out of style.
+Thanks to
+our subscribers and supporters for keeping Slackware going all these years.
+Thanks to the rest of the Slackware team for all the hard work getting 14.0 ready for action!
+And of course, thanks to all the open source developers upstream, and to the Slackware
+community on linuxquestions.org
+for all the help getting things just exactly perfect.
+Have fun, and enjoy the new stable release!
+Pat and the Slackware crew
++--------------------------+
+Slackware 14.0 for ARM is also available.
+For details, see: http://www.armedslack.org
+2012-09-28
+Slackware® is a registered trademark of Slackware Linux, Inc.
+All logos and graphics are copyrighted.

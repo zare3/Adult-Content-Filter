@@ -1,0 +1,195 @@
+https://www.fmjam.com
+www.erol.name -
+Skip to content
+Menu
+Linux
+Windows
+Retro gaming
+Commodore 64
+Mobile
+Raspberry Pi
+Tips
+Remove SCSI faulty spare hdd from RAID with mdadm
+I manage a lot of servers with simple software RAID1 configuration. One of the disks started to fail notably on partition sdb8, so I had to set all other partitions to failed status before removing and replacing the disk:
+mdadm --manage /dev/md0 --fail /dev/sdb5
+mdadm --manage /dev/md3 --fail /dev/sdb7
+mdadm --manage /dev/md1 --fail /dev/sdb6
+After this my /proc/mdstat looked like this:
+cat /proc/mdstat
+Personalities : [raid0] [raid1] [raid10] [raid6] [raid5] [raid4]
+md2 : active raid1 sdb8[1](F) sda8[0]
+284019576 blocks super 1.0 [2/1] [U_]
+bitmap: 3/3 pages [12KB], 65536KB chunk
+md0 : active raid1 sda5[0] sdb5[1](F)
+528372 blocks super 1.0 [2/1] [U_]
+bitmap: 0/1 pages [0KB], 65536KB chunk
+md3 : active raid1 sda7[0] sdb7[1](F)
+4200436 blocks super 1.0 [2/1] [U_]
+bitmap: 0/1 pages [0KB], 65536KB chunk
+md1 : active raid1 sda6[0] sdb6[1](F)
+4199412 blocks super 1.0 [2/1] [U_]
+bitmap: 1/1 pages [4KB], 65536KB chunk
+unused devices: <none>
+Continue reading “Remove SCSI faulty spare hdd from RAID with mdadm”
+Author
+erolPosted on 14. 01. 2016Categories Linux, Tips, UncategorizedTags faulty, fdisk, grub, linux, manage, mbr, mdadm, mdstat, proc, raid, scsi, sdfdiskLeave a comment on Remove SCSI faulty spare hdd from RAID with mdadm
+Ultimate iCade Raspberry Pi bartop arcade mod – Part VII – touch button
+I have mentioned in one of my first iCade mod texts that I have used following component for coin slot:
+Adafruit Standalone Momentary Capacitive Touch Sensor Breakout
+Neat little sensor, that fits perfectly behind 25¢ plastic on iCade enclosure. It lights up when pressed, but this can easily be modified if needed. I like the red light so that I know that my tap was registered.
+I have connected the sensor to GPIO pin 23, together with 5V and GND.
+For some time I have used Adafruit’s Retrogame to get it running, so I will explain the needed changes to get it working.
+First you need to download the latest package from github and make appropriate changes in the file “retrogame.c” to get this button to work.
+wget https://github.com/adafruit/Adafruit-Retrogame/archive/master.zip
+unzip master.zip
+cd Adafruit-Retrogame-master/
+First step is to edit the correct pin where you have connected your touch button, so find in code following:
+{ 7, KEY_LEFTALT }, // B/Bomb/secondary
+// For credit/start/etc., use USB keyboard or add more buttons.
+{ -1, -1 } }; // END OF LIST, DO NOT CHANGE
+Above comment line starting with “//” add following line:
+> { 23, KEY_ESC }, // Exit key
+Find the following line to since we are using pulldown button it needs to be changed:
+gpio[GPPUD] = 2; // Enable pullup
+change it to:
+gpio[GPPUD] = 0; // Enable pulldown
+Then we need to invert the button state since touch sensor is actually seding true if not pressed and false if pressed, so find:
+pinConfig(io[i].pin, "active_low", "0"); // Don't invert
+and change to:
+pinConfig(io[i].pin, "active_low", "1"); // Don't invert
+Now you can compile the code and test it with running:
+./retrogame
+If it you are satisfied with the result you can edit your rc.local and add this to the end of the file before “exit 0”:
+/home/pi/Adafruit-Retrogame/retrogame &
+Update:
+Last few days I have been using even better program with excellent installer and even Web GUI called GPioneer. Check out the following link:
+https://github.com/mholgatem/gpioneer
+Everything is really well documented so there is no need for special instructions.
+You can change your config on the go with simple, yet effective Web GUI.
+Author
+erolPosted on 13. 12. 201525. 12. 2015Categories Raspberry Pi, Retro gamingTags adafruit, gpionner, icade, mod, raspberrypi, retrogame, retropi, sensor, touchLeave a comment on Ultimate iCade Raspberry Pi bartop arcade mod – Part VII – touch button
+Find files in sub-directories and unpack them in place
+I have a lot of zip and rar archives in various sub-directories, which I wanted to extract but to leave the files in their sub-directories.
+I have used for a long time this command to search for files and extract them in working directory:
+find ./ -iname "*.zip" -print0 | xargs -0 -I {} 7z -y x {}
+Which works OK if you want your files all to be extracted to the directory where you started the find command. But to leave files in their own folder this command was not appropriate.
+It seems that find command has this neat flag called “-execdir” which does exacty that what I wanted, so here are few examples:
+Find all zip files in sub-directories and unzip them in place using unzip:
+find ./ -iname "*.zip" -execdir unzip '{}' ';'
+Find all rar files in subdirectories and unzip them in place using unrar:
+find ./ -iname "*.rar" -execdir unrar e '{}' ';'
+The same using 7zip would look like:
+find ./ -iname "*.zip" -execdir 7z -y x '{}' ';'
+and
+find ./ -iname "*.rar" -execdir 7z -y x '{}' ';'
+Later on if you want to delete your zip and rar files and only leave the contents you can use similar command from where I have started.
+For example to delete all rar archives that are named .rar, r00, r01 … r0x you can use:
+find ./ -iname "*.r??" -print0 | xargs -0 -I {} rm {}
+and similar you can can use to delete zip files, but please make sure that you don’t have zip files in your zip archives that you do not want to delete:
+find ./ -iname "*.zip" -print0 | xargs -0 -I {} rm {}
+Author
+erolPosted on 29. 11. 201530. 11. 2015Categories Linux, TipsTags 7zip, find, linux, print, rar, sub-directories, unrar, unzip, xargs, zipLeave a comment on Find files in sub-directories and unpack them in place
+How to additionally clean-up Kodi MySQL database from unwanted entries
+If you are like me using Kodi (XBMC) library to manage all your multimedia files you are probably used to updating and cleaning your library after adding or deleting new files.
+My library at the moment consists of 15121 files total, but after examining it in PHPMyAdmin I have noticed that files table contains also some entries that point to non-existing idPath from path table and other files that are pointing to a path that is non-local (HTTP or plugin instead of regular system path).
+I decided to clean up my library and to delete all files from files table and paths from paths table that point to non-local file system.
+Before you begin make sure to backup your database.
+Check to see if you have entries in your files table that have non existing idPath reference to path table.
+SELECT *
+FROM files AS f
+WHERE f.idPath NOT IN
+(
+SELECT idPath
+FROM path
+);
+If you have such entries you can easily delete them with small change to this SQL statement:
+DELETE
+FROM files AS f
+WHERE f.idPath NOT IN
+(
+SELECT idPath
+FROM path
+);
+Check path entries that point to something else than local file system:
+SELECT * FROM path
+WHERE strPath NOT LIKE "/%" OR strPath IS NULL;
+You will probably find some path entries that refer to some plugins or HTTP addresses.
+Select all files from files table which refer to non-local path or local path is empty:
+SELECT * FROM files AS f
+LEFT JOIN
+path AS p
+ON p.idPath = f.idPath
+WHERE p.strPath NOT LIKE "/%" OR p.strPath IS NULL;
+It is easier to analyze if you do a join to see results in parallel. In my case result was showing 193 files in total.
+Show just results from files table without join:
+SELECT * FROM files WHERE idPath IN
+(
+SELECT idPath
+FROM path
+WHERE strPath NOT LIKE "/%" OR strPath IS NULL
+);
+Again you should see 193 rows and you can delete them with following statement:
+DELETE FROM files WHERE idPath IN
+(
+SELECT idPath
+FROM path
+WHERE strPath NOT LIKE "/%" OR strPath IS NULL
+);
+Result should be 193 rows deleted.
+Now you can go to clean up your paths from path table where path is not local or empty.
+SELECT * FROM path
+WHERE strPath NOT LIKE "/%" OR strPath IS NULL;
+In my case I found 125 paths total. And to delete them you can use:
+DELETE FROM path
+WHERE strPath NOT LIKE "/%" OR strPath IS NULL;
+I will probably update this article later with details how to automate this task via cron job.
+Author
+erolPosted on 20. 11. 201525. 12. 2015Categories Linux, TipsTags database, delete, files, idpath, kodi, mysql, optimization, path, strpath, xbmcLeave a comment on How to additionally clean-up Kodi MySQL database from unwanted entries
+How to open epub files in Okular on Debian Jessie
+My preferred desktop environment for years has been KDE because of it’s tools and configurability. I like also XFCE, but for my day to day use I find KDE more enjoyable.
+One of the applications that really makes a difference is in my opinion the best reader program available called Okular.
+It is described as universal document viewer and it really is since you can open different kind of documents, like PDF, Postscript, DjVu, CHM, XPS, ePub and others.
+With ePub on my Debian Jessie installation I found out that ePub documents are not associated with Okular and I was not able to open them out of the box.
+All you need to get it working is to install one additional package:
+apt-get install okular-extra-backends
+After this you can open ePub document without any issues.
+Author
+erolPosted on 05. 11. 2015Categories Linux, TipsTags backends, chm, debian, djvu, epub, jessie, okular, pdf, postcript, xpsLeave a comment on How to open epub files in Okular on Debian Jessie
+Posts navigation
+Page 1
+Page 2
+…
+Page 19
+Next page
+Search for:
+Search
+Recent Posts
+Remove SCSI faulty spare hdd from RAID with mdadm
+Ultimate iCade Raspberry Pi bartop arcade mod – Part VII – touch button
+Find files in sub-directories and unpack them in place
+How to additionally clean-up Kodi MySQL database from unwanted entries
+How to open epub files in Okular on Debian Jessie
+Categories
+Commodore 64
+Linux
+Mobile
+Raspberry Pi
+Retro gaming
+Tips
+Uncategorized
+Windows
+Recent Commentserol on Windows 10 upgrade from Windows 7 on Fujitsu-Siemens Amilo Si 1520Tewr on Windows 10 upgrade from Windows 7 on Fujitsu-Siemens Amilo Si 1520Meta
+Log in
+Entries RSS
+Comments RSS
+WordPress.org
+Linux
+Windows
+Retro gaming
+Commodore 64
+Mobile
+Raspberry Pi
+Tips
+www.erol.name
+Proudly powered by WordPress
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept Read More

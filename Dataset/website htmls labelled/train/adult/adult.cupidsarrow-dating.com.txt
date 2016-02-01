@@ -1,0 +1,40 @@
+https://www.adult.cupidsarrow-dating.com
+Home
+SC Assist
+Search...
+HomeAbout UsNewsContact Us
+Creating Your Site
+Print
+Email
+Details
+Written by Joomla
+Category: Uncategorised
+Published: 04 January 2012
+Hits: 32609
+Joomla! is all about allowing you to create a site that matches your vision. The possibilities are limitless; this sample site will get you started.
+There are a few things you should know to get you started.
+Every Joomla! Web site has two parts: the Site (which is what your site visitors see) and the Administrator (which is where you will do a lot of the site management). You need to log in to the Administrator separately with the same username and password. There is a link to the administrator on the top menu that you will see when you log in.
+You can edit articles in the Site by clicking on the edit icon. You can create a new article by clicking on the Create Article link in the top menu.
+To do basic changes to the appearance your site click Home, Site Settings and Home, Template Settings.Â
+To do Â more advanced things, like edit the contact form, manage users, or install a new template or extension, login to the Administrator.
+Some quick tips for working in the Administrator
+To change the image on all the pages: Go to the Module Manager and click on Image Module.
+To edit the Side Module: Go to Extensions, Module Manager and click on Side Module.
+To edit the Contact Form: Go to Components, Contacts. Click on Your Name.
+Once you have your basic site you may want to install your own template (that controls the overall design of your site) and then, perhaps additional extensions.
+There is a lot of help available for Joomla!. You can visit the Joomla! forums and the Joomla! documentation site to get started.
+You are here:  Home
+Side Module
+This is a module where you might want to add some more information or an image,
+a link to your social media presence, or whatever makes sense for your site.
+You can edit this module in the module manager. Look for the Side Module.
+Login Form
+User Name
+Password
+Remember Me
+Log in
+Create an account
+Forgot your username?
+Forgot your password?
+Back to Top
+© 2016 SC Assist

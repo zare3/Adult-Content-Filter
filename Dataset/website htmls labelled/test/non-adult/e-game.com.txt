@@ -1,0 +1,16 @@
+https://www.e-game.com
+mikrotik routeros > administration
+webbox 6.27 login:
+Winbox
+Winbox is the graphical configuration application for RouterOS. Download it, run it and connect to your router - all RouterOS functionality can be controlled with this application.
+Webbox
+This is a web based configuration interface for RouterOS. Log in above to connect to this router - some of the most important RouterOS features can be controlled within this interface.
+Telnet
+Connect with telnet and you will have access to the command line interface of RouterOS, every function of RouterOS can be controlled with it.
+Graphs
+These graphs show you statistical information about your router's interfaces and the traffic that goes through them. Before you use Graphs, you have to configure them.
+Documentation
+We have written many tutorials, examples and manuals for RouterOS, all of which are available here on our homepage. If you get into trouble, you can always ask for technical support.
+License
+Mikrotik, RouterOS and the Mikrotik logo are registered trademarks of Mikrotikls SIA. Please read the license
+mikrotik routeros 6.27 configuration page

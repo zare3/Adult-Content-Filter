@@ -1,0 +1,64 @@
+https://www.mysports.tv
+Home | MySports - bring sports to life
+Menu
+home
+live timing
+live apps
+live social
+race-video
+photography
+job vacancies
+our team
+OUR EVENTS
+HQ Videos & Photos
+Enjoy the best of sports, high quality personal videos and photos!
+Live timing
+Accurate timing services, quick delivery of results
+Live event apps
+Great tools at hand, track participants real time
+Live social media
+Live postings on social media, great exposure for sponsors
+Live timing
+MySports provides a total timing solution using UHF RFID technology for running, cycling, triathlon and special events
+@Html.ActionLink("Read more", "timing-services", "services", null, new { @class = "btn btn-2" })
+Race video
+MySports delivers high quality personal videos and photos of participants
+@Html.ActionLink("Read more", "race-video", "services", null, new { @class = "btn btn-2" })
+Live event apps
+Participants or fans can follow race and sport event real time. Available for Android and iOS
+@Html.ActionLink("Read more", "mobile-apps", "services", null, new { @class = "btn btn-2" })
+Live social media
+Great exposure, for sponsors and participants. Real time facebook posts
+@Html.ActionLink("Read more", "social-media-services", "services", null, new { @class = "btn btn-2" })
+Why choose us?
+High quality products
+Affordable services
+We make your job easier to do
+Great experience for your organisation
+Big exposure for your sponsors
+Fast delivery
+Package deals (buy more - pay less)
+Friendly and well trained employees
+Our Track Record:
+Timing of 525.000 athletes a year
+Cycling, running, mtb
+Swimming, mud races
+Triathlon, hockey and basketball
+Active in 12 countries
+45 brand activations
+First to time swimming in open water
+First to launch GPS
+First to launch RFID app technology
+Promotion video
+Address
+Koos Postemalaan 4
+1217 ZC
+Hilversum
+The Netherlands
+Contact information
+Office: +31(0) 20 893 2351
+Mobile: +31(0) 6 27743424
+Email: info@mysports.tv
+Chamber of Commerce registration number: 30213358
+More information about you can find here.
+© All rights reserved | MySports B.V.

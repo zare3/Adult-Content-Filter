@@ -1,0 +1,26 @@
+https://www.technomidi.com
+Swishmail.com :: Welcome
+HordeH5 (6.2.9)
+Atmail7.5.1
+Roundcube1.1.1
+Horde (Legacy)H3 (4.3.10)
+Control Panel
+Support
+Mode: Standard | Secure
+How to access your Email?
+Using Web Mail
+To access Web Mail for your domain, you need to point your browser to: http://mail.yourdomain.com where yourdomain.com is the domain name for your email system. You may access three production ready Web Mail clients, Horde, Atmail and Roundcube.
+Using Email Client
+For POP3/IMAP accounts the login info should be in this format:username: username@yourdomain.com   password:  yourpasswordPOP3/IMAP server (incoming): mail.yourdomain.com You may use vorlon.swishmail.com as wellPOP3-SSL/IMAP-SSL server (incoming): vorlon.swishmail.com
+SMTP Server (outgoing): Your ISP's SMTP server. Provided by your ISP or your Network Administrator.
+If you wish to use mail.yourdomain.com or vorlon.swishmail.com as your SMTP Server, please use username/password SMTP authentication.
+Note: Some large ISP's, like AOL, MSN, Verizon, RoadRunner, Cox, Comcast, MindSpring, and Earthlink, block access to outside SMTP servers. If you are a user of one of those ISP's, you will need to use your ISP's SMTP server, which should allow you to send email as FROM you@yourdomain.com. You may also use our Web Mail system to send email. Or try to use port 2525 using your outgoing mail server (SMTP) ex. mail.yourdomain.com port 2525 instead of the default port 25.
+Email Account Contol Panel
+To access email account Control Panel for your domain, you need to point your browser to: http://mail.yourdomain.com where yourdomain.com is the domain name for your email system, and click on the Control Panel link.
+Note: If you have trouble creating accounts using the control panel, please email us at support@swishmail.com a list of email accounts you would like created. Pop accounts should be created with just the username, not full email address. Do not use blank or space in account names. Also do not use quotes or apostrophes in user names.
+Changing Passwords, Creating Vacation/Autoresponder message
+To change a user password, proceed to email account Control Panel and instead of logging in as postmaster, login using your username, your domain name, and your password. From there you will be able to change your password as well as create/remove Vacation/Auto responder message.
++1 212-937-4336
+support@swishmail.com
+Contact
+Copyright © 1999-2014 Swishmail. All Rights Reserved.

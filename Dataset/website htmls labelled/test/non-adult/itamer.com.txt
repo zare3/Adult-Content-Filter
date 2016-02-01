@@ -1,0 +1,256 @@
+https://www.itamer.com
+iTamers Simple SEO | Sarah King's blog and programming examples
+iTamers Simple SEO
+Sarah King's blog and programming examples
+Menu
+Skip to content
+Home
+New Zealand
+Technical Discussions
+Read More
+About Sarah King
+Categories
+Books
+CakePHP
+Directory Management
+Fun and SEO Games
+Mambo / Joomla
+New Zealand
+Other Stuff
+PHP & Web Development
+Portfolio
+Reviews
+Search Engine Optimisation
+Shoemoney
+Social Media
+Spore
+Sport
+Technical Discussions
+WordPress
+Recent Comments
+Helge Sverre Hessevik Liseth on Anatomy of an Adsense ScamJoseph Tamargo on Pump need to get responsiveTravis on Getting real about SurveillanceHelge Sverre Hessevik Liseth on Oh the irony, Google doesn’t like being spidered!Wet Head Pump Repair on How not to promote yourself
+Tags
+adsense
+akismet
+auckland
+blog
+blogger
+bmx
+cms
+crime
+digitalpoint
+directory
+dmoz
+domains
+email
+forum
+forums
+fraud
+google
+googlebot
+html
+images
+internet
+javascript
+joomla
+keywords
+kids
+kiwi
+link-vault
+Mambo / Joomla
+mtb
+New Zealand
+odp
+phishing
+php
+property-investment
+rss
+scam
+seo
+serps
+sitemap
+spam
+submission
+vbulletin
+viral-marketing
+wordpress
+xml
+2. Essentials
+Digitalpoint
+Favicon generator
+phpClasses.org
+R&OS PDF tool
+Real Estate Webmasters
+Ultimate Column Generator
+Weber Forums
+Wowexe.exe
+3. Code Examples
+Directory cleanup
+Link Manager for Link Exchangers
+Protect your email addresses online
+4. Social Networking
+Facebook
+Linked In
+MySpace
+Propeller
+Squidoo
+Stumbleupon
+Twitter
+Zoints
+5. Just for fun
+Christmas Lights
+Halloween Decorations
+Recent Updates
+Toggle Comment Threads | Keyboard Shortcuts
+Sarah King
+1:37 pm on December 3, 2014
+Permalink
+| Reply
+Tags: cosmetic surgery, fake sites, miami, plastic surgery
+A case study in deception Every so often you stumble across a site that looks like it might just be the legitimate face of a legitimate business but then you scratch the surface and, oh dear, it’s not.
+Take a look at this doozy. Plastic (ie cosmetic) surgery for Florida, Miami. Given the stereotypes for that state I imagine there’s lots of demand but I may be wrong.
+I’d expect the well established clinics to have domains that use their names and that perhaps a keyword domain, such as the one pictured on the right, to belong to one of the newer, hungrier clinics.
+This one looks good, it has a patient testimonial and info about Dr Bryant Michaels. Quite why he lives in Pennsylvania when he’s practicing in Miami is beyond me but my US geography isn’t too hot and maybe that works for him. (More …)
+Share this:FacebookTwitterGoogleLike this:Like Loading...
+Leave a Reply Cancel reply
+Sarah King
+11:59 am on November 21, 2014
+Permalink
+| Reply
+Tags: adsense ( 8 ), click-fraud ( 3 ), hp ( 2 ), youtube ( 3 )
+Anatomy of an Adsense Scam Google’s adsense program is well established, highly developed and, no doubt, employs highly motivated programmers whose primary goal is to ensure that Adsense is successful. That’s my view.
+I’m not entirely sure how other people see them – there seems to be a belief that it’s easy money for publishers and that they’re easily fooled. Companies like Hewlett Packard (HP) didn’t take me seriously when I tried to tell them about a scam being run from their call centres.
+The latest clown to catch my attention was over at the digitalpoint forums and here’s some of his posting history (from his profile he appears to be male). (More …)
+Share this:FacebookTwitterGoogleLike this:Like Loading...
+Helge Sverre Hessevik Liseth is discussing.				Toggle Comments
+Helge Sverre Hessevik Liseth
+6:51 am on December 3, 2014
+Permalink
+Sometimes i cringe when I read entries left by complete idiots on DP, it just seems like people don’t fucking get it.
+Enjoyed this post, thanks for posting
+Sarah King
+2:43 pm on November 18, 2014
+Permalink
+| Reply
+Tags: link checking, site admin, xenu ( 2 )
+Using Xenu to crawl your own sites I’ve used Xenu for years – probably as long as I’ve been coding websites – and it’s been around longer than that. You’ll see from the website that it’s incredibly old school, but sometimes the tried and tested tools are the ones you should stick with.
+I’ve just helped a friend merge two sites together and we’ve used mysql to change some of the internal links but there’s still a chance that some might have been missed. Xenu will let him know what the state of play is. (More …)
+Share this:FacebookTwitterGoogleLike this:Like Loading...
+Sarah King
+11:43 am on November 9, 2014
+Permalink
+| Reply
+Pump need to get responsive
+Lots of small companies don’t get it right with their websites and, to a certain extent, that’s ok because their focus  is on their core business.
+Pump – the makers of plastic bottles they fill with water – are owned by Coca Cola Amatil and, it could be argued, they are an enormous marketing machine whose product costs less than the packaging, distribution and marketing do.
+Being part of Coca Cola there’s the expectation that they will do marketing well, really well. So I was really surprised at this little snafu. Surely the company has guidelines for different types of marketing activity – or a template of tried and true steps. I know they’ve done this kind of thing before in NZ, surely they have in other countries too?! Don’t they share their knowledge within the company?
+I’d been volunteering for the Auckland Marathon during registration and the volunteers were all given a banana and a bottle of Pump water midway through their shift.
+The Pump bottles have a code on them that you can text through to enter a competition. You get a response telling you there is more info on their website. I figured that I’d enter during a lull in the flow of runners registering and coming up to the Help Desk that I was manning.
+I’ve just entered on my phone, got the confirmation on my phone so it was perfectly logical to then go to get that “more info” using my phone.
+The info that I can see on my phone takes up a tiny portion of the screen and is really hard to read.
+It wasn’t hard to get the gist of what the page was about but it seemed to be a waste of valuable real estate and appeared to reflect an old school, big screen mentality. I’m really astounded that the design didn’t have any responsiveness in it all.
+I wanted to know if I had to keep the label as proof of entry – some Coca Cola competitions have done that and I’ve ended up with a desk of flimsy plastic labels.
+I clicked on the Terms and Conditions button – oh and what a joke. They seriously think I’m going to be able to read this on my phone
+FWIW I never actually found out if I needed to keep the label.
+Share this:FacebookTwitterGoogleLike this:Like Loading...
+Joseph Tamargo is discussing.				Toggle Comments
+Joseph Tamargo
+1:26 pm on November 9, 2014
+Permalink
+Hey –
+Great post – I totally agree, some companies are just worried about the brand and sales,
+I for one, for the last four years have made all my websites responsive,
+I check my websites on friends phones and also my phone etc,
+The funny thing , is as I was downloading a new copy of Filezilla tonight, I saw a banner ad on Sourceforge for ONE CLICK payments by Brain Tree and PayPal ,
+They were launching and promoting a new product for webmasters/ phones, so you could check out in one click with your phone,
+So bringing this back around to what you said, yeah, some companies need to catch up fast :))
+Great post, Keep writing,
+God bless
+Joseph
+Sarah King
+8:38 am on October 2, 2014
+Permalink
+| Reply
+Facebook Account Reporting needs Review I love social login and use it frequently on sites where I want to comment or buy something. I’m a bit choosy about when I use Google, Facebook or opt to create an account using just my email.
+Digitalpoint forces new users from certain countries to use Facebook to create their accounts – figuring that by adding a step it’s that little bit harder for spammers and scammers. It’s an interesting idea but it’s hard to say it’s working.
+Take the Rita’s for example. (More …)
+Share this:FacebookTwitterGoogleLike this:Like Loading...
+Sarah King
+9:34 am on September 17, 2014
+Permalink
+| Reply
+Tags: GCSB, NSA, Surveillance
+Getting real about Surveillance There has been so much noise in the NZ media about surveillance, the GCSB and NSA and what is or isn’t being done.
+Seriously? 28k searches in a month?
+In the meantime we are all blindly using the internet with no real thoughts about keeping ourselves safe. I don’t use secure email and I only know one person who does. I don’t use anonymous browsing, I’m always logged in to Google – and it can give me some scary stats about my own internet use. There wasn’t even 1 day in August where I didn’t search for a thing?
+How many of us really understand how the Internet works – or give a thought to the mechanics of it all? We pay our ISP and magically we can connect with computers all over the world to get information. We are more realistic about how websites pay for themselves and somehow teens talking about makeup become YouTube sensations and earn not just a living but a fortune.
+Lets take a typical web request to facebook – most of us have accounts and use it. (More …)
+Share this:FacebookTwitterGoogleLike this:Like Loading...
+Travis is discussing.				Toggle Comments
+Travis
+2:48 pm on November 5, 2014
+Permalink
+Couldn’t agree more. I don’t think much I do online is all too secure haha. Sounds like I do what you do. Maybe we just hold to the truth, that if you don’t do anything “too” bad (relative 😉 ), there’s no reason to worry.
+I like this line,” At the back of your mind there is the whole Big Brother thing and what if, sometime in the future, there’s a lynch mob against people who do certain things?”
+That’s funny you put it like that, because you really never know. One thing could be “evidence” for something > that you never actually did…sort of thing.
+I think it’s just best to assume everything is watched…as long as it’s not debilitating 😉
+Sarah King
+9:53 am on August 12, 2014
+Permalink
+| Reply
+Tags: nz ( 3 ), seo ( 28 )
+How not to promote yourself I received an email sent to a client and although it looked like spam I felt I should give it a double check. BrandRoot SEO LLC
+Given that the sender was in NZ I thought I’d see what the locals are doing in this area – and he appears to have several offices so it must be employing several people and working with quite a few clients.
+Alas, there were no clickable links in his email and google searches for BrandRoot, his gmail address and his full name (based on his gmail address as the email only gives his first name) were fruitless.
+Surely if a company specialises in making websites visible theirs should be a showcase in SEO marvelousness?
+Share this:FacebookTwitterGoogleLike this:Like Loading...
+Wet Head Pump Repair,
+Sarah King, and
+Dave Smyth are discussing.				Toggle Comments
+Dave Smyth
+1:17 pm on August 12, 2014
+Permalink
+LLC normally means it’s an American company and I doubt it’s based here at all!
+Sarah King
+4:26 pm on August 12, 2014
+Permalink
+LOL, I misread it as LLB and thought he was an ex-Lawyer.
+The grouping of Tauranga and Dunedin together is interesting, don’t you think?
+Wet Head Pump Repair
+2:32 pm on August 19, 2014
+Permalink
+We get emails like that here in America as well. They always make me laugh :))
+Wet Head Pump Repair
+2:34 pm on August 19, 2014
+Permalink
+How many resources will that puppy use IF you did not cancel out that like and had 100 people online logged in 😉
+Sarah King
+9:38 pm on July 13, 2014
+Permalink
+| Reply
+Tags: google ( 40 )
+Oh the irony, Google doesn’t like being spidered! There’s a delicious irony when the site that we expect to spider our sites doesn’t like to be spidered itself.
+I’d run a search and then opened each of the results, worked through them and flicked to page 2 and repeated. I then went to refresh page 2, not sure why, and got this lovely little “are you human” check.
+Why, yes I am! and it let me proceed.
+Now, this doesn’t affect me in any way, if I have to occasionally enter in a captcha it’s not a big deal.
+Has anyone had any problems because of this?
+Share this:FacebookTwitterGoogleLike this:Like Loading...
+Helge Sverre Hessevik Liseth is discussing.				Toggle Comments
+Helge Sverre Hessevik Liseth
+10:06 am on September 17, 2014
+Permalink
+I run an automated tool that goes out and fetches the keyword rankings for my sites about every day, i check upwards of 50-70 keywords, up to the 30th page, i have to enter a few Captchas along the way.
+← Older posts
+Proudly powered by WordPress.
+Theme: P2 by WordPress.com.
+cCompose new post
+jNext post/Next comment
+k Previous post/Previous comment
+r Reply
+e Edit
+o Show/Hide comments
+t Go to top
+l Go to login
+h Show/Hide help
+shift + esc Cancel
+%d bloggers like this:

@@ -1,0 +1,144 @@
+https://www.debian.org
+Debian -- The Universal Operating System
+Skip Quicknav
+About Debian
+Getting Debian
+Support
+Developers' Corner
+Download Debian 8.2(32/64-bit PC Network installer)
+Debian
+Debian is a
+free operating system (OS) for your computer.
+An operating system is the set of basic programs and utilities that make
+your computer run.
+Debian provides more than a pure OS: it comes with over
+43000 packages, precompiled software bundled
+up in a nice format for easy installation on your machine. Read more...
+About
+Social Contract
+Code of Conduct
+Free Software
+Partners
+Donations
+Contact Us
+Help Debian
+Getting Debian
+Network install
+CD/USB ISO images
+CD vendors
+Pre-installed
+Developers' Corner
+Debian Packages
+News
+Project News
+Events
+Documentation
+Release Info
+Installation manual
+Debian Books
+Debian Wiki
+Support
+Debian International
+Security Information
+Bug reports
+Mailing Lists
+Mailing List Archives
+Ports/Architectures
+Miscellaneous
+Site map
+Search
+The Debian Blog
+The latest stable release of Debian is
+8.2. The last update to this release was made on
+September 5th, 2015. Read more about available
+versions of Debian.
+Getting Started
+If you'd like to start using Debian, you can easily obtain a copy, and then follow the installation instructions to
+install it.
+If you're upgrading to the latest stable release
+from a previous version, please read the release notes before
+proceeding.
+To get help in using or setting up Debian, see
+our documentation and support
+pages.
+Users that speak languages other than English should
+check the international section.
+People who use systems other than Intel x86 should check the ports section.
+RSS
+News
+[05 Jan 2016] Debian Project mourns the loss of Ian
+Murdock
+[05 Sep 2015] Updated Debian 8: 8.2 released
+[05 Sep 2015] Updated Debian 7: 7.9 released
+[17 Aug 2015] Debian and Software Freedom Conservancy announce Copyright Aggregation Project
+[05 Aug 2015] DebConf15 - Debian Conference in Heidelberg
+[06 Jun 2015] Updated Debian 8: 8.1 released
+For older news items see the News Page.
+If you would like to receive mail whenever new Debian news comes out, subscribe to the
+debian-announce mailing list.
+RSS
+Security Advisories
+[13 Jan 2016] DSA-3445 pygments - security update
+[13 Jan 2016] DSA-3444 wordpress - security update
+[13 Jan 2016] DSA-3443 libpng - security update
+[13 Jan 2016] DSA-3442 isc-dhcp - security update
+[11 Jan 2016] DSA-3441 perl - security update
+[11 Jan 2016] DSA-3440 sudo - security update
+[10 Jan 2016] DSA-3439 prosody - security update
+[09 Jan 2016] DSA-3438 xscreensaver - security update
+[09 Jan 2016] DSA-3437 gnutls26 - security update
+[08 Jan 2016] DSA-3436 openssl - security update
+[05 Jan 2016] DSA-3435 git - security update
+[05 Jan 2016] DSA-3434 linux - security update
+[02 Jan 2016] DSA-3433 samba - security update
+[01 Jan 2016] DSA-3432 icedove - security update
+[01 Jan 2016] DSA-3431 ganeti - security update
+For older security advisories see the
+Security Page.
+If you would like to receive security advisories as soon as they're announced, subscribe to the
+debian-security-announce
+mailing list.
+This page is also available in the following languages:
+عربية (Arabiya)
+Български (Bəlgarski)
+català
+česky
+dansk
+Deutsch
+Ελληνικά (Ellinika)
+español
+Esperanto
+فارسی (Farsi)
+français
+Galego
+한국어 (Hangul)
+Հայերեն (hayeren)
+hrvatski
+Indonesia
+Italiano
+עברית (ivrit)
+Lietuvių
+magyar
+Nederlands
+日本語 (Nihongo)
+norsk (bokmål)
+polski
+Português
+română
+Русский (Russkij)
+slovensky
+suomi
+svenska
+தமிழ் (Tamil)
+Tiếng Việt
+Türkçe
+українська (ukrajins'ka)
+中文(简)
+中文(HK)
+中文(繁)
+How to set the default document language
+To report a problem with the web site, e-mail debian-www@lists.debian.org. For other contact information, see the Debian contact page. Web site source code is available.
+Last Modified: Thu, Dec 31 14:06:33 UTC 2015
+Copyright © 1997-2015
+SPI and others; See license terms
+Debian is a registered trademark of Software in the Public Interest, Inc.

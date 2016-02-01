@@ -1,0 +1,253 @@
+https://www.citizensbank.com
+Personal Finance,
+Secure Online Banking & Business Solutions | Citizens Bank
+Primary Navigation
+Personal
+Investing
+Small Business
+Commercial
+About Us
+Login
+Search
+Secondary Navigation
+Checking & Savings
+Home Borrowing
+Students
+Credit Cards
+Tertiary Navigation
+Explore Checking & Savings Solutions
+Solutions
+Checking
+Savings
+Money Markets
+Certificates of Deposit (CDs)
+IRAs
+Standard Features
+Online & Mobile Banking
+Programs & Services
+Benefits & Features
+Overdraft Choices®↗
+Account Documents
+One Deposit Checkingfrom Citizens Bank™
+Our new checking account. One deposit each statement period waives the monthly maintenance fee.
+Learn More
+Explore Home Borrowing Solutions
+Solutions
+Mortgages
+Home Equity Loans
+Home Equity Lines of Credit
+What's your Borrowing Need?
+Helpful Tools
+& Information
+Get Started
+Determine My Rate
+Start the Home Equity Process
+Start the Mortgage Process
+Why Start Online
+Making Home Affordable Act
+Current Customers
+My Mortgage Account
+Make a Home Equity Payment
+Order Home Equity Checks
+Explore Students Solutions
+Student Loan Options
+Student Loan
+Student Loan for Parents NEW!
+Graduate Student Loans
+Education Refinance Loan
+The Student Loan Process
+Undergraduate Students & Parents
+Graduate Students
+Continuing Education/Adult Students
+Making The Right Decisions
+Tools & Information
+New Citizens Bank Student Loan™ for Parents
+Get an average fee savings of $637* with a better alternative to the Federal PLUS Student Loan.
+Help me Save
+Explore
+Credit Cards Solutions
+Solutions
+Citizens Bank Cash Back Plus™ World MasterCard®
+Citizens Bank Clear Value™ MasterCard®
+Information
+Log Into Your Account
+Security Features
+Citizens Bank Cash Back Plus™ World MasterCard®
+A new card with unlimited earning potential. Earn up to 1.8% cash back with our Purchase and Relationship Bonuses.
+Learn More
+There's a simple way to waive monthly fees.
+Ask a Citizen aboutOne Deposit Checkingfrom Citizens Bank.®
+Learn More
+Jennifer Medeiros, Customer Experience Advocate
+Ask me how much you can save on your student loans.
+Refinance your student loans and start saving today. Customers have saved an average of $1,764 per year.*
+Save Now
+Refinance your student loans and save. Customers have saved an average of...
+$147 per month*
+$1,764 per year*
+Start Saving
+What would you do with your student loan savings?
+Refinance your student loans and save. Customers have saved an average of $147 per month.*
+Start Saving
+Secure login to online banking
+Personal / Small Business
+Web Cash Management
+Credit Card Online Services
+Access My Mortgage
+Access My Student Loan
+401(k) Account Access
+Brokerage Services
+Pay My Loan
+Login
+Trouble Logging In?
+Enroll Now
+It's official. Our smartphone app is a "2014 Mobile Banking Leader." 1
+Try our award winning app
+Checking & Savings
+Low minimum balances, added benefits, simple banking solutions.
+Home Borrowing
+Down payments, closing costs, clear terms make borrowing easy.
+Students
+Student loans, college savings, long-term planning for your future.
+Cards
+Low-APR, 24/7-online access, benefits and rewards you deserve.
+
+
+Business Checking That's Clearly Better
+No minimum balance requirement or monthly maintenance fee. Clearly Better Business Checking is our NEW business checking account. Now, you can grow your business and your balance.
+Learn More
+Less Student Debt. More financial freedom.
+Refinance your student loans and save.
+Customers have saved an average of
+$1,764 per year.*
+Save Now
+Grow your money with our 1.00% Annual Percentage Yield14-month CD
+Lock in a competitive rate with our high-yield 14-Month CD. This exclusive offer is available online only.
+Learn More
+Transfer balancesand save!
+0% Intro APR on balance transfers for the first 12 billing cycles. After that, for the Cash Back Plus™ World MasterCard®, yourAPR will range from 14.99% to 20.99%.
+Learn More
+Pay lessfor payroll
+Get 10% off payment processing and a 90-day, money-back guarantee with Paychex®, our easy payroll service.
+Learn More
+Community
+Teaching healthy financial practices to adults and children is one way we give back. See how we’re supporting financial literacy in our neighborhoods.
+our community efforts
+Announcements Use our Online Fraud Protection Center to identify and fight fraud.
+Important Disclosures regarding the FDIC Deposit Insurance Rules.
+Important 2015 IRA Rollover Rules announced. Learn More
+About Us
+Citizens Financial Group, Inc. got its start as a small community bank in Providence, Rhode Island. Today, we're in more than 11 states, thanks to you.
+Our History
+See a banker for details and deposit insurance coverage limitations.
+Apple, the Apple logo and Apple Watch are trademarks of Apple Inc., registered in the U.S. and other countries.  App Store is a service mark of Apple Inc. Android and Google Play are trademarks of Google Inc.
+Mortgages are offered and originated by Citizens Bank, N.A. All loans are subject to individual approval.
+All accounts and services are subject to individual approval.
+Wireless carrier, text and/or data charges may apply
+Credit cards are issued by Citizens Bank, N.A.
+*Average savings are calculated using the 2014/2015 Award Year Federal Direct PLUS Loan program reporting (as of 2/2015 not including Grad PLUS) of originations of ~$9.4 Billion to 608,991 borrowers through 643,152 loans with an average loan size of $14,624.12.
+Ways to Contact Us
+Contact Us
+General Questions: 1-800-922-9999
+Go to Customer Service to send us email or mail or to view FAQs
+We'll Contact You
+Your Location
+Personalize your banking experience by providing us with your location
+Submit
+Branch & ATM Locator
+Branch & ATM Locator
+Over 1,100 branches are close by.
+Submit
+Thank you for your interest in Citizens Bank
+×
+Checking & Savings
+Checking
+Savings
+Money Markets
+Certificates of Deposit (CDs)®
+IRAs
+Programs & Services
+Benefits & Features
+Debit Card
+Overdraft Choices®
+Home Borrowing
+Mortgages
+Home Equity Loans
+Home Equity Lines of Credit
+Determine My Rate
+My Mortgage Account
+Students
+Student Loan Options
+Refinancing Student Loans
+The Student Loan Process
+Undergraduate Students & Parents
+Graduate Students
+Tools & Information
+Banking for Students
+Access My Student Loan
+Cards
+Credit Cards
+Card Agreements
+Security Features
+Resources
+Order Checks
+Online & Mobile Banking
+Customer Service
+About Us
+About Citizens Bank
+In the Community
+Careers
+About Our Ads
+Solutions
+Personal
+Investing
+Small Business
+Commercial
+Disclosures
+Account Documents
+Member FDIC
+Equal Housing Lender
+Security, Privacy & Legal
+Site Map
+Follow:
+© Copyright 2016 Citizens Financial Group, Inc. All rights reserved.Citizens Bank is a brand name of Citizens Bank, N.A. (NMLS ID# 433960) and Citizens Bank of Pennsylvania (NMLS ID# 522615).Citizens Bank corporate headquarters: One Citizens Plaza, Providence, RI 02903
+1 "2014 Mobile Banking Leader” in the App Ratings category, Javelin Strategy & Research.
+jQuery(document).ready(function() {
+jQuery(".ctz-carousel-deck").carouFredSel({
+auto: true,
+width: 720,
+height: 447,
+direction: "left",
+align: "left",
+items: {
+visible: 1,
+minimum: 1,
+width: 708,
+height: 447
+},
+scroll: {
+duration: 1200,
+fx: "fade",
+easing: "linear",
+pauseOnHover: true
+},
+prev: {
+button: ".ctz-carousel-prev",
+key: "left"
+},
+next: {
+button: ".ctz-carousel-next",
+key: "right"
+},
+swipe: true,
+pagination: {
+container: ".ctz-carousel-pagination",
+anchorBuilder: function(nr) {
+return "<li></li>";
+}
+},
+classnames: {
+selected: "active"
+}
+});
+});

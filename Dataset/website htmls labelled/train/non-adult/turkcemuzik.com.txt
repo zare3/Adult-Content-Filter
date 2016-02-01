@@ -1,0 +1,18 @@
+https://www.turkcemuzik.com
+The TuneStore - Gargoyle's Module Music (S3M/IT)
+TuneStore Home
+About Gargoyle
+Modules & MP3
+Software
+Links
+Contact and Imprint
+This is the TuneStore.
+This personal site has been my base on the web for several years since 1997. It is a place for the music I created with tracker software such as Scream Tracker and Impulse Tracker, under the handle Gargoyle.
+For nearly 10 years, between somewhat around 1995 and 2004, I was part of a "digital underground scene" of music and art enthusiasts who mostly happened to be computer geeks as well, some more, some less. I was part of a group called the funky brains, consisting of seven fellow trackers from five countries: d-fast and ceekayed (Finland), cryssalid and fermus (Sweden), christofori (USA), infey (Canada), and me.
+I've moved on though. While finishing my studies and starting to work as a freelancer, I found less and less time to compose electronic music and actively take part in this great scene, and eventually joined a choir instead. In 2010, I founded a Web Development and Design company in Munich together with a couple of friends, which now requires my full dedication which I happily give. I haven't been using the nickname "Gargoyle" for years, except for one occasion when I attended the Breakpoint 2010 demoparty.
+My music, both modules and MP3, is free for all. That means you may download and share it and even use it in your own productions as long as no money is involved. Don't expect too much though. Back then, I used to compose music with low-budget/no-budget means and software from the early nineties. So unless you kind of know what a MOD is, you might get disappointed; anyway this website would not be the first recommendable resource to thoroughly get to know this very interesting scene that I'm talking about, as I wouldn't have the time to keep it up-to-date. But check out the links instead.
+The main reason for the last major update on this website in June 2009 was its design up to this point, which was even uglier than the one you have to bear with now. I just couldn't stand it any more. ;-P So I decided to take it down and replace it with something minimalistic instead. Something I wanted to have done five years ago, actually. Also, the newsletter archive and the old articles are gone, and I have reduced the size of the link page because most of the information on those pages was utterly outdated. As for the links, many of the resources from back then simply don't exist anymore.
+Consider this a static site which will be updated further only on very rare occasions.
+The TuneStore is called like this because back in 1996 I wanted to create something like a shared download site for the works of fellow musicians and myself. I eventually realised that this required far more than what I had available back then - expensive bandwidth, space, and something that would do the things a CMS does today. And a webhost other than Geocities. Things are quite different today, so maybe I'll renew this idea at some point.
+This page was established June 23rd, 1997.
+The TuneStore v4.0 © 1997f. All rights reserved.

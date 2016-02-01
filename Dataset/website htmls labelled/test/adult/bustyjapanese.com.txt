@@ -1,0 +1,193 @@
+https://www.bustyjapanese.com
+Rui Qiu's Blog - SCCM, Powershell, Shell Script, Automation...
+Rui Qiu's Blog
+SCCM, Powershell, Shell Script, Automation…
+Navigation
+Skip to content
+HomeAbout Me
+Post navigation
+← Older posts
+Backup My Website to Synology via LFTP
+Posted on December 29, 2015 by me
+There is no FTP in Synology, so I have to use LFTP
+Here is my backup.sh
+#!/bin/bash -vx
+lftp -u username,password ftp.xxx.com<<END_SCRIPT
+mirror -c -e –parallel=10 /remote_address /destiny_address
+exit
+END_SCRIPT
+If you see “lftp –> Fatal error: Certificate verification: Not trusted” , you can follow this link or the steps below to fix it:
+Create the .lftp directory with the command : mkdir /root/.lftp
+Create and edit the rc file with the command : vi /root/.lftp/rc
+Press ‘i’ for edit mode
+Add the line : set ssl:verify-certificate no
+Exit edit mode by pressing Escape (twice)
+Close and save the file by pressing Z (capital z) twice)
+After that I use Synology Task Scheduler to backup my website regularly,
+backup.sh | tee -a logfile.text
+Posted in Synology
+Leave a comment
+SCCM Pulse Secure Silent Install Script
+Posted on October 5, 2015 by me
+Here is the batch script for pulse secure silent install in SCCM:
+REM Pulse Secure Install
+REM Ray Q
+REM Oct 2, 2015
+ECHO Get current folder path
+pushd %~dp0
+ECHO Install and create log
+msiexec -i 1.msi CONFIGFILE=”%~dp0\Default.jnprpreconfig” /qn /L*v c:\windows\temp\juniper.log
+ECHO Report back to SCCM Server
+exit /b %errorlevel%
+Posted in SCCM
+Tagged pulse secure
+Leave a comment
+SCCM Cisco Anyconnect Silent Install Script
+Posted on October 5, 2015 by me
+Here is the batch file to install cisco anyconnect  silent install script.
+For auto install VPN profiles, you can export the existing profile XML from the ASDM console …
+REM Cisco Anyconnect VPN Install
+REM Ray Q
+REM Oct 5, 2015
+Echo Installing Cisco VPN
+anyconnect.exe /qn
+Echo Creating Profile Directory
+MD “%ProgramData%\Cisco\Cisco AnyConnect Secure Mobility Client\Profile”
+Echo Copying Profile
+COPY “profile.xml” “%ProgramData%\Cisco\Cisco AnyConnect Secure Mobility Client\Profile\” /Y
+Posted in SCCM
+Tagged cisco anyconnect
+Leave a comment
+SCCM UEFI OSD for Surface Pro 3
+Posted on September 22, 2015 by me
+Surface pro 3 only supports UEFI OSD boot, so unfortunately the regular SCCM BIOS OSD boot didn’t work.
+Here is the config you need to setup both UEFI & BIOS boot for SCCM OSD:
+For the settings, first need to set two different vender classes,
+For UEFI 64 bit machines, vender class is PXEClient:Arch:00007
+DHCP 060: PXEClient
+DHCP 066: your PXE server address
+DHCP 067: smsboot\x64\wdsmgfw.efi
+For BIOS 86& 64 machines, vender class is PXEClient:Arch:00000
+DHCP 066: your PXE server address
+DHCP 067: smsboot\x64\wdsnbp.com
+here is a great video on how to set it up on your windows DHCP server:
+Posted in SCCM
+Tagged OSD
+Leave a comment
+rbenv: no such command ‘install’
+Posted on September 22, 2015 by me
+If you see rbenv: no such command ‘install’, the solution is to run exec $SHELL -l
+Posted in Ruby on Rails
+Leave a comment
+SCCM Query to Join User Resources and System Resources
+Posted on August 25, 2015 by me
+Very few information on sccm query to join both user resources and system resources database together. However my manger wants to see the device and is owner’s job title, manger, etc. so I have this sccm script to show all the information needed:
+it will list the AD site, computer name, last logon user, user’s full name, email address, job title, department, user’s description, lost logon time stamp, machine SN, machine asset tag ID, operation system name and version, IP address and Mac address. Plus it limited to machine type Lenovo T450s. you can change the filter according to your own needs.
+select SMS_R_System.ADSiteName, SMS_R_System.Name, SMS_R_System.LastLogonUserName, SMS_R_User.UniqueUserName, SMS_R_User.FullUserName, SMS_R_User.Mail, SMS_R_User.title, SMS_R_User.manager, SMS_R_User.description, SMS_R_System.LastLogonTimestamp, SMS_G_System_PC_BIOS.SerialNumber, SMS_G_System_SYSTEM_ENCLOSURE.SMBIOSAssetTag, SMS_R_System.OperatingSystemNameandVersion, SMS_R_System.IPAddresses, SMS_R_System.MACAddresses from  SMS_R_System inner join SMS_R_User on SMS_R_System.LastLogonUserName=SMS_R_User.UserName inner join SMS_G_System_COMPUTER_SYSTEM_PRODUCT on SMS_G_System_COMPUTER_SYSTEM_PRODUCT.ResourceID = SMS_R_System.ResourceId inner join SMS_G_System_PC_BIOS on SMS_G_System_PC_BIOS.ResourceId = SMS_R_System.ResourceId inner join SMS_G_System_SYSTEM_ENCLOSURE on SMS_G_System_SYSTEM_ENCLOSURE.ResourceId = SMS_R_System.ResourceId where SMS_G_System_COMPUTER_SYSTEM_PRODUCT.Version like “%T450S%”
+Posted in SCCM
+Leave a comment
+SCCM Query to See Device Owner Using User Device Affinity (uda)
+Posted on August 25, 2015 by me
+When I google online, lots of information there. but none worked
+here is the sccm query to see device owner by using User Device Affinity.
+it will list computer name, the device’s owner, user’s full name, email address, job title, manger name and description( these three needs to manually add to SCCM User Discovery first).
+Here is the SCCM Query:
+select SMS_R_System.Name, SMS_R_User.UniqueUserName, SMS_R_User.FullUserName, SMS_R_User.Mail, SMS_R_User.title, SMS_R_User.manager, SMS_R_User.description from  SMS_R_User JOIN SMS_UserMachineRelationship ON SMS_UserMachineRelationship.UniqueUserName=SMS_R_User.UniqueUserName JOIN SMS_R_System ON SMS_R_System.Name=SMS_UserMachineRelationship.ResourceName
+Posted in SCCM
+Tagged user device affinity
+Leave a comment
+How to Enable Interactive Way of User Input During OSD Task Sequence
+Posted on August 21, 2015 by me
+http://www.scconfigmgr.com/2013/10/02/prompt-for-computer-name-during-osd-with-powershell/
+Posted in SCCM
+Leave a comment
+.Net Framework 4.5.2 SCCM Application Package
+Posted on August 11, 2015 by me
+I have to say, Microsoft’s .Net framework installation is SOB! so many different settings need to done to get this .net 4.5.2 work in SCCM.
+Here is how:
+I downloaded the offline installer from MS website, and run this command line for install:
+DotNet_4.5.2.exe /q /norestart /ChainingPackage ADMINDEPLOYMENT
+In the settings, we need to set Run installation and uninstall program as 32-bit process on 64-bit clients.
+For detection method, we use registry entry:
+HKEY_LOCAL_MACHINE
+SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full
+Release
+value greater than or equal to 379893
+Now you are ready to deploy!
+Posted in SCCM
+Leave a comment
+How to Setup PXE Server for SCCM OSD
+Posted on August 5, 2015 by me
+Here are some notes from our Microsoft SCCM trainer a few months ago, really helpful on setting up PXE Server.
+How to set up Option 66 & Option 67 on the DHCP Server
+Open DHCP management console (dhcpmgmt.msc)
+Add the server with the subnet you want to configure (i.e. dc01, dc02, etc.)
+Expand IPv4
+Expand the IP Scope you want to edit for PXE (i.e. 192.168.1.0)
+Right-Click Scope Options
+Click Configure Options
+Check 066 Boot Server Host Name and type the pxe server (i.e. cm01.domain.com)
+Check 067 Bootfile Name and type smsboot\x86\wdsnbp.com for the String Value in Data Entry area.
+Click OK
+Repeat as necessary for other dhcp scopes.
+Close DHCP console when all changes are made.
+Settings in SCCM
+Make sure the enable PXE support for clients is Enabled on the DP (Specifically: Allow the DP to respond to incoming PXE Requests and Enable Unknown computer support.
+Make sure there is an x86 AND x64 boot image (NEED BOTH) on the DP/PXE Server, and make sure the box “Deploy this boot image from the PXE-enabled Distribution Point” is checked off in the boot image properties of both images under the Data Source tab.
+Also verify the two images are appearing in the \\<DPserver>\<DriveLetter>$\RemoteInstall\SMSImages. You can also check against the SMSPXE.log in <Install Directory>\Program Files\Microsoft Configuration Manager\Logs\SMSPXE.log for errors and if the images are setting properly for PXE.
+Deploying the TS to the All Unknown Systems collection
+In the deployment of the TS, make sure to select “Only media and PXE” in the Make available to the following (not as important as long as PXE is one of these options).
+If testing with unknown computers then make sure computer is unknown/removed from SCCM.
+Notes
+WDS is not necessary to install previously for PXE to work.
+The RemoteInstall folder will automatically be created on one of the drives on the DP. This is necessary for setting up Option 67 on the DHCP Server. The necessary DHCP Options are as follows:
+Troubleshooting PXE
+If receiving these 2 event IDs for WDS and the service will not start:
+513 – An error occurred while trying to initialize provider WDSMC from C:\Windows\system32\wdsmc.dll. Windows Deployment Services server will be shutdown. Error Information: 0x906
+257 – An error occurred while trying to start the Windows Deployment Services server.
+Error Information: 0x906
+then run this command to get WDS service to start working:
+WDSUTIL /Initialize-Server /RemInst:D:\RemoteInstall
+Might need to uninstall and reinstall PXE. Possible order: uninstall PXE, do the above fix, and then install PXE
+Source: http://www.systemcentercentral.com/configmgr-pxe-boot-warning-matching-processor-architecture-boot-image-0-not-found/
+SMSTS.log locations (http://technet.microsoft.com/en-us/library/bb932135.aspx):
+Note: Run CMTrace first to set it as the default viewer of logs (located under X:\SMS\Bin\i386\CMTrace) and go to the proper location of SMSTS.log.
+System booted in WinPE and the local harddisk is not modified (smsts.log in the “x:\windows\temp\smstslog” folder)
+System booted in WinPE and the local harddisk is partitioned and formatted (smsts.log in the “x:\smstslog” folder and after that in the “c:\De_SMSTaskSequence\Logs\Smstslog” folder
+System booted in Windows before the ConfigMgr client is installed (smsts.log in the “c:\_SMSTaskSequence\Logs\Smstslog” folder)
+System booted in Windows after ConfigMgr client is installed (smsts.log in the “c:\windows\system32\ccm\logs\Smstslog” folder)
+(When using a x64 device, you can find it in the “c:\windows\SysWOW64\ccm\logs\Smstslog” folder)
+Posted in SCCM
+Tagged OSD, PXE
+Leave a comment
+Post navigation
+← Older posts
+Search
+Recent Posts
+Backup My Website to Synology via LFTP
+SCCM Pulse Secure Silent Install Script
+SCCM Cisco Anyconnect Silent Install Script
+SCCM UEFI OSD for Surface Pro 3
+rbenv: no such command ‘install’
+Recent Commentsme on About MeManny on About MeArchives
+December 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+Categories
+AutoIt
+Powershell
+Ruby on Rails
+SCCM
+Shell Script
+Synology
+Meta
+Log in
+Entries RSS
+Comments RSS
+WordPress.orgPowered by AmazonSimpleAdmin
+Proudly powered by WordPress
+|
+Theme: Confit by WordPress.com.

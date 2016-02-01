@@ -1,0 +1,411 @@
+https://www.macrumors.com
+Mac Rumors: Apple Mac iOS Rumors and News You Care About
+Got a tip for us? Let us know
+a. Send us an email
+b. Anonymous form
+close (x)
+Front Page
+Mac Blog
+iOS Blog
+Roundups
+AirPort
+Apple Car
+Apple Pay
+Apple TV
+Apple Watch
+CarPlay
+iMac
+iOS 9
+iPad Air 2
+iPad mini 4 (2015)
+iPad Pro
+iPhone 6
+iPhone 6c (2016)
+iPhone 6s
+iPhone 7
+iPod nano
+iPod shuffle
+iPod touch
+Mac mini
+Mac Pro
+MacBook Air
+MacBook Pro
+OS X El Capitan
+Retina MacBook
+Thunderbolt Display
+watchOS 2
+Buyer's Guide
+Forums
+iPad Pro
+iPhone 6s
+Apple TV
+iOS 9
+OS X El Capitan
+iMac
+watchOS 2
+Apple Car
+Apple Watch
+CarPlay
+iPad Air 2
+iPad mini 4 (2015)
+iPhone 6
+iPhone 6c (2016)
+iPhone 7
+Mac mini
+Mac Pro
+MacBook Air
+Retina MacBook
+Thunderbolt Display
+MacBook Pro
+AirPort
+Apple Pay
+iPod nano
+iPod shuffle
+iPod touch
+All >
+New in OS X: Get MacRumors Push Notifications on your Mac
+Resubscribe Now
+Close
+Subscribe to the MacRumors Newsletter
+Apple Seeds iOS 9.3 Beta 1.1 to Developers With Fix for Installation Issue
+Thursday January 14, 2016 10:29 am PST by Juli Clover
+Apple today seeded a minor 1.1 update for the iOS 9.3 beta that was provided to developers earlier this week to fix a few critical bugs that needed to be immediately addressed.
+The iOS 9.3 Beta 1.1, build 13E5181f, is available as an over-the-air update and through the Apple Developer Center.
+According to Apple's release notes, the iOS 9.3 1.1 beta fixes an installation issue that developers encountered when trying to install the first iOS 9.3 beta. On some devices, updating to iOS 9.3 failed, causing the update to freeze at the Apple logo. We at MacRumors encountered this installation issue on an iPad mini 2, with multiple failures preventing the beta from being installed.
+The update also fixed an issue with apps that used compass data on devices that did not include a motion coprocessor. On these devices, the locationd service would continually crash for as long as the compass request continued.
+As a major .1 update to the iOS 9 operating system, iOS 9.3 introduces quite a few new features. There's a new Night Shift mode that cuts down on the amount of blue light iOS users are exposed to in the evening hours by automatically shifting the iPhone or iPad display to a warmer (yellower) color spectrum, and there are several new features designed to improve the iPad for Education program.
+Several apps and features are also being updated, including Health, Notes, CarPlay, and ore, plus there are new Quick Actions for Weather, Settings, Compass, Health, App Store, and iTunes Store.
+iOS 9.3 is expected to be released to the public in the spring, so it is likely to see several additional updates over the beta testing period.Related Roundup: iOS 9 Tag: iOS 9.3
+41 comments
+Apple Releases First OS X 10.11.4 El Capitan Beta to Public Beta Testers
+Thursday January 14, 2016 10:06 am PST by Juli Clover
+Apple today seeded the first beta of an upcoming OS X 10.11.4 beta to public beta testers, just a few days after releasing the first OS X 10.11.4 beta to developers and more than a month after releasing OS X 10.11.2.
+The new beta is available through the Software Update mechanism in the Mac App Store for those who are enrolled in Apple's beta testing program. Those wishing to join the program can sign up on Apple's beta testing website.
+OS X 10.11.4 has been provided to developers and public beta testers alongside OS X 10.11.3, which is also currently in testing. Apple has provided testers with two betas of OS X 10.11.3, and it could be released to the public shortly.
+Both OS X 10.11.3 and OS X 10.11.4 appear to focus largely on under-the-hood bug fixes, security enhancements, and performance optimizations with few noticeable outward-facing changes. OS X 10.11.4 does support password protected notes in the Notes app, allowing a password to be assigned to individual notes.Related Roundup: OS X El Capitan Tag: OS X 10.11.4
+20 comments
+Apple Seeds First iOS 9.3 Beta to Public Beta Testers
+Thursday January 14, 2016 10:04 am PST by Juli Clover
+Apple today released the first beta of an upcoming iOS 9.3 update for public beta testers, just a few days after seeding the iOS 9.3 beta to developers. iOS 9.3 is available to public beta testers alongside iOS 9.2.1, a minor update that is also in testing.
+Beta testers who have signed up for Apple's beta testing program will receive the iOS 9.3 update over-the-air after installing the proper certificate on their iOS device.
+Those who want to be a part of Apple's beta testing program can sign up to participate through the beta testing website, which gives users access to both iOS and OS X betas.
+Subscribe to the MacRumors YouTube channel for more videos.
+iOS 9.3 is a major update to the iOS 9 operating system, introducing a long list of new features and improvements. iOS 9.3's biggest new feature is Night Shift mode, which is designed to automatically cut down on the amount of blue light an iOS user is exposed to at night by shifting to more yellow tones for the iPhone or iPad's display. With iOS 9.3, there's a number of changes for educational users, and the iPhone is now able to pair with multiple Apple Watches.
+The update also includes new 3D Touch Quick Actions for stock apps like Weather, Settings, Compass, Health, App Store, and iTunes Store, plus it introduces password protection for individual notes in the Notes app. News in iOS 9.3 includes in-line video playback, landscape mode on the iPhone, and more personalization, while the Health app introduces a new Apple Watch-style "Activity" interface.
+A full list of changes in iOS 9.3 can be found in our "What's New" post.Related Roundup: iOS 9 Tag: iOS 9.3
+47 comments
+Samsung May Invest Over $7 Billion to Supply OLED Displays for Future iPhones
+Thursday January 14, 2016 5:38 am PST by Joe Rossignol
+Samsung Display is close to reaching an agreement with Apple to supply flexible OLED displays for future iPhones, and will invest up to $7.47 billion in OLED manufacturing equipment to fulfill orders, according to Korea-based ET News.
+Samsung's display-making division will reportedly increase OLED display production by 30,000 to 45,000 panels per month this year, followed by an additional 45,000 substrates each month in 2017, per the terms of its nearly finalized contract.
+OLED manufacturing and inspection equipment will primarily come from South Korean display businesses AP Systems and HB Technology, the report claims.
+Multiple reports claim Apple will launch iPhones with OLED displays in 2018. In addition to Samsung Display, the OLED panel orders may be spread out over a number of suppliers, possibly including AU Optronics, LG and Japan Display. All three display makers have supplied Apple with LCD panels for existing iPhones.
+Apple is reportedly operating a Taiwanese factory where a team of engineers are developing thinner, lighter and brighter displays for future Apple devices. The secretive lab may be specifically focused on flexible OLED and Micro-LED display technologies for use in future-generation iPhones.Tags: Samsung, OLED
+70 comments
+Bragi Dash Impressions: Wireless Earphones Offer Enough Quality Features to Counter Small Battery
+Wednesday January 13, 2016 1:39 pm PST by Mitchel Broussard
+Wireless bluetooth headphones have been gaining traction over the past few years as potentially reliable replacements to the traditional wired headsets offered in most smartphone boxes. With the announcement of the "Bragi Dash" at CES in 2015 -- and the subsequent year of updates trickling out of the German company -- interest in true wireless earphones that don't even require a wire between the earpieces has begun to increase.
+Interest in these products took another step forward last week when it was reported Apple may be working on a Dash-like product to be sold alongside the so-called "iPhone 7" later this year. The Apple-owned Beats by Dre brand already offers customers a variety of Bluetooth headphones, but none that are as small and undetectable as the Bragi Dash.
+With the first round of Bragi Dash units now shipping to Kickstarter backers, a few sites have been sharing their initial impressions of the new earphones. The Verge, The Wall Street Journal, Engadget, and Wired agree on the Dash's impressive suite of features, especially subtle motion gestures and ambient noise control, but some remain skeptical of their wide appeal due to syncing issues and a short three-hour battery life.
+The Verge commented on the gesture controls, surprised by the amount of subtlety the Dash still managed to pick up. The basic gestures let users nod or shake their heads to accept or reject phone calls, which the site found to work nearly too well, and worried over accidental gestures causing miscommunications with the Dash. Still, The Verge's favorite feature was the ability of the headphones to allow ambient noises to pass through to your ears from their location in a room, even when music is playing.With the Dash, you just swipe on the left earbud and the ambient noise around you suddenly appears in your earbuds. Better yet, Bragi has done some especially tricky software work to make that ambient noise sound like it's coming from the corresponding direction. If someone is speaking to the right of you, it sounds like their voice is coming from that direction. You can do this while music is playing or not, and it's the kind of feature that you wind up wanting on any pair of headphones even after using it just one time. Connectivity issues were the main concern of The Wall Street Journal's experience with Bragi's new headphones. The Bluetooth connection between the iPhone and the Dash became unreliable for the site "particularly on outdoor runs," necessitating the purchase of an armband case to bring the iPhone closer to the in-ear headphones. Although Bragi promises an upcoming update will address such problems -- and the Dash's 4GB of internal memory can offset some iPhone connectivity issues -- The Wall Street Journal remained skeptical on the consistency of the feature.But in testing, another problem emerged: The Dash still connects via Bluetooth to the phone itself, and that connection dropped even more frequently than the Earin, particularly on outdoor runs. I ended up buying an armband case for my phone so I could get a more consistent connection.
+A few times, the Dash fritzed out and became unresponsive until I put it back in its charging case. Buyer beware: These are surely signs that the software is a work in progress. (Bragi says an update is coming, which Dash owners will install by plugging the companion case into a computer.) On the plus side, the site was largely impressed by the Near Field Magnetic Induction used by Bragi to keep the dual earbuds in sync, creating a "bubble around one’s head through which the sounds travels from one ear to the other." NFMI was the reason the Dash were delayed in the middle of last year, when the team decided to find a better way for the earbuds to communicate with each other. WSJ also found that each of the Dash's earbuds were reliable in their fit within the ear, never causing concern over whether either piece would fall out during long runs and workouts.
+The Bragi Dash inside of its portable charging case, via Engadget
+Engadget was doubly impressed by the use of NFMI as an alternative to Bluetooth connectivity between each piece of the Dash (Bluetooth is still used to communicate with the iPhone). Like most reviews, the site also commented on the usefulness of the Dash's voice assistant that guides users through the initial setup and can also read out data and information back to them on the fly.I insert a bud into my right ear, and then the left. A few seconds later I hear a woman's voice. She explains how I can listen to music on my phone, afterwards there is silence; deafening silence. Until I connect my phone to the wireless headphones, and the lady returns, confirming that everything is good, and I'm all set. This is probably the slickest gadget set-up I have ever experienced.
+Wired's experience with the Dash most succinctly categorized the headphones apart from everything else that is available on the market, the site calling Bragi's new product "a computer, a platform, an entirely personalized object," separate from competitors like Earins. When testing the basic music functionality of the earphones, Wired found the quality to be "fantastic" and referred to the new product as "remarkable" for what it accomplishes even considering the slim three-hour battery life.The Dash is not a pair of headphones. Well, it is, but that’s like calling the iPhone a telephone. It’s not competing with devices like the Earins, or whatever truly wireless Beats headphones Apple’s working on for the iPhone 7. Dash is a computer, a platform, an entirely personalized object.Read more reviews and impressions of the Bragi Dash online: DC Rainmaker, The Gadgeteer, Wareable, and Reviewed.com.Tag: Bragi Dash
+108 comments
+Apple to Automate iAd Platform and Dismantle In-House iAd Sales Team
+Wednesday January 13, 2016 1:14 pm PST by Juli Clover
+Apple's iAd program has never been responsible for a large portion of its sales, leading Apple to decide that it's time to take a step back from the platform. According to BuzzFeed, Apple plans to end its efforts at advertising sales and cease its direct involvement with iAd. "It's just not something we're good at," an inside source told BuzzFeed.
+To accomplish this, Apple will dismantle its iAd sales team and will turn the iAd platform over to publishers, allowing them to directly create and sell advertising content. Publishers will be able to keep 100 percent of revenue generated.
+Advertising industry sources familiar with Apple's new plan for iAds seem intrigued by it. "I think this is going to be great for publishers," said one. "It gives them direct dialogue with their customers as opposed to forcing them to go through an Apple middleman. Access will be more plentiful and easier to manage -- theoretically."In September, Apple made the first steps towards automating iAd with an iAd Workbench update that added tools to allow publishers to sell ads themselves in Apple News. Currently, Apple News publishers are able to sell their own ads or have iAd sell on their behalf, while developers have to rely entirely on iAd. Apple is expanding its Apple News model to the App Store and other platforms, allowing publishers to sell directly.
+Since its debut in 2010, Apple has failed to establish iAd as a successful advertising platform, mainly due to pricing. At launch, iAd's minimum buy-in fee was at $500,000 and despite several price cuts, Apple has struggled to get advertisers on board. Apple made several improvements to iAd over the years and attempted to revive the platform when iTunes Radio launched, but it has never been a successful venture for the company.
+For end users, the impact should be minimal. The iAd platform is sticking around and should continue to serve up many of the same in-app ads in the same format that's available today.Tag: iAd
+50 comments
+Apple Shows Interest in Buying Time Warner Assets for Streaming TV Service
+Wednesday January 13, 2016 6:33 am PST by Joe Rossignol
+Time Warner CEO Jeffrey Bewkes reportedly told investors on Monday that he would entertain a sale of the media company, and Apple is a possible suitor, according to the New York Post. AT&T, which owns DirecTV, and Fox are also said to have shown interest.Eddy Cue, one of Apple Chief Executive Tim Cook’s top lieutenants, in charge of content deals, has been keeping tabs on proceedings at Time Warner, a source close to Apple said.Time Warner owns a large number of assets that could lay the foundation for Apple's much-rumored streaming TV service, including CNN, HBO, TBS, TNT, NBA TV, Cartoon Network and its Warner Bros. division. A deal could allow Apple to offer a skinny bundle of channels airing popular TV shows for all ages like Adventure Time, Game of Thrones, Sesame Street, Silicon Valley and Veep.
+Apple's streaming TV service has reportedly been placed on hold due to its difficulties in securing deals with content owners, but striking a deal with Time Warner would allow the company to reconsider offering a skinny bundle of channels through a Netflix-like service for Apple TV, Mac, iPad, iPhone and other devices.
+Apple has previously been in talks with CBS, ABC, Fox, Disney, Viacom, Discovery and others about launching a web-based streaming service that would bundle approximately 25 channels for $30 to $40 per month, but content owners have been reluctant to give up control of the living room up to this point.
+For now, fourth-generation Apple TV owners can stream select on-demand content from tvOS apps like ABC News, CNNgo, Fox NOW, HBO NOW, MLB.TV Premium, NBC Sports Live Extra, PBS, PBS Kids, USA NOW, Watch ABC and WatchESPN, but most require authenticating with a cable or satellite TV subscription.Tags: HBO, Time Warner, streaming TV service, CNN
+203 comments
+Quanta May Begin Trial Production of Apple Watch 2 This Month
+Wednesday January 13, 2016 5:24 am PST by Mitchel Broussard
+A new report out of China today points to an earlier than expected trial production of the unannounced "Apple Watch 2," expected to begin as soon as the end of January. According to Taiwanese website Commercial Times (via G for Games), the second generation of the Apple Watch will be manufactured by Quanta, which was also responsible for last year’s production of the original smartwatch.
+Despite today's report of Quanta's eagerness to begin production on the Apple Watch 2, a rumor back in November suggested the company had a "weaker than expected" profit return on the original Apple Watch. As such, Apple may be searching for new suppliers of the device (in addition to keeping on Quanta to take the brunt majority of the line), including Foxconn, Wistron, and Inventec.
+Although it has yet to be confirmed by Apple, rumors regarding the new Apple Watch include a thinner case, FaceTime camera, and an upgraded Wi-Fi chip for more independence from the iPhone. This week it was discovered that Apple has posted four job listings centered around health technologies, suggesting possible improvements on the first generation Apple Watch's health and fitness features.Related Roundups: Apple Watch, watchOS 2 Tags: Quanta, Apple Watch 2 Buyer's Guide: Apple Watch (Neutral)
+123 comments
+Apple Maintains Mac Sales Momentum Amid Overall Worldwide PC Market Decline
+Tuesday January 12, 2016 7:17 pm PST by Juli Clover
+Amid an overall decline in worldwide PC shipments, Apple is the sole manufacturer that saw positive shipment growth, according to new PC shipping estimates from Gartner. With worldwide PC shipments from Lenovo, HP, Dell, ASUS, and Acer down, Apple also broke into Gartner's list of top 5 worldwide PC vendors for the first time.
+Gartner's Preliminary Worldwide PC Vendor Unit Shipment Estimates for 4Q15 (Thousands of Units)
+During the fourth quarter of 2015, Apple shipped 5.7 million PCs, for 7.5 percent market share. That's up from 5.5 million PCs and 6.7 percent market share in the year ago quarter, for an overall year-over-year growth of 2.8 percent. Worldwide PC shipments totaled 75.7 million units in Q4 2015, an 8.3 percent decline, with Acer and Lenovo seeing some of the biggest drops.
+Gartner's Preliminary U.S. PC Vendor Unit Shipment Estimates for 4Q15 (Thousands of Units)
+In the United States, Apple saw more significant growth of 6.5 percent, shipping an estimated 2.2 million PCs in Q4 2015 for 12.8 percent market share. That's up from 2 million PCs and 11.6 percent market share in Q4 2014. When it comes to U.S. PC shipments, Lenovo saw significant growth with 2.1 million shipments, while ASUS maintained status quo with 1.2 million shipments. HP, Dell, and manufacturers in the "Other" group that comprises non top-5 vendors, all saw a decline in shipments.
+Apple's U.S. Market Share Trend: 1Q06-4Q15 (Gartner)
+Overall PC sales in the United States during the fourth quarter of 2015 were at 16.9 million, a decline of 3.1 percent compared to the fourth quarter of 2014. According to Gartner, PCs were not a top holiday gift item."Holiday sales had a limited impact on PC sales in the U.S. market," Ms. Kitagawa said. "Notebooks were off the top wish list of holiday gifts. Unlike 2014 holiday sales, there were not many holiday mega deals for laptops, especially in value segments. At the same time, consumers' interest shifted to other consumer electronics devices such as TV's and wearables. "For the full year, Gartner estimates Apple shipped a total of 20.7 million PCs worldwide, ranking the company as the number 5 worldwide PC vendor for 2015. That's up from 19.6 million total in 2014, for a total growth of 5.8 percent and a 7.2 percent share of the market. Lenovo was the market leader in 2015 with 57 million shipments, while HP was second with 52 million and Dell and ASUS were third and fourth with 39 and 21 million shipments, respectively.
+IDC also released its own estimates of Apple's worldwide and U.S. PC shipments during the fourth quarter of 2015, which are surprisingly close to Gartner's numbers considering the two firms' estimates typically differ significantly. IDC also estimates Apple shipped 5.7 million PCs during the quarter, for 7.9 percent market share. Like Gartner, IDC ranks Apple as the number 5 worldwide PC vendor.
+For U.S. shipments, IDC estimates Apple shipped 2.2 million machines for a 12.7 percent share of the market. Both Gartner and IDC rank Apple as the number three PC vendor in the United States, below HP and Dell. IDC's shipment estimate for the full year also matches Gartner's, with Apple responsible for 20.7 million shipments and 7.5 percent market share, up from 19.6 million shipments and 6.3 percent market share in 2014.
+It's important to note that data from Data from Gartner and IDC is preliminary and the numbers can shift. Last year, for example, Gartner predicted PC shipments of 2.1 million and 11.7 percent market share for Apple in 4Q 2014, later revising that number to 2 million shipments and 11.6 percent market share.
+Gartner and IDC both position Apple as the sole top vendor that saw positive worldwide growth in 2015, and the same trend could continue into 2016. Apple is expected to refresh many of its Macs during the year, introducing significant upgrades in the form of Skylake processors for most machines.Tags: IDC, Gartner
+214 comments
+iOS 9 is Now Installed on 75% of Active iOS Devices
+Tuesday January 12, 2016 3:19 pm PST by Juli Clover
+After four months of availability, Apple's newest mobile operating system, iOS 9, is now installed on 75 percent of active iOS devices as of January 11, according to new numbers posted on Apple's App Store support page for developers.
+iOS 9 adoption has climbed from 71 percent to 75 percent over the course of the past month, which is when Apple last updated iOS 9 adoption numbers. As iOS 9 adoption grows, the number of people using iOS 8 and earlier operating systems has declined. 19 percent of iOS users continue to use iOS 8, while 7 percent use an earlier version of iOS.
+iOS 9 adoption has outpaced iOS 8 adoption. At four months after launch, iOS 8 was installed on 68 percent of active iOS devices. In fact, iOS 9 adoption is nearly on pace with iOS 7 adoption, which was installed on 79 percent of devices four months after it was released in 2013.
+In September, when iOS 9 hit a milestone that saw it installed on more than 50 percent of active iOS devices, Apple called it the "fastest iOS adoption ever," and said it was on pace to be downloaded by more users than any other software release in Apple's history.
+The latest installation growth follows the release of iOS 9.2 on December 8, which introduced a huge number of bug fixes and brought improvements to Apple Music, Mail, and iBooks. iOS 9 adoption may see another boost with the release of iOS 9.3, which is currently in beta testing.
+iOS 9.3 is one of the biggest updates to iOS 9 yet, introducing a new Night Shift mode, new Quick Actions, and improvements to several apps and features like Notes, Apple News, Health, and CarPlay.Related Roundup: iOS 9
+107 comments
+iOS 9.3 Displays Exact Wi-Fi Assist Data Usage Numbers
+Tuesday January 12, 2016 1:39 pm PST by Juli Clover
+Apple's iOS 9.3 beta introduces major new features like Night Shift, but there are also dozens of little tweaks to be discovered in the operating system update. It appears that one of those minor changes applies to Wi-Fi Assist, adding a much-needed feature that allows users to see just how much data it's using.
+Wi-Fi Assist data usage can be checked within the Settings app by choosing the Cellular section and scrolling down to the Wi-Fi Assist option. Next to the toggle that turns the feature on and off, there's now a data usage number that displays how much data has been consumed when it is in use.
+Wi-Fi Assist was first introduced with iOS 9. It's a feature that allows an iPhone to seamlessly switch over to a cellular connection whenever a local Wi-Fi connection is weak. Enabled automatically when updating to iOS 9, Wi-Fi Assist proved to be unpopular with users who claimed it was eating up a lot of data. One recent news story even accused Wi-Fi Assist of causing a teenager to receive a cell phone bill for upwards of $2,000.
+Concerns about Wi-Fi Assist led Apple to publish a support document on the feature, explaining how it works and assuring users that data usage should only be a "small percentage higher" than previous usage. Wi-Fi Assist only turns on in a limited number of circumstances and won't activate when data roaming, when apps are downloading background content, or when using third-party apps that stream audio or video.
+Despite Apple's reassurances about Wi-Fi Assist, unhappy customers filed a $5 million class action lawsuit over the feature, with the plaintiffs claiming they were subjected to overage charges on their iPhones after updating to iOS 9. The lawsuit also claims Apple did not do an adequate job explaining the feature when iOS 9 was released.
+Wi-Fi Assist is available on any iOS device running iOS 9 or later, with the exception of the iPhone 4s, the iPad 2, the third-generation iPad, and the original iPad mini. Wi-Fi Assist can be turned off using the Settings app for those who don't want to risk using extra data.Tags: Wi-Fi Assist, iOS 9.3
+55 comments
+A Hands-On Walkthrough of the New Features in iOS 9.3 and tvOS 9.2
+Tuesday January 12, 2016 10:22 am PST by Juli Clover
+Apple yesterday surprised us with new betas of iOS 9.3, OS X 10.11.4, watchOS 2.2, and tvOS 9.2. Of those betas, iOS 9.3 and tvOS 9.2 introduce important new features to iOS devices and the fourth-generation Apple TV.
+iOS 9.3 includes a new Night Shift mode that cuts down on blue light in the evening for better sleep, plus it introduces new Quick Actions for several stock apps and brings new features for News, Notes, Health, CarPlay, and more. A full walkthrough of what's new in iOS 9.3 is available in the video below.
+Subscribe to the MacRumors YouTube channel for more videos.
+tvOS 9.2 introduces features that have been sorely missing from the new Apple TV, including support for Bluetooth keyboards to make text entry a simpler process. It includes folders for organizing the Home screen much like one can do on an iOS device, and it introduces a new look for the Home screen, among other things. To see everything that's new in tvOS 9.2, make sure to watch our walkthrough video.
+Subscribe to the MacRumors YouTube channel for more videos.
+watchOS 2.2 and OS X 10.11.4 include less obvious under-the-hood updates, but both bring important new features. OS X 10.11.4 introduces support for locked notes, while watchOS 2.2, paired with iOS 9.3, allows the iPhone to connect to multiple Apple Watches.
+There's no word on when we'll see the public releases of iOS 9.3, tvOS 9.2, OS X 10.11.4, and watchOS 2.2, but there's undoubtedly several weeks of testing left before the updates will launch. Ahead of these major releases, we will see the launch of iOS 9.2.1 and OS X 10.11.3, both of which are also in testing.Related Roundups: Apple TV, iOS 9 Tags: iOS 9.3, tvOS 9.2 Buyer's Guide: Apple TV (Buy Now)
+97 comments
+Archives
+Newer Posts
+Older Posts
+Upcoming
+iPhone 6c (2016) Early 2016?
+Rumored 4-inch iPhone with colorful metal casing and Touch ID, but no 3D Touch.
+iPhone 7 Fall 2016
+Apple's next iPhone won't be until late 2016, but should come with a new design.
+More MacRumors Stories
+'Steve Jobs' Nominated for Best Supporting Actress and Best Actor Oscars
+7 hours ago on
+Mac Blog
+Ahead of the official ceremony for the 88th Academy Awards on February 28, this morning the nominations for all 24 categories at the Oscars were announced at the Academy’s Samuel Goldwyn Theater in...
+22 comments
+Apple Watch 'Magnetic Wristband' Patent Could Double as Protective Case
+7 hours ago on
+iOS Blog
+The United States Patent and Trademark Office today published a patent filed by Apple last August, which detailed an Apple Watch band accessory that could double as a "protective cover" for...
+10 comments
+Dashlane 4 Debuts With Revamped Look, Five New Languages
+7 hours ago on
+iOS Blog
+Popular password management service Dashlane today announced a major update, introducing Dashlane 4 for Windows, Mac, iOS, and Android devices. Dashlane 4 features a revamped design with a...
+9 comments
+New York Bill Would Force Apple and Other Manufacturers to Decrypt Smartphones
+18 hours ago on
+Mac Blog
+A bill that is working its way through the New York state assembly would require Apple and other smartphone manufacturers and mobile operating system providers to decrypt and unlock devices to aid...
+161 comments
+Review: Pad & Quill's Oxford Case for iPad Pro Works With Apple's Smart Keyboard
+1 day ago on
+iOS Blog
+Many cases for the iPad Pro add a lot of unnecessary bulk, a problem the Oxford Leather Case from Pad & Quill solves through the clever use of adhesive. Featuring a simple book-style design that...
+13 comments
+Office 2016 for Mac Updated With Full Screen Outlook and More
+1 day ago on
+Mac Blog
+Microsoft has released an update for its Office 2016 for Mac suite that addresses multiple security vulnerabilities, fixes bugs and adds select new features across Word, Excel, PowerPoint, OneNote...
+80 comments
+Pokémon-Inspired 'Pocket Mortys' Game Hits the App Store Today
+1 day ago on
+iOS Blog
+Adult Swim Games last week announced a brand-new mobile game called Pocket Mortys, which launches on the App Store today. Based off of the network's hit show Rick and Morty, the game is set up as...
+17 comments
+Tim Cook Tells White House to Embrace 'No Backdoors' Encryption Policy in Meeting
+2 days ago on
+Mac Blog
+Last Friday, Tim Cook and representatives from other Silicon Valley companies met with White House officials to discuss how to counter the use of social media by terrorist groups to recruit new...
+75 comments
+• CarPlay Wins Autoblog's Technology of the Year Feature Award (27)
+• '1Password 6' for Mac Brings Revamped Password Generator, iCloud Sync for Non Mac App Store Version (51)
+• Skype Announces Free Group Video Calling for iOS Devices (17)
+• Apple Obsoletes Older Beats Models as Push Towards Wireless Continues (48)
+• Review: QardioBase is an Attractive Smart Scale, but Design Needs Improvement (19)
+• Apple to Open Retail Store on Champs-Élysées in Paris in 2018 or 2019 (12)
+• Apple Shares Master List of CarPlay Vehicles Available Worldwide (47)
+Recent Comments
+Mac Rumors Articles
+• Apple Seeds First iOS 9.3 Beta to Public Beta Testers (47)
+• Apple Releases First OS X 10.11.4 El Capitan Beta to Public Beta Testers (20)
+• Bragi Dash Impressions: Wireless Earphones Offer Enough Quality Features to Counter Small Battery (108)
+• Apple Seeds iOS 9.3 Beta 1.1 to Developers With Fix for Installation Issue (41)
+• Apple Maintains Mac Sales Momentum Amid Overall Worldwide PC Market Decline (214)
+Mac Blog
+• 'Steve Jobs' Nominated for Best Supporting Actress and Best Actor Oscars (22)
+• Office 2016 for Mac Updated With Full Screen Outlook and More (80)
+• Steve Jobs' Thirtieth Birthday Present (49)
+• '1Password 6' for Mac Brings Revamped Password Generator, iCloud Sync for Non Mac App Store Version (51)
+• Physical 'Emoji Keyboard' for Macs and iOS Devices Lets You Type Emoji Faster (75)
+iOS Blog
+• Review: Pad & Quill's Oxford Case for iPad Pro Works With Apple's Smart Keyboard (13)
+• Dashlane 4 Debuts With Revamped Look, Five New Languages (9)
+• Apple Watch 'Magnetic Wristband' Patent Could Double as Protective Case (10)
+• Pokémon-Inspired 'Pocket Mortys' Game Hits the App Store Today (17)
+• Apple Obsoletes Older Beats Models as Push Towards Wireless Continues (48)
+Buying Tips
+• How much should I sell my iPad Air (1st Gen) for? (4)
+• Headphones for mac (3)
+• Apple Customer Relations experience? (27)
+• Which Mac for the fastest 4K ProRes export (6)
+• Wait until Skylake? (MBP) (30)
+Mac Hardware
+• 2012 i7 quad loses wifi connection (13)
+• Mac Mini - USB 3.0 Bus Saturation? (15)
+• Is the new Mac Pro a failure? (1685)
+• mini usb 3 and perhipherals/ input devices (4)
+• Considering 5,1 Mac Pro. Have questions (1)
+Mac Software
+• why my mp4 videos are dramatically reduced in size when transferred to my USB HD? (4)
+• VisualBoy Advance crashes when ROM is loaded (8)
+• iTunes 12 not grouping album compilations? (26)
+• Mail app brings deleted email back from the dead (2)
+• Safari - Show folders collapsed? (3)
+MacBook Air
+• MBA A1466, water damage, SMC problem? (10)
+• How soon are new Macbook Airs likely to come? (2)
+• Another 11" vs. 13" Post... (47)
+• Need display replaced (1)
+• Where can i get an SSD for Air 2013 13" for cheap (7)
+Apple TV
+• Airplay STOPS after aerial screensaver starts. Anyone else? (4)
+• Why 4K mattered on ATV4... (99)
+• Strange problem with my AppleTV and Netflix (3)
+• How about 4K/5K video via USBC? (2)
+• Subler - What is "Fix Audio Fallbacks"? (2)
+iPad
+• AT&T Unlimited Data Plan for iPad (340)
+• FYI 9.3 beta breaks Apple pencil (38)
+• How do you choose between notes apps? (14)
+• Quick Question about Smart Keyboard (5)
+• Charging using a USB-C to Lightning cable Apple's 29W USB-C charger (17)
+iPhone
+• Do the S models get slow? (73)
+• Was the 6s upgrade worth it? (60)
+• Proximity Sensor Issue (iPhone 6 | iOS 9.2) (2)
+• What colour 6s plus should I get? (34)
+• Post your iPhone 6/6+ Home Screens here! (NSFW possibility!) (1140)
+iPod Touch
+• iPod Touch or IPod Nano (4)
+• iPod shutting off and losing charge instantaneously (11)
+• Battery life a lot worse for iPT6 compared to iPT5 for everyone? (22)
+• Can't play my Apple Music library offline on iPod... (3)
+• How can I tell if my new iPod Touch has a defective battery? (2)
+iPod and iTunes
+• iPod Nano 7g Video Out (2)
+• Calling all iPod collectors... (1757)
+• Apple Music and iPod Nano (0)
+• Ipod Classic SSD alternative (10)
+• Installing an SSD into an iPod Classic in place of the hard drive (75)
+Mac Gaming
+• Age of Empires II HD & III (6)
+• Anyone else seeing terrible FPS with Cities: Skylines in OS X? (6)
+• Best controller for Mac gaming (9)
+• Star Wars Episode 1 Racer working on Mac? (22)
+• Ark: Survival Evolved (Early Access) (30)
+Mac Programming
+• Parsing /etc/hosts (2)
+• boot.efi developer's thread (928)
+• AppleScript not working but no error. Create new event in Calendar (1)
+• Script for extension-hide at folder-level (4)
+• Application Script, please (1)
+Mac OS X Server
+• Disabling SMB protocol on client Mac's (0)
+• Need ac wifi range extender (2)
+• network setup help (4)
+• Can't Stream Media on My Apple TV (0)
+• What's next after HFS+? (51)
+Digital Video
+• No sound when exporting iMovie project in HD (missing AAC codec) (1)
+• Share Your Short Films... (294)
+• How to burn my video from iMovie onto DVD (8)
+• iMovie/iDVD Update (7)
+• [ Short horror film ] Overtime working (0)
+Digital Photography
+• Loch More Salmon Ladder (2)
+• Photo of the Day January 2016 (220)
+• Thoughts on Pixlemator vs. Affinity Serif (2)
+• Weekly Photo Contest 1/3/16-1/10/16 Cityscape - Night (41)
+• Weekly Photo Contest Jan 11- Jan 18 The Panorama (10)
+Design & Graphics
+• Best Graphic Design School? (21)
+• What file type does client need for logo? (13)
+• Need advice from professional designers (9)
+• What do you think of my logo? Suggestions (14)
+• EPUB3 HELP NEEDED!!! Please... (4)
+Web Development
+• Anyone know about online appointment scheduling software? (11)
+• blogs for posting programming code (1)
+• I have three websites hosted in the US... (6)
+• This kind of site is made with?? (5)
+• Rails question - Constructing a table by columns (1)
+Other Mac Topics
+• DOWNLOADING THUMBNAILS (1)
+• What Will the Apple Car Be to Differentiate Itself? (13)
+• iCloud Storage (iphoto) (2)
+• Time machine skipping folders and files (1)
+• Appleworks (6)
+Other News
+• Alan Rickman dead at 69 (21)
+• Dawn is now in orbit around Ceres (27)
+• Pulmonary Embolism (36)
+• David Bowie dies at 69 (75)
+• Oldest Person in the World dies (285)
+Community
+• The Car Thread ... ! (3059)
+• What are you trying to keep yourself from buying? (178)
+• [WW] DAY 4 HAS BEGUN,KOODAUW HAS BEEN EATEN BY WOLVES. (436)
+• 2015-2016 NFL Season Thread (1439)
+• The 2015-2016 Football Thread (952)
+Site Comments
+• Where can I advertise my blog? (1)
+• Text being misinterpreted as user tag (2)
+• Where should I post? (1)
+• Greatest staff ever? (4)
+• Remove avatars next to post titles (12)
+MacRumors attracts a broad audience
+of both consumers and professionals interested in
+the latest technologies and products. We also boast an active community focused on
+purchasing decisions and technical aspects of the iPhone, iPod, iPad, and Mac platforms.
+Advertise on MacRumors
+Our Staff
+Arnold Kim
+Editorial Director
+Email • Twitter
+Eric Slivka
+Editor in Chief
+Email
+• Twitter
+Juli Clover
+Editor
+Email • Twitter
+Joe Rossignol
+Editor
+Email • Twitter
+Marianne Schultz
+Editor
+Email • Twitter
+Husain Sumra
+Contributing Editor
+Email • Twitter
+Mitchel Broussard
+Contributing Editor
+Email • Twitter
+Chris Jenkins
+Contributing Writer
+Email • Twitter
+Links
+Touch Arcade
+'2K Drive' Pulled from App Store, Online Features Shutting Down SoonEndless Horizontal Shoot 'Em Up 'Hectic Space 2' Looking for Beta Testers Ahead of February Launch'Mutant Mudds' Gets Long-Awaited Compatibility Update and Ghost Levels'Wayward Souls' and 'Five Card Quest' Updates from Rocketcat Games Release Today'Pocket Mortys' Guide - How to Capture Mortys, Craft Mind Control Chips and More'Guitar Hero Live' Bundle With Guitar on Sale for $49.99 on Amazon
+AppShopper
+Apple Announces New iPhone 6s with 3D TouchApple Announces iPad Pro with 12.9-inch Retina DisplayApple Announces iOS 9, Bringing Split-Screen Multi-tasking to iPadApple Announces Mac OS X 10.11 'El Capitan'Apple Watch Pre-Orders to Open on April 10, Available Starting on April 24Apple Announces New 12-inch MacBook with Retina Display
+Copyright © 2000- MacRumors.com, LLC. Privacy / DMCA contact / Affiliate and FTC Disclosure
+Mobile Version | Fixed | Fluid | Fluid HD

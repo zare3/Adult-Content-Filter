@@ -1,0 +1,80 @@
+https://www.usrportage.de
+/usr/portage — Lars Strojny
+/usr/portage
+Hello, my name is Lars Strojny. I’m the CTO at
+InterNations and a founder of akjumii. This blog is mostly about technology, though you’ll find
+some random musings about pop, politics and culture.
+More …
+Entries
+Random musings at /blog
+2
+Build queries for Lucene/Solr indexes in PHP
+We use Solr a lot at InterNations. Beside usual full text searches, we use it every time we need to receive documents nearly free of charge. It is fast, it is stable and, after some wrestling, our data import works very well as well.
+For more than a year we added more and more functionality to a component for building Solr/Lucene queries programmatically. We provide two different ways to …
+Read
+15
+Functional programming in PHP
+PHP has traditionally been a simple, procedural language that took a lot of inspiration from C and Perl. Both syntax wise and making sure function signatures are as convoluted as possible. PHP 5.0 introduced a proper object model but you know all of that already. PHP 5.3 introduced closures and PHP 5.4 improved closures very much (hint: $this is available per default).
+What is functional …
+Read
+0
+Polite Exceptions – Fixing the stepchild of API design
+Every API has an visible, an invisibile and a hidden part. The visible part is obvious: public methods and properties but also constants and parameter values. That’s the most visible part to any client (read: user) of your API. The invisible part is everything private, you can’t really see it and – more important – you can’t use it (except if you resort to …
+Read
+11
+The state of meta programming in PHP
+Quoting Wikipedia
+Metaprogramming is the writing of computer programs that write or manipulate other programs (or themselves) as their data, or that do part of the work at compile time that would otherwise be done at runtime
+Metaprogramming is quite an interesting sub-discipline and knowing about certain techniques and tools allows you to cut corners quite dramatically for certain …
+Read
+Visuals
+Snaps via flickr.com & instagram.com & facebook.com
+Tweets
+Chitchat via twitter.com
+At April 3rd 2013, 10:30:24 pm
+It’s @klimpong’s fault that github.com/InterNations/SolrUt… is now standalone.
+Traces
+Bookmarks via pinboard.in
+People: Your Most Agile Ingredient
+Filed under
+agile
+Heap - Modern Analytics
+Filed under
+analysis
+Database Soup: 20 Rules of Software Consulting
+Filed under
+software,
+consultants
+3v4l.org - online PHP codepad for 80+ PHP versions
+Filed under
+php
+Skill Matrix: Wie sich das Tool (in der Bewerbung) nutzen lässt | karrierebibel.de
+Filed under
+hr
+Contributions
+Latest contributions on github.com
+At April 4th 2013, 12:20:39 am
+lstrojny started following pdezwart
+At April 3rd 2013, 10:29:44 pm
+lstrojny pushed to master at InterNations/SolrQueryComponent
+At April 3rd 2013, 10:21:44 pm
+lstrojny pushed to master at InterNations/SolrUtils
+At April 3rd 2013, 10:20:31 pm
+lstrojny pushed to master at InterNations/SolrUtils
+At April 3rd 2013, 10:20:14 pm
+lstrojny pushed to master at InterNations/SolrUtils
+At April 3rd 2013, 10:13:25 pm
+lstrojny pushed to master at InterNations/SolrUtils
+On Heavy Rotation
+I’m currently addicted to this wonderful piece of music
+Tracks
+According to last.fm, these are the latest tracks I listened
+Harmonie UniverselleMisukalische Ergötzung No. 3 in E-Flat Minor: VI. Gigue
+Harmonie UniverselleMisukalische Ergötzung No. 6 in B-Flat Minor: III. Courant
+Harmonie UniversellePartie À 4 in F-Sharp Minor: V. Courante
+Harmonie UniversellePartie À 4 in F-Sharp Minor: VI. Sarabande
+Harmonie UniverselleMisukalische Ergötzung No. 3 in E-Flat Minor: IV. Gavotte
+Harmonie UniverselleMisukalische Ergötzung No. 6 in B-Flat Minor: VI. Gigue
+Harmonie UniverselleMisukalische Ergötzung No. 3 in E-Flat Minor: V. Saraband
+Harmonie UniverselleMisukalische Ergötzung No. 4 in E Minor: II. Aria
+Imprint

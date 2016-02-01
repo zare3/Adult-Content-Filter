@@ -1,0 +1,65 @@
+https://www.mslandbank.com
+Welcome To Mississippi Land Bank
+Welcome
+From short-term production loans to intermediate-term loans for equipment to long-term loans for a few acres or a few thousand acres — tell us what your needs are, and we’ll help you fulfill them.
+For over 90 years, Mississippi Land Bank has been providing the financing and refinancing solutions for families, individuals and groups who want to purchase rural land and need to finance that purchase. We also offer financing and refinancing solutions for improvements to that property, equipment to maintain the property, and loans for production, livestock and other related financial needs.
+Our knowledge of the territory, expertise in rural land values and operational needs, competitive interest rates, and a variety of loan options will work to your advantage.
+When you need
+any type of financing for rural property, from a homesite to a few thousand acres, call Mississippi Land Bank.
+We are not just about land; we offer financing solutions for your needs — for land and life.
+AG BANKING ONLINE
+Login(Required)
+Please enter Login ID
+Where do I enter my password?
+Sign me up!
+I'm locked out
+FAQ (.pdf)
+Tech Solutions (.pdf)
+Security Tips for Mobile Banking (.pdf)
+ACH Authorization (.pdf)
+Revised Ag Banking Online Disclosure Agreement (.pdf)
+UUX User Guide (.pdf)
+Breaking News
+Marshall County Clean-up
+January 6, 2016
+The storms from two weeks ago had a tremendous impact on the Marshall County area. Clean up and damage assessment is well underway.
+Read more
+Loan officer receives service and leadership award.
+October 13, 2015
+Cleveland branch loan officer Chris Williams receives the Chamber Award for Service and Leadership.
+The award was presented by the Michael Aguzzi, Chamber President at the Annual Cleveland-Bolivar County Chamber of Commerce banquet.
+Chris Williams completed the Leadership Bolivar County Class in 2014 and has been a part of various volunteer groups for Chamber events.
+Pictured left to right:
+Jeremy Alford (Leadership classmate), Michael Aguzzi, Chamber President and Chris Williams.
+Click on the photos to enlarge.
+Loan officer competes in Ruleville Roast and wins several awards and invitation to next level in Fort Worth, TX.
+September 25-26, 2015
+Clint Russell and Chris Williams competed in The Great Ruleville Roast cooking competition in Ruleville, MS. We had a very good weekend in the competition winning in the following areas:
+Steak competition – 1st Place
+Pulled Pork Competition – 1st Place
+Seafood / Fish Competition – 2nd Place
+Pork Loin Competition – 4th Place
+** Overall highest points for Friday night categories.
+Our win in the steak competition won us a trip to the National SCA Steak Cook-off in Fort Worth, TX Oct 23-24.
+The Land Bank sponsored the Ruleville Roast event for us and we advertised the Land Bank sign all weekend on the cooking rig,
+as well as feeding numerous Land Bank customers on Friday night. The exciting part is that we used the Land Bank Beef Seasoning on the steak that we turned in and will be using the same at the national cook-off in Fort Worth.
+Chris Williams is a loan officer in the Cleveland branch office.
+Click on the photos to enlarge.
+Lee County 4-H award.
+September 22, 2015
+Matthew Kimbrough attended the Lee County 4-H Awards Program. He serves on the 4-H Advisory Council for Lee County 4-H and we were awarded a small desk trophy for our dedication to Lee County 4-H for 2015. Matthew is an assistant vice president in the Tupelo branch office.
+Click on the photos to enlarge.
+MS Land Bank again sponsored Beefin up the Rebels.
+Watch Event Slide Show on YouTube
+Bill Cook, David Loftin, Ben Beavers, Matthew Kimbrough and Will Foley attended the National Association of Conservation Districts Southeast Regional Meeting August 2-4, 2015.
+MS Land Bank was a gold sponsor and had a booth at the event in addition to attending part of the meeting.
+Click on the photos to enlarge.
+MS Land Bank sponsored a breakfast at the 2015 Beef Improvement Federation Annual Meeting and Research Symposium on June 9-12 in Biloxi, MS
+VP Bill Cook attended the conference and MS Land Bank sponsored the breakfast.
+Click on the photos below to enlarge.
+More News
+EVENTS CALENDAR
+FEATURED CUSTOMER
+Town Creek Farm owner Milton Sundbeck and Marketing Director Joy Reznicek prepare for the farm’s Brangus and Ultrablack bull and heifer auction Oct. 19. Read more (.pdf)
+For more information, go to www.towncreekfarm.com
+var sprytextfield1 = new Spry.Widget.ValidationTextField("sprytextfield1");
